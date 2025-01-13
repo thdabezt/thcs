@@ -141,36 +141,38 @@
 
     async function loadSelectedQuizzes() {
   const selectedFiles = Array.from(fileListContainer.querySelectorAll('input:checked'))
-    .map(input => input.value);
+    .map(input => input.value); // Get selected files
 
   try {
     let combinedData = [];
 
     for (const file of selectedFiles) {
-      const response = await fetch(file);
+      const response = await fetch(file); // Fetch each selected quiz file
       const data = await response.json();
 
-      if (shuffleAnswersCheckbox.checked) {
-        const shuffledData = data.map(question => {
-          const { choices, newCorrectIndex } = shuffleArrayWithCorrect(question.choices, question.answer);
-          return { ...question, choices, answer: newCorrectIndex };
-        });
-        combinedData = combinedData.concat(shuffledData);
-      } else {
-        combinedData = combinedData.concat(data);
-      }
+      // Shuffle answers if the checkbox is checked
+      const processedData = shuffleAnswersCheckbox.checked
+        ? data.map(question => {
+            const { choices, newCorrectIndex } = shuffleArrayWithCorrect(question.choices, question.answer);
+            return { ...question, choices, answer: newCorrectIndex };
+          })
+        : data;
+
+      combinedData = combinedData.concat(processedData); // Merge quiz data
     }
 
+    // Shuffle questions if the checkbox is checked
     if (shuffleQuestionsCheckbox.checked) {
       combinedData = shuffleArray(combinedData);
     }
 
-    quizData = combinedData;
-    loadQuiz();
+    quizData = combinedData; // Set global quiz data
+    loadQuiz(); // Load the quiz into the UI
   } catch (error) {
     console.error('Error loading quiz data:', error);
   }
 }
+
 
 
     function loadQuiz() {
