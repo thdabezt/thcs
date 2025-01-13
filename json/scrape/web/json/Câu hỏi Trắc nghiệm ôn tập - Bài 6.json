@@ -1,0 +1,237 @@
+[
+    {
+        "question": "Mục đích của phân tích cú pháp là",
+        "choices": [
+            "Phát hiện ra các lỗi nghữ nghĩa trước khi chạy chương trình",
+            "Phát hiện ra các lỗi không đúng quy cách của chương trình",
+            "Phát hiện ra các đối tượng cơ bản được đặt tên trong chương trình"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Có các khẳng định sau đây về chương trình dịch\n(comliler), khẳng định nào sai:",
+        "choices": [
+            "Chương trình dịch giúp tìm ra tất cả các lỗi của chương trình",
+            "Chương trình dịch cho phép chuyển chương trình về ngôn ngữ máy để máy tính có thể thực hiện được mà vẫn bảo toàn được ngữ nghĩa",
+            "Với cùng một ngôn ngữ lập trình, trên mỗi loại máy tính hoặc hệ điều hành khác nhau, cần một chương trình dịch khác nhau",
+            "Chương trình dịch giúp có thể lập trình trên một ngôn ngữ tự nhiên hơn, do đó giảm nhẹ được công sức làm phần mềm"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ lập trình là một hệ thống ký hiệu và\ncác quy tắc diễn đạt thuật toán để máy tính có thể hiểu được. Cách diễn đạt bằng\nsơ đồ khối có thể coi là một ngôn ngữ lập trình hay không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Định nghĩa nào xác đáng nhất về ngôn ngữ bậc cao\n(ngôn ngữ thuật toán)",
+        "choices": [
+            "Là loại ngôn ngữ tự nhiên máy không chạy trực tiếp được. Trước khi chạy phải dịch ra ngôn ngữ máy thì máy tính mới có thể xử lý được các thuật toán",
+            "Ngôn ngữ dưới dạng văn bản thể thiện thuật toán theo những quy ước không phụ thuộc vào các máy tính cụ thể",
+            "Ngôn ngữ với mục đích diễn đạt thuật toán",
+            "Là loại ngôn ngữ có thể diễn đạt được mọi thuật toán"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Câu nào đúng khi nói về hợp ngữ?",
+        "choices": [
+            "Khi viết hợp ngữ cần quan tâm đến tất cả địa chỉ các đối tượng trong bộ nhớ.",
+            "Máy tính có thể trực tiếp chạy được hợp ngữ không cần biên dịch qua ngôn ngữ máy.",
+            "Hợp ngữ chỉ dùng mã nhị phân hoặc thập lục phân để viết lệnh.",
+            "Hợp ngữ có thể viết lệnh dưới dạng mã chữ tiếng Anh."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Có thể hiểu lỗi ngữ nghĩa là lỗi gây ra những\ntình trạng làm cho máy tính không thể chạy bình thường hoặc làm cho máy chạy\nsai ý định. Có phải lỗi ngữ nghĩa nào cũng được máy tính tự phát hiện khi chạy\ntương tự như lỗi chia cho 0 hay không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Có các khẳng định sau đây về chương trình dịch,\nkhẳng định nào sai:",
+        "choices": [
+            "Chương trình dịch giúp tìm ra tất cả các lỗi của chương trình",
+            "Chương trình dịch là một chương trình ngôn ngữ máy",
+            "Chương trình dịch cho phép chuyển chương trình về ngôn ngữ máy để máy có thể thực hiện được mà vẫn bảo toàn được ngữ nghĩa",
+            "Chương trình dịch giúp có thể lập trình trên một ngôn ngữ tự nhiên hơn, do đó giảm nhẹ được công sức của người lập trình"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Câu nào đúng nhất trong định nghĩa một ngôn ngữ\nlập trình nói chung",
+        "choices": [
+            "Là ngôn ngữ có tên là \"ngôn ngữ thuật toán\" hay còn gọi là \"ngôn ngữ bậc cao\" gần với ngôn ngữ toán học cho phép mô tả cách giải quyết vấn đề độc lập với máy tính",
+            "Là ngôn ngữ diễn đạt giải thuật để có thể giao cho máy tính thực hiện",
+            "Là ngôn ngữ đặc thù cho từng loại máy tính có dưới dạng nhị phân hay dạng ký hiệu của assembly để máy tính có thực hiện",
+            "Là ngôn ngữ cho phép thể hiện các dữ liệu trong bài toán mà các chương trình sẽ phải xử lý"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ lập trình là:",
+        "choices": [
+            "Là ngôn ngữ nhị phân vì máy tính chỉ hiểu được các mã nhị phân.",
+            "Là các ngôn ngữ giải thuật còn được gọi là ngôn ngữ cấp cao.",
+            "Là phương tiện diễn đạt các giải thuật có thể chuyển giao cho máy tính thực hiện",
+            "Là hợp ngữ và cần phải có chương trình dịch để dịch sang ngôn ngữ máy"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Chọn phương án tốt nhất trong định nghĩa về hợp\nngữ (assembly). Hợp ngữ là loại ngôn ngữ",
+        "choices": [
+            "Là ngôn ngữ có các lệnh được viết trong mã chữ nhưng về cơ bản mỗi lệnh tương đương với một một lệnh máy. Để chạy được cần dịch ra ngôn ngữ máy",
+            "Máy tính có thể thực hiện được trực tiếp không cần dịch",
+            "Là ngôn ngữ lập trình mà các lệnh không viết trực tiếp bằng mã nhị phân",
+            "Là loại ngôn ngữ không viết bằng mã nhị phân được thiết kế cho một số loại máy có thể chạy trực tiếp dưới dạng chữ"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ máy là",
+        "choices": [
+            "Là ngôn ngữ mà chương trình phải chuyển sang mã nhị phân trước khi chạy",
+            "Là các ngôn ngữ mà sau khi dịch sang hệ nhị phân thì máy có thể chạy được",
+            "Là ngôn ngữ thể hiện các chương trình mà mỗi chương trình là một dãy lệnh máy trong hệ nhị phân",
+            "Là bất cứ ngôn ngữ lập trình nào mà có thể diễn đạt thuật toán để giao cho máy tính thực hiện"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ lập trình là",
+        "choices": [
+            "Là quy ước để diễn tả thuật toán để máy tính có thể thực hiện đựợc trực tiếp hay qua một biến đổi có thể tự động hoá được",
+            "Chỉ là một quy ước để diễn tả thuật toán",
+            "Một phần mềm phát triển để làm ra một chương trình máy tính",
+            "Chính là chương trình dịch"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Mục đích của phân tích từ vựng là",
+        "choices": [
+            "Phát hiện ra các lỗi không đúng quy cách của chương trình",
+            "Phát hiện ra các lệnh điều khiển trong chương trình",
+            "Phát hiện ra các biểu thức trong chương trình",
+            "Phát hiện ra các đối tượng để lập danh mục các đối tượng"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Câu nào sau đây mô tả không chính xác về chương trình dịch :",
+        "choices": [
+            "Trong quá trình dịch sẽ phát hiện lỗi ngữ nghĩa của chương trình nguồn.",
+            "Có thể dịch ở chế độ thông dịch hoặc biên dịch.",
+            "Lỗi cú pháp của chương trình nguồn sẽ được kiểm tra trong quá trình dịch.",
+            "Là một phần mềm có chức năng dịch các chương trình khác sang ngôn ngữ máy."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ lập trình là",
+        "choices": [
+            "Một phần mềm phát triển để làm ra một chương trình máy tính",
+            "Là quy ước để diễn tả thuật toán để máy tính có thể thực hiện đựợc trực tiếp hay qua một biến đổi có thể tự động hoá được",
+            "Chính là chương trình dịch",
+            "Chỉ là một quy ước để diễn tả thuật toán"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Bàn về các loại ngôn ngữ lập trình có các ý kiến sau đây.  Theo bạn ý kiến nào xác đáng nhất",
+        "choices": [
+            "Sử dụng hợp ngữ tốt hơn cả vì hợp ngữ cho phép can thiệp ở mức thấp như ngôn ngữ máy, mặc dù lập trình có khó hơn ngôn ngữ bậc cao nhưng dễ hơn nhiều so với ngôn ngữ máy",
+            "Sử dụng ngôn ngữ bậc cao là tốt nhất vì thời gian phát triển phần mềm nhanh và ít bị",
+            "Tuỳ từng trường hợp. Nói chung nên dùng ngôn ngữ bậc cao phù hợp với lĩnh vực ứng dụng vì hiệu suất phát triển phần mềm là cao nhất. Chỗ nào cần tối ưu mã chương trình thì mới dùng hợp ngữ. Nói chung không cần sử dụng ngôn ngữ máy vì hợp ngữ hầu như đã thể hiện chính ngôn ngữ máy",
+            "Sử dụng ngôn ngữ máy tốt hơn vì ta có thể can thiệp tốt nhất đến từng bước xử lý sơ cấp trong máy. Vì thế hiệu quả của phần mềm là cao nhât"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ lập trình là",
+        "choices": [
+            "Là phần mềm",
+            "PASCAL, C, BASIC, FORTRAN, COBOL",
+            "Là phương tiện để làm phần mềm cho máy tính",
+            "Là phương tiện diễn đạt các giải thuật để chuyển giao cho máy tính thực hiện"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Quá trình dịch chỉ tạo ra các mô đun đối tượng.\nĐể có một chương trình duy nhất, hoàn chỉnh và có thể chạy được còn cần phải\nliên kết (link). Trong các phát biểu sau, phát biểu nào sai:",
+        "choices": [
+            "Tất cả các mô đun đối tượng đều được sinh từ chương trình của người lập trình viết, cũng có thể được tạo sẵn từ trước",
+            "Quá trình liên kết không bao giờ có lỗi"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Điều nào là đúng trong các kết luận sau khi trả\nlời câu hỏi \"Sự khác nhau giữa biên dịch (compiler) và thông dịch\n(interpreter) là\"",
+        "choices": [
+            "Thông dịch chỉ tạo ra các lệnh mô phỏng, sau đó phải chạy chương trình mô phỏng",
+            "Biên dịch dùng với ngôn ngữ thuật toán còn thông dịch dùng với hợp ngữ",
+            "Thông dịch không cần tạo mã mà chạy đến lệnh nào thì tạo các lệnh để thi hành còn biên dịch phải dịch trước toàn bộ chương trình sang nhị phần thì mới có thể chạy được",
+            "Thông dịch có thể dùng với ngôn ngữ không phải ngôn ngữ lập trình, còn biên dịch thì chỉ làm việc với ngôn ngữ lập trình"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Các phần mềm sau đây, phần mềm nào là chương\ntrình dịch",
+        "choices": [
+            "Winword",
+            "Turbo Pascal hay Microsoft C",
+            "Từ điển Lạc Việt",
+            "Phần mềm dịch trực tuyến Google Translate dịch tự động qua internet"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Đánh dấu vào câu sai",
+        "choices": [
+            "Ngôn ngữ máy là ngôn ngữ mà các chương trình trên đó chính là dãy lệnh máy duới dạng nhị phân.",
+            "Để máy tính có thể chạy được các chương trình trên các ngôn ngữ nói trong Đáp án còn lại đều phải cần một chương trình dịch dịch ra dưới dạng máy tính có thể thực hiện được",
+            "Hợp ngữ (assembly) là ngôn ngữ về cơ bản có cấu trúc của ngôn ngữ máy nhưng địa chỉ và toán hạng có thể viết bằng mã chữ.",
+            "Ngôn ngữ thuật toán là ngôn ngữ chỉ nhằm vào diễn đạt giải thuật và không phụ thuộc vào các hệ máy tính cụ thể."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Trong các ý kiến sau, ý kiến nào xác đáng hơn cả",
+        "choices": [
+            "Sử dụng ngôn ngữ bậc cao là tốt nhất vì thời gian phát triển phần mềm nhanh hơn và ít mắc lỗi hơn",
+            "Sử dụng hợp ngữ tốt hơn vì hợp ngữ cho phép can thiệp sâu như mã máy mà vẫn không phải dùng mã số",
+            "Tuỳ từng trường hợp, nhưng nói chung nên dùng ngôn ngữ bậc cao để tăng hiệu suất phát triển phần mềm, thậm chí có thể kết hợp cả 3 loại ngôn ngữ trong một công việc",
+            "Sử dụng ngôn ngữ máy tốt hơn vì ta có thể can thiệp tới các xử lý tinh tế nhất, với việc điều khiển thực hiện từng lệnh máy. Vì thể hiệu quả sẽ cao hơn"
+        ],
+        "answer": 2,
+        "links": {}
+    }
+]

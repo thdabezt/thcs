@@ -1,0 +1,306 @@
+[
+    {
+        "question": "Tuyên bố nào đúng",
+        "choices": [
+            "Ngôn ngữ C là phần mềm phát triển",
+            "MicroSoft C là một phần mềm phát triển",
+            "Phần mềm hướng dẫn sử dụng ngôn ngữ C là một phần mềm phát triển",
+            "Bộ cài đặt MicroSoft C là một phần mềm phát triển"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động nào không thuộc công việc trong giai đoạn kiểm thử",
+        "choices": [
+            "Kiểm thử hệ thống",
+            "Kiểm thử mô hình",
+            "Kiểm thử tích hợp",
+            "Kiểm thử chấp nhận"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Khi mua thiết bị ngoại vi cho máy tính, thường có các đĩa CD đi kèm chứa chương trình điều khiển thiết bị đó. Các chương trình điều khiển thiết bị thuộc loại phần mềm nào",
+        "choices": [
+            "Phần mềm hệ thống",
+            "Phần mềm ứng dụng",
+            "Phần mềm hệ điều hành",
+            "Phần mềm chia sẻ (Shareware)"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Theo bạn, các phần mềm sau thuộc nhóm phần mềm nào: MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer",
+        "choices": [
+            "Nhóm phần mềm hệ thống",
+            "Nhóm phần mềm CSDL",
+            "Nhóm phần mềm ứng dụng",
+            "Nhóm phần mềm hệ điều hành"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Chọn câu đúng và đầy đủ nhất về khái niệm phần mềm",
+        "choices": [
+            "Là các chương trình để làm các chương trình khác",
+            "Là chương trình và dữ liệu",
+            "Là chương trình, cách tổ chức dữ liệu và tài liệu",
+            "Là chương trình và cách tổ chức dữ liệu"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Chọn câu đúng và đầy đủ nhất về khái niệm phần mềm",
+        "choices": [
+            "Là chương trình và cách tổ chức dữ liệu",
+            "Là chương trình, cách tổ chức dữ liệu và tài liệu",
+            "Là chương trình và dữ liệu",
+            "Là các chương trình để làm các chương trình khác"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Câu nào chưa đúng trong số các câu sau?",
+        "choices": [
+            "Phần mềm thương mại – commercial software: có đăng ký bản quyền : không cho phép sao chép dưới bất kỳ hình thức nào.",
+            "Phần mềm nguồn mở - Open source software: công bố một phần mã nguồn để mọi người tham gia phát triển",
+            "Phần mềm miễn phí - Freeware: cho phép người khác tự do sử dụng hoàn toàn hoặc theo một số yêu cầu bắt buộc. Ví dụ phải kèm tên tác giả …",
+            "Phần mềm chia sẻ - Shareware: có bản quyền, dùng thử trước khi mua. Nếu muốn tiếp tục sử dụng chương trình thì được khuyến khích trả tiền cho tác giả."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Chọn câu thích hợp để phân biệt giữa phần mềm ứng dụng và phần mềm hệ điều hành",
+        "choices": [
+            "Phần mềm hệ điều hành cần nhiều bộ nhớ hơn phần mềm ứng dụng để chạy",
+            "Phần mềm ứng dụng cần nhiều không gian trong đĩa cứng hơn phần mềm hệ điều hành để chạy",
+            "Phần mềm ứng dụng cần phần mềm hệ điều hành để chạy",
+            "Phần mềm hệ điều hành cần phần mềm ứng dụng để chạy"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Phát biểu nào sau đây không đúng?",
+        "choices": [
+            "Đĩa CD phần mềm đi cùng thiết bị chứa phần mềm hệ thống cho phép thiết bị được nhận diện và làm việc tốt với hệ điều hành.",
+            "Phần mềm ứng dụng bao gồm hệ điều hành, các chương trình điều khiển thiết bị...",
+            "Có rất nhiều các phần mềm hệ điều hành, tiêu biều như MS Windows, Linux, Unix...",
+            "Có hai loại phần mềm, đó là phần mềm hệ thống và phần mềm ứng dụng"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Các phần mềm MS Word, MS Excel, MS Access, MS PowerPoint, MS Internet Explorer thuộc nhóm phần mềm nào?",
+        "choices": [
+            "Nhóm phần mềm hệ thống.",
+            "Nhóm phần mềm CSDL.",
+            "Nhóm phần mềm hệ điều hành.",
+            "Nhóm phần mềm ứng dụng."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Một số phần mềm kiểm tra virus chạy trong chế độ thường trực. Mỗi khi chạy một chương trình lấy xuống từ Internet hay chạy một file bị nhiễm một loại virus nào đó nó liền dừng lại cảnh báo. Phần mềm này có được coi là phần mềm trí tuệ nhân tạo hay không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động nào không thuộc công việc bảo trì",
+        "choices": [
+            "Nâng cập thiết bị để tốc độ xử lý cao hơn",
+            "Bổ sung những chức năng cần thiết",
+            "Sửa giao diện cho đẹp và tiện lợi",
+            "Tìm và khắc phục lỗi"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Đâu là một ví dụ về phần mềm máy tính",
+        "choices": [
+            "Bộ nhớ RAM",
+            "Đĩa mềm",
+            "Đĩa CD",
+            "Hệ điều hành"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Trong 4 phần mềm sau đây, phần mềm nào có thể thuộc loại tiện ích",
+        "choices": [
+            "Sao lưu dữ liệu vào ổ đĩa cứng dự phòng",
+            "In ra tình hình chi tiêu hàng tuần",
+            "Sao chép các bản vẽ kỹ thuật từ các máy của các nhân viên lên máy của tổ trưởng kỹ thuậ t",
+            "Thông báo công văn hàng ngày"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Khi ghi file trên đĩa, có cơ chế thu hồi các vùng đĩa khi xóa file và các vùng đĩa đó được phân phối lại cho các file khác. Điều này dẫn đến file có thể bị ghi trên nhiều vùng đĩa rời nhau làm việc truy cập file bị chậm. Trên Windows có phần mềm dồn đĩa (defragment), cho phép dồn các phân mảnh của file vào các vùng kế tiếp nhau để tăng hiệu quả truy cập đĩa. Phần mềm này là loại phần mềm nào.",
+        "choices": [
+            "Phần mềm thời gian thực",
+            "Phần mềm nhúng",
+            "Phần mềm tiện ích",
+            "Phần mềm hệ thống"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Hệ điều hành là",
+        "choices": [
+            "Là phần mềm tiện ích",
+            "Là phần mềm nhúng",
+            "Là phần mềm ứng dụng",
+            "Phần mềm hệ thống"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Tại sao hàng năm luôn xuất hiện các phiên bản phần mềm mới? Nguyên nhân do",
+        "choices": [
+            "Nhà sản xuất đã bán hết các đĩa chương trình cũ, cần in thêm phiên bản mới để mở rộng thị trường",
+            "Người sử dụng muốn thay đổi phần mềm đang dùng.",
+            "Nhà sản xuất nâng cấp sản phẩm của mình.",
+            "Người sử dụng cần các phiên bản miễn phí để nâng cấp phần mềm cũ."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động nào không hợp lý trong giai đoạn viết phần mềm",
+        "choices": [
+            "Kiểm thử hệ thống",
+            "Kiểm thử tích hợp",
+            "Kiểm thử mô hình",
+            "Kiểm thử chấp nhận"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động thiết kế nào không thuộc công việc phát triển phần mềm",
+        "choices": [
+            "Thiết kế giao diện",
+            "Thiết kế mạng máy tính",
+            "Thiết kế chức năng",
+            "Thiết kế dữ liệu"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Bạn có thể đã biết phần mềm thi trắc nghiệm online. Trên màn hình sẽ có các câu hỏi với nhiều phương án lựa chọn. Người thi sẽ đánh dấu vào ô thích hợp. Khi hết thời gian người thi sẽ được công bố số điểm đã đạt được. Phần mềm này có được coi là phần mềm trí tuệ nhân tạo hay không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động nào không thuộc công việc bảo trì phần mềm",
+        "choices": [
+            "Bổ sung những chức năng cần thiết",
+            "Nâng cấp hệ điều hành để phần mềm chạy ổ định hơn",
+            "Sửa giao diện cho đẹp và tiện lợi",
+            "Tìm và khắc phục lỗi"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động nào không thuộc công việc bảo trì phần mềm",
+        "choices": [
+            "Bổ sung những chức năng cần thiết",
+            "Sửa giao diện cho đẹp và tiện lợi",
+            "Nâng cấp hệ điều hành để phần mềm chạy ổ định hơn",
+            "Tìm và khắc phục lỗi"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Phần mềm nào sau đây có thể đọc các file định PDF?",
+        "choices": [
+            "Microsoft Excel.",
+            "Paint.",
+            "Winzip.",
+            "Foxit Reader."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Phần mềm là gì",
+        "choices": [
+            "Là thiết kế của các chương trình máy tính",
+            "Là chương trình máy tính",
+            "Là tất cả những gì không phải là thiết bị",
+            "Chương trình, cấu trúc dữ liệu và tài liệu"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Phần mềm là gì",
+        "choices": [
+            "Là tất cả những gì không phải là thiết bị",
+            "Chương trình, cấu trúc dữ liệu và tài liệu",
+            "Là thiết kế của các chương trình máy tính",
+            "Là chương trình máy tính"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Ngôn ngữ lập trình là :",
+        "choices": [
+            "Phương tiện diễn đạt thuật tóan có thể sử dụng để máy tính thực hiện công việc",
+            "PASCAL và C",
+            "Phương tiện để sọan thảo văn bản trong đó có chương trình",
+            "Phương tiện diễn đạt thuật toán nói chung"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trình duyệt (Browser) dùng để truy nhập WEB là loại phần mềm nào",
+        "choices": [
+            "Ứng dụng",
+            "Nhung",
+            "Hệ thống",
+            "Ứng dụng quản lý"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Phần mềm Windows, Linux và OS2 có đặc điểm gì chung",
+        "choices": [
+            "Tất cả đều là dịch vụ dải tần rộng (Broadband Service).",
+            "Tất cả đều là phần mềm ứng dụng.",
+            "Tất cả đều là hệ điều hành.",
+            "Tất cả đều là thiết bị phần cứng."
+        ],
+        "answer": 2,
+        "links": {}
+    }
+]

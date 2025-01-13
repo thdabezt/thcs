@@ -1,0 +1,258 @@
+[
+    {
+        "question": "Dịch vụ nào phổ biến nhất trên Internet hiện nay",
+        "choices": [
+            "Chat",
+            "FTP",
+            "Diễn đàn",
+            "Email",
+            "WWW"
+        ],
+        "answer": 4,
+        "links": {}
+    },
+    {
+        "question": "Lợi thế của mua hàng trực tuyến so với mua hàng bình thường ở cửa hàng là gì?",
+        "choices": [
+            "Việc xác định tình trạng của hàng hóa dễ dàng hơn.",
+            "Hàng hóa đã mua dễ trả lại hơn.",
+            "Việc thanh toán đảm bảo an ninh hơn.",
+            "Có thể mua hàng trong suốt 24h trong một ngày."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Máy tính nối và cung cấp các dịch vụ cho các máy PC khác gọi là",
+        "choices": [
+            "Server (máy chủ)",
+            "Mainframe (máy tính lớn)",
+            "Workstation (máy trạm)",
+            "Máy tính mini (máy tính tầm trung)"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Định nghĩa nào chính xác nhất về mạng Internet về phương diện tin học",
+        "choices": [
+            "Là mạng của các mạng, có quy mô toàn cầu",
+            "Là môi trường truyền thông toàn cầu dựa trên kỹ thuật máy tính",
+            "Là mạng sử dụng chung cho mọi người, có rất nhiều dữ liệu phong phú",
+            "Là mạng rộng có quy mô toàn cầu hoạt động dựa trên giao thức TCP/IP"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Internet là",
+        "choices": [
+            "Mạng diện rộng",
+            "Mạng cục bộ",
+            "Mạng có dây"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Thuật ngữ “Thương mại điện tử” nghĩa là",
+        "choices": [
+            "Mua và bán hàng qua mạng máy tính Internet.",
+            "Dùng các thiết bị điện tử trong khi mua hàng",
+            "Bán các mặt hàng điện tử trên mạng",
+            "Mua và bán các mặt hàng điện tử"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Dịch vụ nào cho phép sử dụng máy tính từ xa",
+        "choices": [
+            "Telnet",
+            "WWW",
+            "Chat",
+            "Diễn đàn",
+            "Email"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Địa chỉ  172.16.3.63 là địa chỉ",
+        "choices": [
+            "Lớp A",
+            "Lớp B",
+            "Lớp C",
+            "Lớp D"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Địa chỉ 192.168.3.63 là địa chỉ",
+        "choices": [
+            "Lớp A",
+            "Lớp C",
+            "Lớp D",
+            "Lớp B"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Trong các thể hiện sau đây, cái nào không phải là một địa chỉ IP",
+        "choices": [
+            "1.1.1.1",
+            "168.315.29.123",
+            "255.255.255.255",
+            "172.164.25.78"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "URL (Uniform Resource Locator) dùng để chỉ định\ncách thức liên hệ với các tài liệu ở các máy trên mạng Internet. URL chứa",
+        "choices": [
+            "Đường dẫn của file và tham số nếu gọi ứng dụng",
+            "Cả A và B",
+            "Địa chỉ máy trên mạng",
+            "Cả A, B và C",
+            "Giao thức ứng dụng"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Khi nói về ưu điểm của làm việc từ xa (Tele-working), ý nào sau đây không đúng?",
+        "choices": [
+            "Tăng cường sự liên hệ trực tiếp",
+            "Giảm không gian văn phòng",
+            "Giảm thời gian đi lại",
+            "Tập trung vào công việc cao hơn"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Thuật ngữ kỹ thuật trong mua và bán hàng qua mạng Internet là gì",
+        "choices": [
+            "Hệ thống điện tử (E-system)",
+            "Mạng điện tử (E-network)",
+            "Thương mại Internet (I-Commerce)",
+            "Thương mại điện tử (E-commerce)"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Trong các đáp án sau, đáp án nào không thể là một địa chỉ IP :",
+        "choices": [
+            "12.5.125.1",
+            "148.62.4.212",
+            "34.2.264.12",
+            "122.0.12.8"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Người ta nói Internet là mạng chạy theo giao thức TCP/IP. Giao thức IP (Internet Protocol) liên quan tới",
+        "choices": [
+            "Cắt một bản tin ra thành các gói, chuyển các gói đi riêng biệt rồi ghép lại ở nơi nhận",
+            "Cơ chế dẫn đường cho các gói tin thông qua các máy dẫn đường (router)",
+            "Cả \"Cắt một bản tin ra thành các gói, chuyển các gói đi riêng biệt rồi ghép lại ở nơi nhận\"và \"Cơ chế định địa chỉ cho các máy tham gia mạng\"",
+            "Cơ chế định địa chỉ cho các máy tham gia mạng",
+            "Cả \"Cơ chế định địa chỉ cho các máy tham gia mạng\" và \"Cơ chế dẫn đường cho các gói tin thông qua các máy dẫn đường (router)\""
+        ],
+        "answer": 4,
+        "links": {}
+    },
+    {
+        "question": "DNS (Domain name service) là giao thức để",
+        "choices": [
+            "A và B",
+            "Đọc địa chỉ cho dễ",
+            "Từ dịch địa chỉ dưới dạng tên miền chuyển thành địa chỉ IP",
+            "B và C",
+            "Từ địa chỉ IP chuyển thành địa chỉ dạng tên miền"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Định nghĩa nào chính xác nhất về mạng Internet về\nphương diện tin học",
+        "choices": [
+            "Là mạng rộng có quy mô toàn cầu hoạt động dựa trên giao thức TCP/IP",
+            "Là mạng của các mạng, có quy mô toàn cầu",
+            "Là môi trường truyền thông toàn cầu dựa trên kỹ thuật máy tính",
+            "Là mạng sử dụng chung cho mọi người, có rất nhiều dữ liệu phong phú"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Máy tính cung cấp các dịch vụ cho các máy tính\ncá nhân gọi là",
+        "choices": [
+            "Server (máy chủ)",
+            "Mid-range computer (máy tính tầm trung)",
+            "Mainframe (máy tính lớn)",
+            "Workstation (máy trạm)"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Email là viết tắt của",
+        "choices": [
+            "Electronic Mail",
+            "Exchange Mail",
+            "Electrical Mail",
+            "Else Mail"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Từ trình duyệt trong phần URL một người gõ vào dòng sau http://vnu.edu.vn/uet/index.htm. Người này chờ kết quả nào",
+        "choices": [
+            "Chưa rõ kết quả",
+            "Mở trình thư tín cho phép gửi thư cho Trường Công nghệ (có tên trên mạng là uet)",
+            "Mở trang WEB index.htm trong đường dẫn uet của máy chủ có tên là vnu.edu.vn",
+            "Hiển thị thư viện tệp, danh mục các tệp có trong thư mục uet trong máy chủ có tên vnu.edu.vn để có thể tải (download) các tệp về máy trạm"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Bạn nhận được một bức thư điện tử chứa tệp tin đính kèm mà bạn không nhận biết ra, bạn sẽ xử lý thế nào trong tình huống này để đảm bảo an toàn?",
+        "choices": [
+            "Quét tập tin này bằng chương trình chống virus",
+            "Mở tệp tin này ra để kiểm tra loại tệp tin",
+            "Lưu bản sao tập tin này vào đĩa cứng và mở bản sao này",
+            "Chuyển thư này cho ai đó mà bạn nghĩ rằng bạn có thể nhận biết được"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Diễn đàn (forum) khác với thư điện tử (Email) ở\nchỗ nào",
+        "choices": [
+            "Gửi thông tin được cho đồng thời nhiều người",
+            "Người dùng có thể trả lời hoặc không",
+            "Đối tượng nhận tin được người gửi chỉ định trước"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Trong các thể hiện sau đây, thể hiện nào không\nphải là một địa chỉ IP",
+        "choices": [
+            "172.164.25.78",
+            "1.1.1.1",
+            "168.315.29.123",
+            "255.255.255.255"
+        ],
+        "answer": 3,
+        "links": {}
+    }
+]

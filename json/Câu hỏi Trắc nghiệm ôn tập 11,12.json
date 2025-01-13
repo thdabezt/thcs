@@ -1,0 +1,391 @@
+[
+    {
+        "question": "Trong công việc nào dưới đây, con người làm việc tốt hơn máy tính",
+        "choices": [
+            "Sản xuất tự động hóa",
+            "Làm nhiều tính toán phức tạp",
+            "Công việc ở nơi nguy hiểm",
+            "Nhận dạng các sự vật"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Quyền tác giả bao gồm quyền nhân thân và quyền sở hữu. Điều nào sau đây không phải quyền nhân thân:",
+        "choices": [
+            "Công bố tác phẩm, đem tác phẩm đi dự thi",
+            "Hủy bỏ tác phẩm, tuyên bố không chịu trách nhiệm về mọi quyền lợi, nghĩa vụ và không cho phép ai được sử dụng.",
+            "Bảo vệ sự toàn vẹn không cho sửa đổi tác phẩm",
+            "Đặt tên cho tác phẩm, đứng tên chính thức hoặc bút danh trên tác phẩm"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Tại sao máy tính xách tay có thể gây rủi ro cho an ninh của công ty?",
+        "choices": [
+            "Bởi vì thông tin trong máy tính xách tay không thể được bảo vệ bằng các chương trình chống virus.",
+            "Bởi vì chúng dễ bị hỏng hơn máy tính để bàn.",
+            "Bởi vì những người không được phép có thể đọc được những thông tin mật nếu máy tính bị lấy cắp.",
+            "Bởi vì thông tin không thể được lưu giữ theo cách thức mã hoá trong máy tính xách tay."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Một công ty sử dụng phần mềm mã nguồn mở cho khách hàng của mình. Ứng xử nào của công ty là hợp lý",
+        "choices": [
+            "Được thu tiên đối với những phát triển thêm và công dịch vụ",
+            "Được thu tiền về việc đã chuyển giao phần mềm đó giống như đã làm ra phần mềm đó",
+            "Không được thu tiền"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cơ chế lây của virus boot  là gì",
+        "choices": [
+            "Gây nhiễm trong file thông tin điều khiển của hệ điều hành",
+            "Do kết nối với Internet, người dùng tải về",
+            "Gây nhiễm vào một file nào đó, sau đó đưa file vào chế độ được khởi động tự động mỗi khi khởi động máy",
+            "Gây nhiễm trong đoạn mã khởi động của đĩa"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Tấn công từ chối dịch vụ là gì",
+        "choices": [
+            "Sửa chữa môi trường làm việc đê làm ngừng dịch vụ",
+            "Gửi thông báo nhiều đến mức làm hệ thống tê liệt vì quá tải",
+            "Gửi tham số sai để làm ngừng dịch vụ",
+            "Gửi thông báo đến yêu cầu dừng dịch vụ"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "4 điểm dưới đây là tính năng của vius. Điểm nào là điểm khác nhau giữa virus máy tính và sâu máy tính (computer worm)",
+        "choices": [
+            "Có khả năng gây tác hại",
+            "Có các cơ chế chống phát hiện",
+            "Có khả năng lây lan",
+            "Phải sống nhờ vật chủ như file hay vùng thông tin hệ thống của đĩa và tự thi hành để nhân bản"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Khi một cơ quan mua một chương trình máy tính, Trong những trường hợp nào chương trình này có thể được cài đặt miễn phí nội trong cơ quan đó",
+        "choices": [
+            "Khi cơ quan đó có dưới 10 nhân viên",
+            "Khi nó được sử dụng tối đa cho 3 máy tính một lúc",
+            "Khi chương trình này trị giá dưới 100 nghìn đồng",
+            "Khi có sự đồng ý bản quyền cho phép điều này."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Điểm nào không phải là hành vi tấn công từ chối dịch vụ (Denial of service attack)",
+        "choices": [
+            "Truy cập với một tần số cực cao để làm quá tải máy chủ dịch vụ hoặc quá tải mạng",
+            "Tấn công các thiết bị đảm bảo cho hoạt động của máy chủ dịch vụ để khi các thiết bị này bị khống chế thì máy chủ không còn an toàn nữa.",
+            "Gửi virus và máy chủ dịch vụ để các virus này làm rối loạn hệ thống hoặc tiêu tốn tài nguyên máy chủ dịch vụ",
+            "Thay đổi cấu hình hệ thống DNS để vô hiệu hoá truy cập tới máy chủ dịch vụ"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Trong những công việc dưới đây, công việc nào con người làm tốt hơn máy tính",
+        "choices": [
+            "Công việc ở nơi nguy hiểm.",
+            "Sản xuất tự động hóa.",
+            "Nhận dạng các sự vật.",
+            "Làm nhiều tính toán phức tạp."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Thư rác (spamming) là gì?",
+        "choices": [
+            "Gửi thư với những thông điệp vô giá trị hay vô văn hoá",
+            "Gửi thư với những thông điệp vô giá trị hay vô văn hoá",
+            "Gửi thư có mang virus",
+            "Gửi thư quảng cáo hoặc thông báo với một số lượng lớn mà không được sự đồng ý trước của người nhận"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Quyền tác giả bao gồm quyền nhân thân và quyền sở hữu. Điều nào sau đây không phải quyền nhân thân:",
+        "choices": [
+            "Hủy bỏ tác phẩm, tuyên bố không chịu trách nhiệm về mọi quyền lợi, nghĩa vụ và không cho phép ai được sử dụng.",
+            "Bảo vệ sự toàn vẹn không cho sửa đổi tác phẩm",
+            "Đặt tên cho tác phẩm, đứng tên chính thức hoặc bút danh trên tác phẩm",
+            "Công bố tác phẩm, đem tác phẩm đi dự thi"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Lời khuyên khi sử dụng mật khẩu máy tính là:",
+        "choices": [
+            "Mật khẩu dễ nhớ (ví dụ dùng ngày sinh, quê quán).",
+            "Mật khẩu ngắn, đơn giản.",
+            "Nếu hay quên thì nên ghi lại.",
+            "Không bao giờ cho người khác biết mật khẩu của bạn."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Điều nào không phải là tấn công từ chối dịch vụ",
+        "choices": [
+            "Làm sai lạc môi trường làm việc để làm ngừng dịch vụ",
+            "Truy cập nhiều đến mức làm hệ thống tê liệt vì quá tải",
+            "Tạo virus ở các máy của người truy cập để ngăn chặn việc truy cập tới dịch vụ"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Vấn đề sức khỏe phổ biến của người sử dụng máy tính là các chấn thương cổ tay. Nguyên nhân của chấn thương thông thường là gì?",
+        "choices": [
+            "Sử dụng bàn phím lâu.",
+            "Ghế không điều chỉnh.",
+            "Sử dụng hàng ngày một thiết bị đỡ cổ tay.",
+            "Vị trí màn hình đặt sai."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cơ chế lây của virus file  là gì",
+        "choices": [
+            "Gây nhiễm trong đoạn mã khởi động của đĩa để khi khởi động máy thì tìm các file nào được đưa ra chạy thì ghép mã virus vào đó",
+            "Do kết nối với Internet, người dùng tải về",
+            "Gây nhiễm trong file thông tin điều khiển của hệ điều hành",
+            "Gây nhiễm vào một file nào đó, khi thi hành, nó sẽ chiếm quyền ghi file của hệ điều hành để sau đó mỗi khi chạy một ứng dụng nào đó, file ứng dụng đó được ghép thêm mã của virus"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Đâu là một ví dụ của chính sách mật khẩu tốt",
+        "choices": [
+            "Không bao giờ cho người khác biết mật khẩu của bạn",
+            "Mật khẩu phải giống lý lịch người sử dụng (ví dụ ngày tháng năm sinh, quê quán)",
+            "Chọn một mật khẩu có ít hơn 6 mẫu tự",
+            "Chỉ thay đổi mật khẩu sau một thời gian dài"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Mục đích chủ yếu của chính sách an ninh thông tin của một tổ chức là gì",
+        "choices": [
+            "Theo dõi và kiểm soát thông tin, dữ liệu nhạy cảm",
+            "Quản lý việc đầu tư của công ty",
+            "Mô tả họat động kinh doanh",
+            "Thu nhập thông tin thị trường"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Nếu một máy tính bị nghi ngờ là nhiễm virus thì cách thức tốt nhất để kiểm tra và diệt virus là gì?",
+        "choices": [
+            "Cài đặt một chương trình chống virus, quét virus các ổ đĩa của máy tính và cho chương trình này loại bỏ virus.",
+            "Khởi động lại máy tính và sau đó xóa tất cả những tệp bị nghi ngờ nhiễm virus.",
+            "Lưu trữ dự phòng các tệp tin của máy tính và khôi phục chúng bằng việc sử dụng những tệp dự phòng này.",
+            "Cài đặt lại hệ điều hành, sau đó cài đặt lại tất cả các chương trình ứng dụng khác."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trong những tình huống hoặc lĩnh vực nào sau đây, con người làm việc tốt hơn máy tính",
+        "choices": [
+            "Những công việc được tự động hóa.",
+            "Nhận dạng.",
+            "Tính toán.",
+            "Những nơi nguy hiểm."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Tại sao không nên sao chép một trò chơi CD Rom mà bạn không có giấy đăng ký bản quyền",
+        "choices": [
+            "Bởi vì đó là quá trình phức tạp",
+            "Bởi vì máy tính có thể bị hư hại",
+            "Bởi vì những tệp tin trên đĩa CD gốc sẽ bị hỏng",
+            "Bởi vì đó là vi phạm bản quyền"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Điều nào sai",
+        "choices": [
+            "Tác giả có thể cho phép người khác đứng tên tác giả",
+            "Có người sở hữu nhưng không là tác giả",
+            "Người đâu tư nhưng không trực tiếp làm ra tác phẩm thì chỉ có quyền sở hữu mà không là tác giả",
+            "Có tác giả không có quyền sở hữu tác phẩm"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Công ty X mua một chương trình máy tính, chương trình này sẽ được cài đặt miễn phí trong nội bộ công ty trong trường hợp:",
+        "choices": [
+            "Khi nó được sử dụng tối đa cho 3 máy tính một lúc.",
+            "Khi công ty có dưới 10 nhân viên.",
+            "Khi chương trình này trị giá dưới 100 bảng (khoảng 2.2 triệu).",
+            "Khi bản quyền phần mềm cho phép điều này."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Điều nào sai khi nói về các đặc điểm của phần mềm\nvirus",
+        "choices": [
+            "Virus có các cơ chế chống phát hiện",
+            "Virus chỉ hoạt động trên hệ điều hành Windows",
+            "Virus có khả năng tự nhân bản để lây lan",
+            "Virus là các chương trình gây nhiễu hoặc phá hoại"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Virus máy tính",
+        "choices": [
+            "Là phần cứng dùng để phá hoại các phần khác",
+            "Hoạt động phần mềm bị sao chép trái phép",
+            "Là một chương trình máy tính",
+            "Là một loại nấm mốc gây hại trên bề mặt đĩa"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Câu nào dưới đây không đúng",
+        "choices": [
+            "Vi rút máy tính lây nhiễm khi sao chép qua đĩa mềm, đĩa CD",
+            "Vi rút máy tính lây nhiễm qua Internet",
+            "Vi rút máy tính lây nhiễm qua dùng chung máy tính",
+            "Vi rút máy tính lây nhiễm khi sao chép qua mạng"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Điều nào là không đúng trong các cơ chế phát tán của sâu (worm)",
+        "choices": [
+            "Tạo ra các link để bẫy người dùng nạp về",
+            "Gắn mã vào trong các file thi hành để lây khi thực hiện các file này",
+            "Sửa đổi các file cấu hình của hệ điều hành để phát động chương trình thực hiện nhân bản",
+            "Sửa đổi dịch vụ của hệ điều hành để nhân bản"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình hiện ra các thông báo kiểm tra bộ nhớ tốt, sau đó màn hình chuyển sang tối om. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Đèn trong phòng vẫn sáng. Điều gì có khả năng nhất",
+        "choices": [
+            "Màn hình hay card màn hình bị hỏng",
+            "Máy bị virus hay hỏng đĩa khởi động",
+            "Bản mạch chính của máy tính bị hỏng",
+            "Máy không cắm điện"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Hoạt động nào không phải là của Trojan",
+        "choices": [
+            "Xóa các file dữ liệu của người dùng",
+            "Lấy thông tin trong máy bị nhiễm báo ra ngoài",
+            "Xóa dấu vết truy cập",
+            "Mở cổng để người bên ngoài có thể truy cập được thông tin"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "X và Y trước đây cùng phát triển một phần mềm do X là người chủ trì. Sau nay hai người lập ra hai công ty khác nhau nhưng Y đăng ký bản quyền trước. Khi đó Y có vi phạm bản quyền không",
+        "choices": [
+            "Không",
+            "Có"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Điều gì mà tất cả các Virus máy tính đều có thể thực hiện?",
+        "choices": [
+            "Xóa các tệp chương trình trên đĩa cứng.",
+            "Tự nhân bản.",
+            "Lây nhiễm vào BOOT RECORD.",
+            "Phá huỷ CMOS."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Một người mua một bản (licence) một phần mềm nào đó nhưng anh ta có hai máy tính. Nếu anh ta cài trên cả hai máy chỉ cho chính bản thân dùng. Theo thông lệ quốc tế, việc đó có là bất hợp pháp không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Khi sử dụng hồ sơ điện tử thay cho hồ sơ giấy, ví dụ như bảng các câu hỏi trực tuyến. Bạn thấy ưu điểm nào sau đây nổi bật nhất?",
+        "choices": [
+            "Không bao giờ xảy ra sai sót.",
+            "Độ tin cậy gia tăng.",
+            "Việc tiêu thụ giấy giảm.",
+            "Quản lý an ninh tốt hơn."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Ai không phải là tác giả của phần mềm",
+        "choices": [
+            "Chủ đầu tư tiền thuê nhân công làm ra phần mềm",
+            "Người phân tích và thiết kế phần mềm",
+            "Người lập trình",
+            "Người không làm nhưng mua quyền sở hữu phần mềm"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Đâu là điểm giống nhau giữa Virus và Worm",
+        "choices": [
+            "Tồn tại như một file độc lập",
+            "Gắn vào một vật chủ là vùng khởi động của bộ nhớ ngoài hoặc một file thi hành",
+            "Có cơ chế để lây nhiễm"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Tại sao không nên sao chép một trò chơi từ đĩa CDROM mà không được sự cho phép của người/tổ chức sở hữu trò chơi này?",
+        "choices": [
+            "Bởi vì những tệp tin trên đĩa CD gốc sau bị hỏng.",
+            "Bởi vì đó là quá trình phức tạp.",
+            "Bởi vì máy tính có thể bị hư hại.",
+            "Bởi vì đó là vi phạm bản quyền."
+        ],
+        "answer": 3,
+        "links": {}
+    }
+]

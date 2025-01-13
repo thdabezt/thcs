@@ -1,0 +1,464 @@
+[
+    {
+        "question": "Chọn phương án đúng nhất khi nói về bit:",
+        "choices": [
+            "Đơn vị đo khối lượng kiến thức",
+            "Là đơn vị thông tin",
+            "Một số có 1 chữ số",
+            "Là chính chữ số 1"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong sản xuất phần cứng, để phù hợp với suy nghĩ của người tiêu dùng, nhà sản xuất định nghĩa theo hệ thập phân, 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB. Như vậy nếu một nhà sản xuất RAM ghi trên vỏ là 16 GB thì thực tế có bao nhiêu GB?",
+        "choices": [
+            "16.",
+            "14.90.",
+            "8.",
+            "15.99."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chọn câu đúng và đầy đủ nhất trong định nghĩa về byte sau đây",
+        "choices": [
+            "Là lượng thông tin đủ để mã hoá một chữ",
+            "Là một đại lượng đo thông tin bằng 8 bit",
+            "Là một dãy 8 chữ số",
+            "Là một bội số của đơn vị đo thông tin"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "1 byte bằng:",
+        "choices": [
+            "2 bit",
+            "8 bit",
+            "10 bit",
+            "16 bit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cùng một tín hiệu trong những hoàn cảnh khác nhau có thể chuyển tải các thông tin khác nhau",
+        "choices": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Để mã hóa một bức ảnh có 256 điểm ảnh cần dùng ít nhất bao nhiêu kilobyte biết mỗi điểm ảnh cần dùng 16 byte?",
+        "choices": [
+            "256.",
+            "16 .",
+            "4 .",
+            "8 ."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Điều nào sai khi nói về xử lý thông tin là",
+        "choices": [
+            "Có căn cứ cho các quyết định",
+            "Tìm ra những hình thức thể hiện mới của thông tin phục vụ cho các hoạt động thực tiễn",
+            "Tăng thêm lượng tin để tăng hiểu biết"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chọn câu chính xác nhất trong định nghĩa về bit sau đây",
+        "choices": [
+            "Là đơn vị thông tin có thể thể hiện qua một chữ số nhị phân trong một mã hoá nhị phân",
+            "Là chữ số nhị phân hoặc 0 hoặc 1",
+            "Là các ký hiệu để mã hoá thông tin dưới dạng số",
+            "Tất cả đáp án còn lại đều sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Nếu dùng mã có độ dài 5 kí tự trong mã hóa nhị phân thì có thể tạo ra bao nhiêu mã khác nhau?",
+        "choices": [
+            "16.",
+            "32.",
+            "5.",
+            "8."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Điều nào đúng trong các khẳng định sau:",
+        "choices": [
+            "Thông tin rời rạc không thể có vô hạn giá trị",
+            "Thông tin rời rạc có thể mã hoá được bằng bộ chữ hữu hạn",
+            "Mọi thông tin rời rạc đều là thể hiện cụ thể của các thông tin liên tục",
+            "Thông tin rời rạc nếu có vô hạn giá trị thì không thể mã hoá bằng bộ chữ hữu hạn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong sản xuất phần cứng, để phù hợp với suy nghĩ của người tiêu dùng, nhà sản xuất định nghĩa theo hệ thập phân, 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB. Như vậy nếu một nhà sản xuất ổ đĩa cứng ghi trên vỏ là 1 TB thì thực tế có bao nhiêu GB?",
+        "choices": [
+            "1000.",
+            "1024.",
+            "899.89.",
+            "931.32."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "1 kilobyte bằng:",
+        "choices": [
+            "1024 bit",
+            "1024 MB",
+            "1204 byte",
+            "1024 byte"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một bit là",
+        "choices": [
+            "Là đơn vị thông tin",
+            "Chữ số 1",
+            "Một số 1 chữ số",
+            "Đơn vị đo khối lượng kiến thức"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Thông tin là gì?",
+        "choices": [
+            "Là tất cả những gì mang lại cho con người hiểu biết.",
+            "Là dữ liệu của máy tính.",
+            "Là các tín hiệu vật lý.",
+            "Là tin tức thu nhận được qua các phương tiện truyền thông."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Có một tập hợp gồm 500 đối tượng. Trong mã hoá nhị phân cần bao nhiêu bít để có thể mã hoá được các đối tượng của tập hợp này",
+        "choices": [
+            "10",
+            "Chưa rõ",
+            "6",
+            "9"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bảng chữ cái của mã hóa lục thập phân cần bao nhiêu kí tự khác nhau?",
+        "choices": [
+            "13.",
+            "2.",
+            "10.",
+            "60."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Phương án trả lời nào đúng nhất cho giá mang tin là",
+        "choices": [
+            "Tất cả các phương tiện có thể lưu trữ thông tin",
+            "Các cấu trúc vật chất",
+            "Năng lượng",
+            "Bộ nhớ của máy tính điện tử"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Dữ liệu là",
+        "choices": [
+            "Chính là thông tin về đối tượng được xét",
+            "Là mã hoá nhị phân của thông tin",
+            "Là các số liệu",
+            "Là hình thức thể hiện của thông tin trong mục đích lưu trữ, truyền và xử lý thông tin"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong những điều sau đây nói về về Kilobyte (KB), điều nào đúng",
+        "choices": [
+            "Đơn vị  đo dung lượng bộ nhớ tính theo 1000 ký tự",
+            "Đơn vị đo lượng tin bằng 1000 byte",
+            "Đơn vị đo tốc độ của máy tính",
+            "Đơn vị đo lượng tin lớn hơn 1000 byte"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một tệp âm thanh có kích thước 2 MB khi nén với định dạng MP3, nó giảm kích thước đi 11 lần. Hỏi kích thước của tệp tin nén khoảng bao nhiêu KB?",
+        "choices": [
+            "186.",
+            "2.",
+            "189.",
+            "2048."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Độ dài là thông tin",
+        "choices": [
+            "Rời rạc",
+            "Không phải \"Liên tục\" và \"Rời rạc\"",
+            "Liên tục",
+            "Cả \"Liên tục\" và \"Rời rạc\""
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Điện áp là thông tin",
+        "choices": [
+            "Liên tục",
+            "Cả \"Liên tục\" và \"Rời rạc\"",
+            "Rời rạc",
+            "Không phải \"Liên tục\" và \"Rời rạc\""
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Định nghĩa nào đúng nhất về dữ liệu:",
+        "choices": [
+            "Là hình thức thể hiện của thông tin trong mục đích lưu trữ, truyền và xử lý thông tin",
+            "Là mã hoá của thông tin",
+            "Chính là thông tin về đối tượng được xét",
+            "Các số liệu"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Danh sách học sinh của một lớp là thông tin",
+        "choices": [
+            "Không phải \"Liên tục\" và \"Rời rạc\"",
+            "Liên tục",
+            "Cả \"Liên tục\" và \"Rời rạc\"",
+            "Rời rạc"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Ngoài định nghĩa đúng “dữ liệu là hình thức thể hiện của thông tin trong mục đích lưu trữ, truyền và xử lý thông tin”, còn có các định nghĩa khác nữa. Trong các định nghĩa sau đây, xét về bản chất định nghĩa nào có thể chấp nhận được về dữ liệu",
+        "choices": [
+            "Là đối tượng xử lý của máy tính",
+            "Là mã hoá của thông tin trong hệ đếm cơ số 2",
+            "Các số liệu\ttrong hệ đếm cơ số 2"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chữ viết tắt MB thường gặp trong các tài liệu về máy tính có nghĩa là gì:",
+        "choices": [
+            "là đơn vị đo khả năng lưu trữ",
+            "là đơn vị đo độ phân giải màn hình",
+            "là đơn vị đo tốc độ xử lý",
+            "là đơn vị đo cường độ âm thanh"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn câu đúng?",
+        "choices": [
+            "Ảnh bit map lưu trữ từng điểm ảnh.",
+            "Ảnh vector là nén ảnh của anh bit map.",
+            "Để lưu trữ một đường thẳng, ảnh bit map chỉ lưu lại tọa độ các đầu mút.",
+            "Ảnh raster thể hiện cách vẽ."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đơn vị nào tương đương với 1024 MB?",
+        "choices": [
+            "TB.",
+            "GB.",
+            "Byte.",
+            "KB."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Có người đưa ra các lý do sử dụng hệ đếm nhị phân với máy tính. Trong các lý do sau, lý do nào kém thuyết phục nhất",
+        "choices": [
+            "Tính toán trên hệ nhị phân đơn giản",
+            "Hai trạng thái phù hợp với việc mã hoá các giá trị logic mà đại số logic là một công cụ đắc lực trong thiết kế các mạch chức năng",
+            "Lý do kỹ thuật do các linh kiện vật lý có hai trạng thái",
+            "Hệ đếm cơ số 2 là hệ đếm có cơ số nhỏ nhất"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nhiều tín hiệu khác nhau có thể chuyển tải một nội dung thông tin",
+        "choices": [
+            "Đúng",
+            "Sai"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn ra định nghĩa đúng cho tín hiệu.",
+        "choices": [
+            "Tín hiệu là hình thức vật lý của thông tin.",
+            "Tín hiệu là môi trường chuyển tải thông tin.",
+            "Tín hiệu là “cái đã cho”.",
+            "Tín hiệu là vật thể có thể mang thông tin."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đơn vị đo lượng tin là",
+        "choices": [
+            "Hz",
+            "GHz",
+            "KHz",
+            "bit"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Tin học là gì?",
+        "choices": [
+            "Áp dụng máy tính trong các hoạt động xử lý thông tin",
+            "Khoa học xử lý thông tin tự động dựa trên máy tính điện tử",
+            "Lập chương trình cho máy",
+            "Máy tính và các công việc liên quan đến chế tạo máy tính điện tử"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Cần bao nhiêu bít để mã hoá các trạng thái của một con xúc sắc 6 mặt",
+        "choices": [
+            "1",
+            "2",
+            "3",
+            "6"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong định nghĩa CNTT trong bộ luật CNTT của Việt nam có nói: \"Công nghệ thông tin là tập hợp các các phương pháp khoa học, công nghệ và công cụ kỹ thuật hiện đại để sản xuất, truyền, thu thập, xử lý, lưu trữ và trao đổi thông tin số.\". Bạn hiểu thế nào là thông tin số",
+        "choices": [
+            "Tất cả đáp án còn lại đều sai",
+            "Là các thông tin có nguồn gốc từ đo đạc bằng số",
+            "Là các thông tin được mã hoá dưới dạng số",
+            "Là các thông tin có bản chất chính là số"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Định nghĩa nào đúng nhất về đơn vị  Byte",
+        "choices": [
+            "Là lượng tin đủ để mã hoá được một chữ trong một bảng chữ cái nào đó",
+            "Là một đơn vị quy ước theo truyền thống về đơn vị đo lượng tin",
+            "Là lượng tin 8 bít",
+            "Là một đơn vị đo dung lượng bộ nhớ của máy tính"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chọn định nghĩa chính xác nhất về thông tin",
+        "choices": [
+            "Là tin tức thu nhận được qua các phương tiện truyền thông",
+            "Là dữ liệu của máy tính",
+            "Là các tín hiệu vật lý",
+            "Là tất cả những gì mang lại cho con người hiểu biết"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Trong sản xuất phần cứng, để phù hợp với suy nghĩ của người tiêu dùng, nhà sản xuất định nghĩa theo hệ thập phân, 1 KB = 1000 B, 1 MB = 1000 KB, 1 GB = 1000 MB. Như vậy nếu một nhà sản xuất RAM ghi trên vỏ là 8 GB thì thực tế có bao nhiêu GB?",
+        "choices": [
+            "8.",
+            "10.",
+            "6.95.",
+            "7.45."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nếu dùng mã có độ dài 3 kí tự trong mã hóa bát phân thì có thể tạo ra bao nhiêu mã khác nhau?",
+        "choices": [
+            "512.",
+            "256.",
+            "1024.",
+            "2048."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Để mã hóa 16,7 triệu màu rời rạc thì cần dùng ít nhất bao nhiêu bit?",
+        "choices": [
+            "16.",
+            "24.",
+            "32.",
+            "48."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tín hiệu là",
+        "choices": [
+            "Chính là thông tin",
+            "Hình thức vật lý của giá mang thông tin",
+            "Hình thức vật lý của thông tin",
+            "Hình thức vật lý của dữ liệu"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Đơn vị đo lượng thông tin là",
+        "choices": [
+            "Hz",
+            "Bit",
+            "GHz",
+            "KHz"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "4 KB bằng bao nhiêu bit?",
+        "choices": [
+            "4096.",
+            "16384.",
+            "8192.",
+            "32768."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Số nhị phân là gì?",
+        "choices": [
+            "Các số 1 và 0.",
+            "Số 1 đến 9.",
+            "Các số 1 và chữ l.",
+            "Các số 0 và chữ O."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Có thể thể hiện thông tin bằng nhiều hình thức khác nhau hay không",
+        "choices": [
+            "Không",
+            "Có"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Người và máy tính giao tiếp thông qua:",
+        "choices": [
+            "CPU",
+            "RAM",
+            "Bàn phím và màn hình",
+            "Hệ điều hành"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Chọn ra đặc điểm đúng cho thông tin liên tục.",
+        "choices": [
+            "Thông tin liên tục có thể liệt kê hết ra được các giá trị trong tập giá trị của nó.",
+            "Cả \"Lượng giá trị của thông tin liên tục là vô hạn.\" và \"Có thể dùng mã hóa rời rạc để biểu diễn gần đúng thông tin liên tục.\".",
+            "Lượng giá trị của thông tin liên tục là vô hạn.",
+            "Có thể dùng mã hóa rời rạc để biểu diễn gần đúng thông tin liên tục."
+        ],
+        "answer": 1
+    }
+]

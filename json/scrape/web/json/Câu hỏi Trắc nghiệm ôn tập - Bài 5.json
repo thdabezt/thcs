@@ -1,0 +1,207 @@
+[
+    {
+        "question": "Một người mê\ntín. Trước khi đi chơi bao giờ anh ta cũng lấy quyển Kiều và làm theo các bước\nnhư sauBước 1. Hãy mở một trang bất kỳBước 2. Xem câu thơ thứ 5Bước 3. Nếu câu này có chữ a thì đi, nếu không thì ở nhàKhẳng định nào đúng",
+        "choices": [
+            "Quá trình trên không phải là một giải thuật vì vi phạm tính xác định và tính dừng",
+            "Quá trình trên không phải là một giải thuật vì vi phạm tính xác định",
+            "Quá trình trên không phải là một giải thuật vì vi phạm tính dừng",
+            "Quá trình mô tả trên là một giải thuật"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Tính khả thi của thuật toán được hiểu là",
+        "choices": [
+            "Có thể thực hiện được trong điều kiện có máy tính rất mạnh",
+            "Có thể thực hiện được nếu không khó",
+            "Có thể thực hiện được"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Tính dừng của thuật toán được hiểu là",
+        "choices": [
+            "Thuật toán phải quy định những điều kiện để đảm bảo tính toán phải dừng sau một số hữu hạn bước",
+            "Sau một số hữu hạn bước tính toán thì phải gặp yêu câu dừng đối với mọi dữ liệu nằm trong phạm vi được quy định của thuật toán",
+            "Không thể kéo dài mãi tiến trình tính toán"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Có người đề xuất cách giải bài toán cổ \"Trăm trâu trăm bó cỏ.\nTrâu đứng ăn 5; trâu nằm ăn 3; trâu gia 3 con ăn 1. Hỏi mỗi loại trâu có bao\nnhiêu con?\" như sau:Lần lượt thử số trâu đứng từ 0 đến 20 (vì không thể có quá 20 trâu\nđứng); với mỗi số đã chọn nhân với 5 tìm số cỏ đã bị ăn.Với mỗi số trâu đứng đã chọn thử với số trâu nằm từ 0 đến 33. Với\nmỗi số trâu nằm tính tổng số cỏ mà cả trâu đứng và trâu nằm đã ăn.Với mỗi số trâu đứng và trâu nằm đã chọn, lấy 100 trừ đi số trâu\nđứng và trâu nằm để tìm số trâu già. Lấy 100 trừ đi số cỏ mà trâu đứng và trâu\nnằm đã ăn để tìm số cỏ còn lại sau đó kiểm tra số trâu già có gấp 3 số cỏ còn\nlại. Nếu đúng tuyên bố nghiệmNếu không tìm được bộ 3 số trâu đứng, trâu nằm,\ntrâu già thoả mãn thì tuyên bố vô nghiệm",
+        "choices": [
+            "Quá trình trên không phải là một giải thuật vì mặc dù xác định và dừng nhưng thử hết mọi khả năng thì không đáng gọi là giải thuật.",
+            "Quá trình trên không phải là một giải thuật vì vi phạm tính dừng",
+            "Quá trình trên không phải là một giải thuật vì vi phạm tính xác định và tính dừng",
+            "Quá trình trên không phải là một giải thuật vì vi phạm tính xác định",
+            "Quá trình mô tả trên là một giải thuật"
+        ],
+        "answer": 4,
+        "links": {}
+    },
+    {
+        "question": "Độ phức tạp của thuật toán không phụ thuộc vào?",
+        "choices": [
+            "Bản chất của bài toán.",
+            "Tốc độ tính toán của máy tính thực hiện thuật toán.",
+            "Kích thước của dữ liệu đầu vào.",
+            "Bản chất của thuật toán."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Có n gói hàng đáng lẽ phải nặng như nhau nhưng có một gói sai quy\ncách nhẹ hơn các gói khác. Một sinh viên đã viết giải thuật sau để tìm gói hàng\nnày bằng cách dùng cân đĩa theo nguyên lý thăng bằng.Bước 0. Lấy một cái rổ bỏ tất cả hàng vàoBước 1. Nếu rổ chỉ có 1 gói thì đó chính là gói hàng khuyết. Dừng\nquá trình tìm. Nếu  không thực hiện bước\n2Bước 2. Chia số hàng trong rổ thành 3 đống 1,2,3 trong đó đống 1 và\nđống 2 có số lượng bằng nhau khác 0 rồi làm tiếp bước 3.Bước 3. Đặt lên cân đĩa hai nhóm 1 và 2. Nếu cân thăng bằng thì bỏ\nnhóm này đi và để vào rổ đống hàng thứ 3. Nếu cân không thăng bằng thì bỏ đống\nnhẹ hơn vào rổ rồi quay về bước 1.",
+        "choices": [
+            "Bỏ đi bước 0 vì không cần thiết",
+            "Giải thuật sai, cần sửa như sau: Bỏ bước 1 và thay trong bước 3 câu \"quay về bước 1\" bằng \"quay về bước 2\"",
+            "Giải thuật này sai và cần sửa bước 2 như sau: \"Chia số hàng trong rổ thành 3 đống 1,2,3 có số lượng gói là m, m và n sao cho n chỉ hơn kém m tối đa là 1 điều này luôn luôn làm được\"",
+            "Giải thuật này sai và cần sửa bước 3 như sau: Chọn gói nhẹ hơn bỏ vào rổ rối quay lại bước 2",
+            "Giải thuật này đúng. Không cần phải sửa"
+        ],
+        "answer": 4,
+        "links": {}
+    },
+    {
+        "question": "Tính phổ dụng của thuật toán là",
+        "choices": [
+            "Một thuật toán có thể cho nhiều output tương ứng với nhiều input",
+            "Một thuật toán có thể ứng dụng cho nhiều input cùng loại",
+            "Một thuật toán có thể thực hiện trong bất kỳ điều kiện gì",
+            "Một thuật toán có thể thực hiện bởi bất kỳ ai"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Tính xác định của thuật toán có nghĩa là:",
+        "choices": [
+            "Sau khi hoàn thành một bước (một chỉ dẫn), bước thực hiện tiếp theo hoàn toàn xác định",
+            "Mục đích của thuật toán được xác định",
+            "Không thể thực hiện thuật toán 2 lần mà nhận được hai output khác nhau"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Có người đề xuất cách giải bài toán sau\"Vừa gà vừa chó; bó lại cho tròn; Có N con; M chân chẵn. Hỏi có\nmấy gà mấy chó?\" như sau:Bước 1. Lấy số chó giả định là 1Bước 2. Nhân số chó với 4 để tìm số chân chóBước 3. Lấy M trừ đi chân chó để tìm số chân gàBước 4. Chia số chân gà cho 2 để tìm số gàBước 5. Kiểm tra tổng số gà + số chó nếu bằng N thì dừng và đó là\nkết quả. Nếu không thực hiện bước 6Bước 6. Tăng số chó lên 1 và chuyển tới bước 2Khẳng định nào đúng",
+        "choices": [
+            "Quá trình trên không phải là một giải thuật vì mặc dù xác định và dừng nhưng thử hết mọi khả năng thì không đáng gọi là giải thuật.",
+            "Quá trình mô tả trên là một giải thuật",
+            "Không xác định được tính xác định và tính dừng vì còn phụ thuộc vào M và N mà ta chưa biết.",
+            "Quá trình trên đúng là một giải thuật nhưng chưa đầy đủ vì cần thêm các buớc xử lý những trường hợp M, N chưa thích hợp"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Cho một\n     dãy số tăng dần x1, x2, ... xn và một số a nào đó. Xác định có chỉ số i\n     nào để  a= xi. Sau đây là một số thuật\n     toán tìm kiếm nhị phân à bước 3 và 4 có tới 3 phương án cho bới các nhóm\n     phương án 1, 2,3Bước 1. \nCho p=1 q=nBước 2 . Cho r =  [(p+q)/2]   \n[x] là hàm phần nguyên của xBước 3. \nKiểm tra nếu a= xr thì thông báo r là chỉ số mà xr bằng a. Sau đó kết\nthúc xử lýPhương án 1.- Bước 4. \nNếu a<xr thì thay q=r-1 ngược lại thay p=r+1- Bước 5. Nếu \np≤ q thì quay về bước 2, nếu không thì dừng và tuyên bố không có r nào để\nxr=aPhương án 2.- Bước 4. \nNếu a<xr thì thay q=r ngược lại thay p=r- Bước 5. Nếu \np<q thì quay về bước 2, nếu không thì dừng và tuyên bố không có r nào\nđể xr=aPhương án 3.- Bước 4. \nNếu a<xr thì thay q=r-1 ngược lại thay p=r+1- Bước 5. Nếu \np<q thì quay về bước 2, nếu không thì dừng và tuyên bố không có r nào\nđể xr=aKhẳng định nào trong 4 khẳng định sau đây\nlà đúng",
+        "choices": [
+            "Chỉ có phương án 2 đúng",
+            "Cả 3 phương án đều đúng.",
+            "Chỉ có phương án 3 đúng",
+            "Chỉ có phương án 1 đúng"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Có một phương pháp tính gọi là Monter-Carlo để tính dựa vào các đặc trưng xác xuất, người\n     ta phải chế ra các số ngẫu nhiên. Mỗi khi yêu cầu, máy tính lại đưa ra một\n     con số không dự đoán được trước. Có thể nói rằng bài toán đưa ra một số ngẫu\n     nhiên có thuật toán vi phạm tính xác định không?",
+        "choices": [
+            "Không",
+            "Có"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Xét các cách tìm USCLN của hai số tự nhiên m và n qua các giải thuật\nsau đây1. Cách 1.Chỉ dẫn 1: Phân tích m và n thành các thừa số nguyên tố như sauChỉ dẫn 2: Tính tích của các uớc số chung với số mũ nhỏ nhất2. Cách 2Chỉ dẫn 1: Nếu m = n thì USCLN(m,n) lấy là m. Nếu không thực hiện\nchỉ dẫn 2Chỉ dẫn 2: Nếu m > n thì bớt m một lượng n và quay lại thực hiện\nchỉ dẫn 1. Nếu không thực hiện chỉ dẫn 3Chỉ dẫn 3:  Bớt n một lượng m\nvà quay lại thực hiện chỉ dẫn 13. Cách 3Chỉ dẫn 1: Nếu m = n thì USCLN(m,n) lấy là m. Nếu không thực hiện\nchỉ dẫn 2Chỉ dẫn 2: Nếu n > m thì tráo đổi giá trị m và n và thực hiện chỉ\ndẫn 3Chỉ dẫn 3:  Thay m bởi số dư\ncủa phép chia m cho n sau đó quay lại thực hiện chỉ dẫn 1Nếu tính độ phức tạp tính toán của giải thuật là số phép tính số học\nphải thực hiện thì giải thuật nào tốt nhất",
+        "choices": [
+            "Không cách nào tốt hơn cách nào vì còn phụ thuộc vào trường hợp cụ thể",
+            "Cách 2",
+            "Cách 3",
+            "Cách 1"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Cho thuật toán sauBước 1. Cho S = 0, i = 1, u = 1, xBước 2. Tính S := S + U; U:=\n-U.x2/((i+1)(i+2)); i:=i+2Bước 3. Nếu i <100 quay lại bước 2, nếu\nkhông chuyển xuống bước 4Bước 4. Lấy output SThuật toán này tính gì",
+        "choices": [
+            "Tính ex theo khai triển Taylor đến số hạng thứ 50",
+            "Tính ex theo khai triển Taylor đến số hạng thứ 49",
+            "Tính sin x theo khai triển Taylor đến số hạng thứ 50",
+            "Tính sin x theo khai triển Taylor đến số hạng thứ 49"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Cho một dãy số tăng dần x1, x2, ... xn và một số a nào đó.\nXác định có chỉ số i nào để  a= xi. Sau\nđây là một số thuật toán tìm kiếm nhị phân với 5 bước từ 1 đến 5. Cho trước 3 bước đầu. Có tới 3 phương án cho\nbước 4 và 5 như sau:Bước 1.  Cho p=1 q=nBước 2 . Cho r = \n[(p+q)/2]    [x] là hàm phần\nnguyên của xBước 3.  Kiểm tra nếu\na= xr thì thông báo r là chỉ số mà xr bằng a. Sau đó kết thúc xử lýPA1.  Bước 4. \nNếu a<xr thì thay q=r-1 ngược lại thay p=r+1Bước\n5. Nếu  p≤ q thì quay về bước 2, nếu\nkhông thì dừng và tuyên bố không có r nào để xr=aPA2.  Bước 4. \nNếu a<xr thì thay q=r ngược lại thay p=rBước\n5. Nếu  p<q thì quay về bước 2, nếu\nkhông thì dừng và tuyên bố không có r nào để xr=aPA3.  Bước 4. \nNếu a<xr thì thay q=r-1 ngược lại thay p=r+1Bước\n5. Nếu  p<q thì quay về bước 2, nếu\nkhông thì dừng và tuyên bố không có r nào để xr=aKhẳng định nào trong 4 khẳng định sau đây là đúng",
+        "choices": [
+            "Cả 3 phương án trên đều đúng",
+            "Chỉ có phương án 1 đúng",
+            "Chỉ có phương án 3 đúng",
+            "Chỉ có phương án 2 đúng"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cho thuật toán sauBước 1. Cho S = 1, i = 1, u = 1, xBước 2. Tính U:= U.x/i; S := S + U; i:=i+1\n(các phép tính thực hiện đúng theo thứ tự)Bước 3. Nếu i <100 quay lại bước 2, nếu\nkhông chuyển xuống bước 4Bước 4. Lấy output SThuật toán này tính gì",
+        "choices": [
+            "Tính ex theo khai triển Taylor đến số hạng thứ 99",
+            "Tính ex theo khai triển Taylor đến số hạng thứ 100",
+            "Tính sin x theo khai triển Taylor đến số hạng thứ 100",
+            "Tính sin x theo khai triển Taylor đến số hạng thứ 99"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Giả sử một thuật toán được xác định bằng một số các chỉ dẫn. Tính xác định của thuật toán là",
+        "choices": [
+            "Các chỉ dẫn của thuật toán phải hoàn toàn rõ ràng, dễ hiểu",
+            "Không có các chỉ dẫn nào không thể thực hiện được",
+            "Sau mỗi bước thực hiện một chỉ dẫn, với những input xác định, luôn xác định được duy nhất chỉ dẫn cần thực hiện tiếp theo",
+            "Một thuật toán phải được thể hiện bằng một dãy các chỉ dẫn và quá trình phải kết thúc ở chỉ dẫn cuối cùng"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Đâu không phải là đặc trưng của thuật toán?",
+        "choices": [
+            "Tính khả thi: Các chỉ dẫn trong thuật toán phải có khả năng thực hiện được trong một thời gian hữu hạn.",
+            "Thuật toán phải giải được mọi bài toán.",
+            "Thông tin vào và ra xác định.",
+            "Tính dừng: thuật toán phải dừng sau một số bước hữu hạn."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Xác đinh Input của bài toán tìm tất cả các số nguyên tố nhỏ hơn một số cho trước",
+        "choices": [
+            "Số cho trước",
+            "Không có input",
+            "Điều kiện là Nguyên tố"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trong một trường học đã có cơ sở dữ liệu\n(hồ sơ trên máy tính) của tất cả học sinh trong trường. Bài toán in ra danh\nsách học sinh của lớp x nào đó có input là gì.",
+        "choices": [
+            "Tên của lớp X",
+            "Không có \"Danh sách học sinh của cả trường\" và \"Tên của lớp X\"",
+            "Có cả \"Danh sách học sinh của cả trường\" và \"Tên của lớp X\"",
+            "Danh sách học sinh của cả trường"
+        ],
+        "answer": 2,
+        "links": {}
+    }
+]
