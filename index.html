@@ -115,7 +115,7 @@
 
     async function loadQuizFiles() {
   try {
-    const response = await fetch('./json/file-list.json'); // Fetch the predefined file list
+    const response = await fetch('/thcs/json/file-list.json'); // Fetch the predefined file list
     const files = await response.json();
 
     files.forEach(file => {
