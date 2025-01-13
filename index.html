@@ -114,30 +114,31 @@
     let userAnswers = [];
 
     async function loadQuizFiles() {
-      try {
-        const response = await fetch('/list-quizzes');
-        const files = await response.json();
+  try {
+    const response = await fetch('./json/file-list.json'); // Fetch the predefined file list
+    const files = await response.json();
 
-        files.forEach(file => {
-          const checkbox = document.createElement('input');
-          checkbox.type = 'checkbox';
-          checkbox.value = `/json/${file}`;
-          checkbox.id = file;
+    files.forEach(file => {
+      const checkbox = document.createElement('input');
+      checkbox.type = 'checkbox';
+      checkbox.value = file;
+      checkbox.id = file;
 
-          const label = document.createElement('label');
-          label.htmlFor = file;
-          label.textContent = file.replace('.json', '');
+      const label = document.createElement('label');
+      label.htmlFor = file;
+      label.textContent = file.replace('./json/', '').replace('.json', '');
 
-          const div = document.createElement('div');
-          div.appendChild(checkbox);
-          div.appendChild(label);
+      const div = document.createElement('div');
+      div.appendChild(checkbox);
+      div.appendChild(label);
 
-          fileListContainer.appendChild(div);
-        });
-      } catch (error) {
-        console.error('Error loading quiz files:', error);
-      }
-    }
+      fileListContainer.appendChild(div);
+    });
+  } catch (error) {
+    console.error('Error loading file list:', error);
+  }
+}
+
 
     async function loadSelectedQuizzes() {
   const selectedFiles = Array.from(fileListContainer.querySelectorAll('input:checked'))
