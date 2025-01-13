@@ -1,0 +1,643 @@
+[
+    {
+        "question": "Trong những năm gần đây, xuất hiện bộ nhớ flash cắm rời theo đường USB. Đây là bộ nhớ bán dẫn nhưng vẫn được coi là bộ nhớ ngoài. Theo bạn thì lý do nào sau đây là xác đáng nhất.",
+        "choices": [
+            "Vì tốc độ giao tiếp chậm và các phần tử nhớ không có địa chỉ",
+            "Vì có thể nhớ mà không cần nguồn",
+            "Không tương tác trực tiếp với bộ xử lý và nội dung không bị xoá khi không có nguồn",
+            "Vì nó để bên ngoài máy"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Bàn phím là thiết bị",
+        "choices": [
+            "Cả A, B, C đều sai",
+            "Ra",
+            "Vào",
+            "Cả vào và ra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Các bản mạch cắm qua các khe cắm mở rộng có phải là thiết bị vào hoặc ra hay không",
+        "choices": [
+            "Sai",
+            "Đúng",
+            "Còn tuỳ từng trường hợp cụ thể"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong lĩnh vực máy tính, chữ viết tắt “MB” thường được dùng để đo lường giá trị gì?",
+        "choices": [
+            "Độ phân giải màn hình.",
+            "Khả năng lưu trữ.",
+            "Tốc độ xử lý.",
+            "Mức độ âm thanh."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Bộ nhớ được chia thành 2 loại là những loại nào?",
+        "choices": [
+            "Bộ nhớ chỉ đọc và bộ nhớ cho phép ghi.",
+            "Bộ nhớ trong và bộ nhớ ngoài.",
+            "Bộ nhớ trung tâm và bộ nhớ ngoại vi.",
+            "Bộ nhớ tĩnh và bộ nhớ động."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lý do phân biệt thiết bị thuộc khu vực ngoại vi và thiết bị thuộc khu vực trung tâm của máy tính là",
+        "choices": [
+            "Thiết bị khu vực trung tâm hoạt động nhanh hơn, của khu vực ngoại vi chậm hơn",
+            "Thiết bị ở khu vực trung tâm được dùng để xử lý dữ liệu còn thiết bị ở khu vực ngoại vi là trao đổi dữ liệu giữa máy tính và môi trường tính toán",
+            "Thiết bị khu vực trung tâm đắt hơn, thiết bị ngoại vi rẻ hơn",
+            "Thiết bị thuộc khu vực trung tâm là thiết bị điện tử còn khu vực ngoại vi là thiết bị cơ khí"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Thiết bị sử dụng pin để cung cấp điện liên tục cho hệ thống ngay cả khi điện lưới bị cắt được gọi là?",
+        "choices": [
+            "HDD",
+            "RAM",
+            "UPS",
+            "USB"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Tốc độ truyền dữ liệu tối đa trên lý thuyết của USB 2.0 là",
+        "choices": [
+            "480 Mbps.",
+            "1,5 Mbps.",
+            "300 Mbps.",
+            "12 Mbps."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cổng nào sau đây là cổng kết nối giữa màn hình và máy tính?",
+        "choices": [
+            "VGA",
+            "COM",
+            "Ethernet",
+            "Firewire"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "CPU là viết tắt của",
+        "choices": [
+            "Common Processing Unit",
+            "Central Processing Unit",
+            "Control Processing Unit",
+            "Case Processing Unit"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Chuột là thiết bị",
+        "choices": [
+            "Cả vào và ra",
+            "Không phải thiết bị ngoại vi",
+            "Vào",
+            "Ra"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ổ đĩa CD ROM là thiết bị:",
+        "choices": [
+            "Cả A, B đều sai",
+            "Cả A và B đều đúng",
+            "Ra",
+            "Vào"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Thông số \"7200 rpm\" là của thiết bị nào?",
+        "choices": [
+            "HDD.",
+            "Mainboard.",
+            "Tất cả đáp án còn lại đều sai.",
+            "RAM."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Bạn đã cài đặt một bộ xử lý mới có tốc độ đồng hồ cao hơn vào máy của bạn. Điều này có thể có kết quả gì",
+        "choices": [
+            "Máy tính của bạn sẽ chạy nhanh hơn",
+            "RAM (Random Access Memory) sẽ có dung lượng lớn hơn",
+            "ROM (Read Only Memory) sẽ có dung lượng lớn hơn",
+            "Đĩa cứng máy tính sẽ lưu trữ dữ liệu nhiều hơn"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Vật nào không phải thiết bị vào của máy tính?",
+        "choices": [
+            "Bàn phím.",
+            "Màn hình không cảm ứng.",
+            "Thiết bị ghi âm số.",
+            "Chuột máy tính."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Màn hình máy tính (màn hình không cảm ứng) là thiết bị",
+        "choices": [
+            "Ra.",
+            "Vào.",
+            "Cả vào và ra.",
+            "Không phải thiết bị ngoại vi."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Lý do đúng đắn nhất phân biệt thiết bị thuộc khu vực ngoại vi và thiết bị thuộc khu vực trung tâm của máy tính là:",
+        "choices": [
+            "Thiết bị khu vực trung tâm đắt hơn, thiết bị ngoại vi rẻ hơn",
+            "Thiết bị khu vực trung tâm hoạt động nhanh hơn, của khu vực ngoại vi chậm hơn",
+            "Thiết bị ở khu vực trung tâm được dùng để xử lý dữ liệu còn thiết bị ở khu vực ngoại vi là trao đổi dữ liệu giữa máy tính và môi trường tính toán",
+            "Thiết bị thuộc khu vực trung tâm là thiết bị điện tử còn khu vực ngoại vi là thiết bị cơ"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Cách trả lời đúng nhất về nguyên lý điều khiển theo chương trình",
+        "choices": [
+            "Cách giải quyết bài toán cần được mã hoá bằng chương trình",
+            "Máy tính điện tử có thể chạy các chương trình",
+            "Máy tính chỉ hoạt động theo các chỉ dẫn của chương trình được nạp vào trong bộ nhớ",
+            "Người sử dụng máy cần phải lập chương trình"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Thiết bị lưu trữ nào sau đây có thời gian truy cập nhanh nhất",
+        "choices": [
+            "đĩa CD",
+            "Đĩa mềm",
+            "Băng từ",
+            "đĩa cứng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "RAM là viết tắt của",
+        "choices": [
+            "Random Access Memory.",
+            "Read and Modify.",
+            "Recent Access Memory.",
+            "Read Access Memory."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Khi bật máy tính, thiết bị nào sau đây được dùng để lưu trữ các chương trình ban đầu phục vụ cho việc khởi động máy?",
+        "choices": [
+            "CD",
+            "ROM",
+            "Đĩa cứng",
+            "RAM"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Đâu là thiết bị nhập dữ liệu?",
+        "choices": [
+            "Bàn phím và màn hình.",
+            "Máy in và bàn phím.",
+            "Máy in và microphone.",
+            "Máy quét (scan) và đầu đọc mã vạch."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Đĩa được gọi là bộ nhớ ngoài truy nhập trực tiếp (direct access) vì lý do",
+        "choices": [
+            "Có thể tính trước địa chỉ vùng dữ liệu cần đọc để đặt đầu đọc (đầu từ) trực tiếp vào vùng dữ liệu",
+            "Thời gian truy nhập (access time) rất nhanh, dường như đọc trực tiếp ngay lập tức",
+            "Đọc trực tiếp bằng đầu đọc trên vùng ghi dữ liệu, không chuyển dữ liệu qua một nơi trung gian khác rồi mới đọc"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn câu trả lời chính xác nhất về chức năng của CPU",
+        "choices": [
+            "Điều khiển thiết bị ngoại vi",
+            "Cả A và C",
+            "Thực hiện các phép tính số học và logic",
+            "Điều khiển, phối hợp các thiết bị để máy tính thực hiện đúng chương trình đã định"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "CPU là thiết bị",
+        "choices": [
+            "Vào",
+            "Ra",
+            "Cả vào và ra",
+            "Cả A, B, C đều sai"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Bộ nhớ trong là thiết bị",
+        "choices": [
+            "Không phải thiết bị ngoại vi",
+            "Cả vào và ra",
+            "Ra",
+            "Vào"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Chọn phát biểu SAI về CPU trong các phát biểu sau:",
+        "choices": [
+            "Có tốc độ làm việc cực nhanh.",
+            "Là thiết bị trung tâm của máy tính.",
+            "Có thể tính toán và điều khiển việc chạy chương trình.",
+            "Là hộp máy của máy vi tính, trong đó có bộ số học - lôgic và bộ nhớ."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Con số 20GB trong hệ thống máy tính có nghĩa là",
+        "choices": [
+            "Ổ đĩa cứng có dung lượng là 20GB.",
+            "Tốc độ xử lý của CPU.",
+            "Dung lượng tối đa của đĩa mềm",
+            "Máy in có tốc độ in 20GB một giây."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Trong thứ tự kiểu little-endian, byte có ý nghĩa thấp hơn được đặt trước byte có ý nghĩa cao hơn, ví dụ số thập lục phân 0x1234 có thứ tự lưu 2 byte là [0x34, 0x12]. Hỏi trạng thái của các bit khi lưu từ nhị phân 1010.0111.1111.0001 là?",
+        "choices": [
+            "1010.1111.0111.0001.",
+            "1111.0001.1010.0111.",
+            "1010.0111.1111.0001.",
+            "0001.1111.0111.1010."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Loại máy tính nào thường đắt nhất",
+        "choices": [
+            "Máy chủ",
+            "Máy tính cá nhân",
+            "Máy tính cầm tay",
+            "Máy tính xách tay"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Màn hình cảm ứng là thiết bị gì của máy tính?",
+        "choices": [
+            "Thiết bị ra.",
+            "Thiết bị vào.",
+            "Thiết bị vào và ra.",
+            "Không phải là thiết bị ngoại vi."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "RAM thuộc khối thiết bị:",
+        "choices": [
+            "Memory (bộ nhớ).",
+            "Tất cả đáp án còn lại đều đúng.",
+            "Process (xử lý).",
+            "Input (nhập)."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Một người bật công tắc máy tính thấy máy không chạy gì cả, màn hình tối om, không nghe thấy tiếng quạt làm nguội máy. Bật tắt công tắc máy tính nhiều lần, vẫn như vậy. Đèn trong phòng vẫn sáng. Điều gì có khả năng nhất",
+        "choices": [
+            "Máy không cắm điện",
+            "Màn hình hay card điều khiển màn hình bị hỏng",
+            "Máy bị virus"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đâu là thứ tự sắp xếp đúng tốc độ truy cập tăng dần của các bộ nhớ?",
+        "choices": [
+            "RAM, Ổ đĩa cứng, Flash USB, CPU Cache.",
+            "CPU Cache, RAM, Ổ đĩa cứng, Flash USB.",
+            "Flash USB, Ổ đĩa cứng, RAM, CPU Cache.",
+            "Ổ đĩa cứng, Flash USB, RAM, CPU Cache."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trong các thiết bị sau, thiết bị nào có thời gian truy xuất dữ liệu chậm nhất",
+        "choices": [
+            "Đĩa mềm",
+            "ROM",
+            "CD-ROM",
+            "DVD"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đơn vị đo độ sáng của thiết bị máy chiếu là:",
+        "choices": [
+            "Ohms",
+            "Watt",
+            "Lumens",
+            "Amps"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chọn câu trả lời ĐÚNG nhất: USB là",
+        "choices": [
+            "Thiết bị lưu trữ trong.",
+            "Thiết bị nhập dữ liệu.",
+            "Thiết bị lưu trữ ngoài.",
+            "Thiết bị chuyển đổi dữ liệu."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Máy in là thiết bị",
+        "choices": [
+            "Không phải thiết bị ngoại vi.",
+            "Vào.",
+            "Cả vào và ra.",
+            "Ra."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nhìn vào các tham số cấu hình của một máy tính: 1.8GHz, 20GB, 1GB con số 20GB là thông số gì?",
+        "choices": [
+            "Dung lượng của đĩa CD mà máy có thể đọc được.",
+            "Dung lượng của ổ đĩa cứng.",
+            "Tốc độ xử lý của CPU."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Modem là thiết bị dùng để:",
+        "choices": [
+            "Chuyển đổi tín hiệu số của máy tính sang dạng tín hiệu tương tự để truyền được trên đường điện thoại.",
+            "Kiểm tra thông tin.",
+            "Ngăn chặn thông tin.",
+            "Lưu trữ thông tin."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "CPU là",
+        "choices": [
+            "Control Processing Unit.",
+            "Phần mềm quyết định các bước thao tác của máy tính.",
+            "Central Processing Unit.",
+            "Mạch điện tử nhỏ bé của máy tính."
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Ổ cứng là",
+        "choices": [
+            "Là thiết bị nhập/xuất dữ liệu.",
+            "Thiết bị lưu trữ ngoài.",
+            "Thiết bị lưu trữ trong vì nó ở bên trong vỏ máy.",
+            "Thiết bị chỉ đọc dữ liệu."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Tốc độ đồng hồ của máy tính đuợc tính theo",
+        "choices": [
+            "byte và các bội của nó",
+            "giây và các bội của nó",
+            "Mbps và các bội của nó",
+            "hertz và các bội của nó"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Nếu sắp theo thứ tự từ khả năng lưu trữ từ cao đến thấp, bạn chọn phương án nào trong số các phương án sau:",
+        "choices": [
+            "Đĩa cứng - đĩa DVD - đĩa CD - đĩa mềm",
+            "Đĩa DVD - đĩa cứng - đĩa CD - đĩa mềm",
+            "Đĩa cứng - đĩa mềm - đĩa DVD - đĩa CD",
+            "Đĩa cứng - đĩa mềm - đĩa CD - đĩa DVD"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cách trả lời đúng nhất về nguyên lý truy nhập theo địa chỉ",
+        "choices": [
+            "Chương trình chỉ định dữ liệu thông qua địa chỉ của dữ liệu trong bộ nhớ chứ không theo giá trị của dữ liệu",
+            "Chương trình cũng được đưa vào bộ nhớ và bản thân các lệnh cũng có địa chỉ giúp cho việc tìm lệnh để nạp lên CPU",
+            "ở bộ nhớ ngoài dữ liệu cũng được đưa vào các vùng có địa chỉ để có thể tìm kiếm được",
+            "Bộ nhớ trong được tổ chức theo các ngăn (ô) dữ liệu có địa chỉ"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Ở siêu thị người ta dùng đầu đọc mã vạch để nhận mã hàng hoá. Đó có phải là thiết bị vào của máy tính hay không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "So sánh những một máy tính điện tử (computer) với một máy tính cầm tay dùng để tính các phép tính số học cộng trừ nhân chia (calculator), trừ những điểm khác nhau như khả năng thực hiện chương trình hay kích thước thì có nhiều điểm mà một người nghĩ là giống nhau. Điều nào sai",
+        "choices": [
+            "Cùng có các mạch thực hiện các phép tính số học",
+            "Cùng có bộ điều khiển",
+            "Vào bằng bàn phím và đưa ra bằng màn hình",
+            "Cùng có bộ nhớ bán dẫn"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ổ đĩa cứng là thiết bị",
+        "choices": [
+            "Ra",
+            "Cả vào và ra",
+            "Cả A, B, C đều sai",
+            "Vào"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Con số 3GB trong hệ thống máy tính có nghĩa là:",
+        "choices": [
+            "Độ phân giải màn hình có thể quét được 3GB trong 1 s",
+            "Bộ nhớ RAM hoặc ổ đĩa cứng có dung lượng là 3GB.",
+            "Máy tính này là máy tính xách tay.",
+            "Máy tính có tốc độ xử lý cao nhất hiện nay."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Lý do đúng đắn nhất phân biệt thiết bị thuộc khu vực ngoại vi là:",
+        "choices": [
+            "Thiết bị khu vực ngoại vi chậm hơn thiết bị của khu vực trung tâm",
+            "Thiết bị ở khu vực ngoại vi có chức năng trao đổi dữ liệu giữa máy tính và môi trường tính toán còn thiết bị ở khu vực trung tâm được dùng để xử lý dữ liệu",
+            "Thiết bị thuộc khu vực trung tâm là thiết bị điện tử còn thiết bị của khu vực ngoại vi là thiết bị cơ điện",
+            "Thiết bị ngoại vi rẻ hơn thiết bị thuộc khu vực trung tâm"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Ba thiết bị đầu vào phổ biến gồm những gì?",
+        "choices": [
+            "Bàn phím, chuột, máy in.",
+            "Bàn phím, chuột, Microphone.",
+            "Bàn phím, chuột, loa.",
+            "Bàn phím, chuột, màn hình."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Loại phím nào trên bàn phím mà tác dụng của nó được xác định tuỳ thuộc vào các phần mềm cụ thể:",
+        "choices": [
+            "Phím số",
+            "Phím soạn thảo",
+            "Phím điều khiển",
+            "Phím chức năng"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Loại phím nào trên bàn phím mà chức năng của nó được xác định tùy thuộc vào các phần mềm cụ thể?",
+        "choices": [
+            "Phím điều khiển.",
+            "Phím mũi tên.",
+            "Phím số.",
+            "Phím chức năng."
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Một sinh viên đưa ra những điểm tương đồng giữa một máy vi tính (mico computer) với một máy tính bỏ túi (calculator). Điều nào sai",
+        "choices": [
+            "Đều có mạch thực hiện các phép tính số học",
+            "Đều có bộ nhớ",
+            "Đều có thiết bị vào ra",
+            "Đều có CPU"
+        ],
+        "answer": 3
+    },
+    {
+        "question": "Điều nào là nguyên lý Von Neumann",
+        "choices": [
+            "Dữ liệu được xác định qua địa chỉ trong bộ nhớ và để xử lý máy tính được điều khiển theo chương trình nạp vào trong bộ nhớ",
+            "Bộ nhớ được phân chia thành các vùng có địa chỉ và chương trình nạp vào bộ nhớ trong một vùng liên tục kể từ một địa chỉ nào đó",
+            "Cách thức giải một bài toán cần được mã hoá thành các mã nạp vào bộ nhớ của máy tính dưới dạng một dãy các mệnh lệnh mà máy tính có thể thi hành.",
+            "Máy tính chỉ thực hiện theo chương trình đã có sẵn trong bộ nhớ của máy để đảm bảo cho máy có thể xử lý thông tin một cách tự động"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Modem là thiết bị",
+        "choices": [
+            "Không phải thiết bị ngoại vi",
+            "Cả vào và ra",
+            "Ra",
+            "Vào"
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Các sinh viên tranh luận về lý do dùng bộ nhớ ngoàiÝ kiến 1. Khi khối lượng dữ liệu lớnÝ kiến 2. Khi phải lưu trữ lâu dàiÝ kiến 3. Khi không cần truy xuất dữ liệu nhanhÝ kiến 4. Khi ít tiền, không thể mua RAM nhiều mà bộ nhớ ngoài rẻ hơn RAM rất nhiều tính theo khối lượng lưu trữTheo bạn các ý kiến  nào xác đáng nhất",
+        "choices": [
+            "Ý kiến 3 và ý kiến 4",
+            "Ý kiến 1 và ý kiến 4",
+            "Ý kiến 1 và ý kiến 2",
+            "Ý kiến 1 và ý kiến 3"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Có thể ghi vào bộ nhớ ROM được không",
+        "choices": [
+            "Ghi được",
+            "Không được",
+            "Có một số loại ROM ghi được bằng các phương tiện chuyên dụng"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Trên đĩa từ, các bít được thể hiện bằng các vùng có chiều từ thông khác nhau, một chiều cho bít 0, chiều ngược lại cho bit 1. Điều đó đúng hay sai",
+        "choices": [
+            "Sai",
+            "Đúng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Đọc các thông số cấu hình của một máy tính thông thường: 2GHz - 20GB - 256MB, bạn cho biết con số 256MB chỉ điều gì",
+        "choices": [
+            "Chỉ dung lượng của bộ nhớ truy cập ngẫu nhiên RAM",
+            "Chỉ dung lượng của bộ nhớ chỉ đọc ROM",
+            "Chỉ tốc độ của bộ vi xử lý",
+            "Chỉ dung lượng của đĩa cứng"
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Cái gì của ô nhớ có thể thay đổi được?",
+        "choices": [
+            "Nội dung.",
+            "Tất cả các đáp còn lại.",
+            "Kích thước.",
+            "Địa chỉ."
+        ],
+        "answer": 0
+    },
+    {
+        "question": "Bộ nhớ ROM được dùng để",
+        "choices": [
+            "Ghi nhớ dữ liệu trước khi máy làm việc",
+            "Cả A và B",
+            "Ghi nhớ chương trình và dữ liệu sẵn sàng để làm việc mà không phải nạp lại",
+            "Ghi nhớ dữ liệu sinh ra trong thời gian máy làm việc"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Chức năng của đồng hồ (clock) là gì?",
+        "choices": [
+            "Ghi nhớ các dữ liệu.",
+            "Tạo các xung điện áp chính xác, đều đặn để sinh các tín hiệu cơ bản để điều chế thông tin và đồng bộ hóa các thành phần của máy tính.",
+            "Thực hiện các phép toán cơ sở của máy như phép toán số học, logic, tạo mã.",
+            "Điều khiển hoạt động của máy tính điện tử."
+        ],
+        "answer": 1
+    },
+    {
+        "question": "Trong các lý do dùng bộ nhớ ROM sau đây, lý do nào xác đáng nhất",
+        "choices": [
+            "Do ROM có thể nhớ được mà không cần nguồn điện, nên dùng để ghi sẵn các chương trình cho các máy tính không có thiết bị nạp chương trình",
+            "Để ghi các phần mềm được sử dụng nhiều, đỡ mất công nạp chương trình",
+            "Nhớ được thông tin không cần nguồn điện và không ghi lại được bằng cách ghi thông thường nên thường được dùng ghi các chương trình điền khiển và các tham số hoạt động cơ sở của máy.",
+            "Giá thành rẻ, tốc độ truy cập tuy không nhanh bằng RAM nhưng nhanh hơn bộ nhớ ngoài rất nhiều nên dùng rất có hiệu quả"
+        ],
+        "answer": 2
+    },
+    {
+        "question": "Câu trả lời đúng nhất cho chức năng của bộ nhớ RAM:",
+        "choices": [
+            "Ghi nhớ dữ liệu và chương trình trong thời gian máy làm việc",
+            "Ghi nhớ chương trình điều khiển để không phải nạp lại mỗi khi bật máy tính",
+            "Ghi nhớ dữ liệu để lưu trữ lâu dài",
+            "Ghi nhớ chương trình trong thời gian máy làm việc"
+        ],
+        "answer": 0
+    }
+]

@@ -1,0 +1,279 @@
+[
+    {
+        "question": "Các sinh viên tranh luận:1. Sv1: Một mạch logic bất kỳ có thể được\nxây dựng bằng cách lắp ghép các mạch logic (cổng) cơ bản là bộ đảo (cổng NOT),\ncổng AND, cổng OR;2. Sv2: Có thể bớt đi một trong 3 cổng\ntrên vẫn có thể xây dựng được mạch logic bất kỳ;3. Sv3: Chỉ bỏ bớt được bộ AND hoặc bộ OR\nvà bắt buộc phải để lại bộ đảo.4. Sv4: Tuy nhiên, vẫn có thể xây dựng một\ntập các mạch logic cơ bản khác sao cho mọi mạch logic khác đều có thể xây dựng\nđược từ các mạch cơ bản này.Theo bạn nhóm nào trong 4 nhóm sau đúng?",
+        "choices": [
+            "Sv1, Sv3 và Sv4",
+            "Sv1 và Sv2",
+            "Sv2, Sv3 và Sv4",
+            "Sv1, Sv2 và Sv4"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cho phép toán A xác định như sau 0 A 0 = 0, 1 A 0 = 1, 0 A 1 = 1, 1 A 1 = 0, hỏi kết quả của phép tính 0101 A 1010 bằng bao nhiêu?",
+        "choices": [
+            "1111.",
+            "0000.",
+            "1010.",
+            "0101."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Kí hiệu ^ là phép nhân logic. Kết quả nào sai",
+        "choices": [
+            "0 ^ 1 = 0",
+            "1 ^ 0 = 0",
+            "0 ^ 0 = 0",
+            "1 ^ 1 = 0"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Cho phép toán A xác định như sau 0 A 0 = 0, 1 A 0 = 0, 0 A 1 = 1, 1 A 1 = 0, hỏi A có thể biểu diễn qua phép hội (AND) ^ và phép phủ định ¬ (NOT) như thế nào?",
+        "choices": [
+            "a A b = ¬ (a ^ b).",
+            "a A b = (¬a) ^ b.",
+            "a A b = a ^ b.",
+            "a A b = (¬a) ^ (¬b)."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Cho phép toán A xác định như sau 0 A 0 = 1, 1 A 0 = 1, 0 A 1 = 1, 1 A 1 = 0, hỏi kết quả của phép tính 0101 A 1001 bằng bao nhiêu?",
+        "choices": [
+            "1111.",
+            "1110.",
+            "0000.",
+            "1010."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "xyABCD111110100101010101000010",
+        "choices": [
+            "Cột D",
+            "Cột C",
+            "Cột B",
+            "Cột A"
+        ],
+        "answer": 0,
+        "links": {
+            "[Image1]": "https://portal.uet.vnu.edu.vn/assessment_questions/70260/files/3414/download?verifier=FQ5A13lU8ZVEz6eLJruuAlRrLV3KPduIRlDjvZ8r"
+        },
+        "matrix": [
+            [
+                "x",
+                "y",
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0"
+            ],
+            [
+                "1",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+            ]
+        ]
+    },
+    {
+        "question": "xyABCD111110100101010101000010",
+        "choices": [
+            "Cột D",
+            "Cột A",
+            "Cột C",
+            "Cột B"
+        ],
+        "answer": 0,
+        "links": {
+            "[Image1]": "https://portal.uet.vnu.edu.vn/assessment_questions/70281/files/3432/download?verifier=PHOOrBZUul3c6rqe7Zlce5n7Q6hjGrDlQlFthVWy"
+        },
+        "matrix": [
+            [
+                "x",
+                "y",
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0"
+            ],
+            [
+                "1",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+            ]
+        ]
+    },
+    {
+        "question": "Cột nào là kết quả của phép cộng logicxyABCD111110100101010101000010",
+        "choices": [
+            "Cột B",
+            "Cột C",
+            "Cột D",
+            "Cột A"
+        ],
+        "answer": 0,
+        "links": {},
+        "matrix": [
+            [
+                "x",
+                "y",
+                "A",
+                "B",
+                "C",
+                "D"
+            ],
+            [
+                "1",
+                "1",
+                "1",
+                "1",
+                "1",
+                "0"
+            ],
+            [
+                "1",
+                "0",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "0",
+                "1",
+                "0",
+                "1",
+                "0",
+                "1"
+            ],
+            [
+                "0",
+                "0",
+                "0",
+                "0",
+                "1",
+                "0"
+            ]
+        ]
+    },
+    {
+        "question": "Có bao nhiêu hàm đại số logic ba ngôi?",
+        "choices": [
+            "64.",
+            "512.",
+            "256.",
+            "1024."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Ký hiệu phép phủ định logic là. Ta định nghĩa phép toán # của hai đại lượng logic x và y thông qua các phép nhân, cộng và phủ định theo công thức sau x #y  =    (xy ) V (xy). Kết quả phép toán 0 # 1 sẽ là",
+        "choices": [
+            "0",
+            "1"
+        ],
+        "answer": 1,
+        "links": {
+            "[Image1]": "https://portal.uet.vnu.edu.vn/assessment_questions/70257/files/3403/download?verifier=VOrGzbWGfVljuW2mMg4NZvuIHED7JwOZeyHA8CDW",
+            "[Image2]": "https://portal.uet.vnu.edu.vn/assessment_questions/70257/files/3403/download?verifier=VOrGzbWGfVljuW2mMg4NZvuIHED7JwOZeyHA8CDW",
+            "[Image3]": "https://portal.uet.vnu.edu.vn/assessment_questions/70257/files/3404/download?verifier=nH6Mc1LZqT6y2BSZlTZFPaiJf4sJxEY92xTjWTvJ",
+            "[Image4]": "https://portal.uet.vnu.edu.vn/assessment_questions/70257/files/3404/download?verifier=nH6Mc1LZqT6y2BSZlTZFPaiJf4sJxEY92xTjWTvJ",
+            "[Image5]": "https://portal.uet.vnu.edu.vn/assessment_questions/70257/files/3403/download?verifier=VOrGzbWGfVljuW2mMg4NZvuIHED7JwOZeyHA8CDW"
+        }
+    },
+    {
+        "question": "Hàm đơn điệu chặt ký hiệu qua < được định nghĩa như sau: 0<1 =1 còn tất cả các trường hợp khác đều bằng 0.  Biểu diễn nào là đúng đối với phép toán > nói trên",
+        "choices": [
+            "No answer text provided.",
+            "No answer text provided.",
+            "No answer text provided.",
+            "No answer text provided."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Có bao nhiêu hàm đại số logic hai ngôi?",
+        "choices": [
+            "4.",
+            "16.",
+            "8.",
+            "32."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Cho phép toán A xác định như sau 0 A 0 = 1, 1 A 0 = 0, 0 A 1 = 0, 1 A 1 = 0, hỏi A có thể biểu diễn qua phép hội (AND) ^ và phép phủ định ¬ (NOT) như thế nào?",
+        "choices": [
+            "a A b = ¬ (a ^ b).",
+            "a A b = a ^ b.",
+            "a A b = (¬a) ^ (¬b).",
+            "a A b = (¬a) ^ b."
+        ],
+        "answer": 2,
+        "links": {}
+    }
+]

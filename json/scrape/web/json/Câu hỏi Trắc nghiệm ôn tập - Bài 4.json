@@ -1,0 +1,222 @@
+[
+    {
+        "question": "Dữ liệu đa phương tiện là dữ liệu",
+        "choices": [
+            "Có thể lưu trữ trên nhiều phương tiện khác nhau như đĩa cứng, đĩa CD...",
+            "Là dữ liệu số và chữ",
+            "Là dữ liệu có thể tạo được từ nhiều phương tiện khác nhau",
+            "Là dữ liệu âm thanh hay hình ảnh"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán, là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu ảnh thuộc loại",
+        "choices": [
+            "Đa phương tiện",
+            "Logic",
+            "Văn bản",
+            "Số"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Chúng ta đã biết, chuẩn dấu phảy động IEEE 754 có những điều chỉnh so với kiểu dấu phảy động ban đầu. Phát biểu nào sai dưới đây",
+        "choices": [
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn phi số",
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn số 0 chuẩn",
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn vô hạn",
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn số nguyên"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Bản chất âm thanh là tín hiệu tương tự (analog) chứ không phải tín hiệu số (digital). Âm thanh khi đưa vào máy tính là loại nào",
+        "choices": [
+            "Số",
+            "Tùy từng trường hợp",
+            "Cả A và B đều sai",
+            "Tương tự"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ đăng ký xe máy bằng máy tính trong đó có các mục tên chủ xe, ngày sinh, địa chỉ, số khung, số máy, biển số, dung tích xy lanh, hãng sản xuất, kiểu xe. Dữ liệu biển số thuộc loại nào",
+        "choices": [
+            "Văn bản",
+            "Đa phương tiện",
+            "Số",
+            "Logic"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Có những ý kiến sau về dùng số dấu phảy độngÝ kiến 1. Số dấu phảy động được dùng trong tính toán gần\nđúng. Với số dấu phảy động, người ta chấp nhận sai số làm tròn có tính chất sai\nsố tuyệt đối có thể là lớn nhưng sai số tương đối nhỏ. Còn khi cần tính toán\nđúng tuyệt đối vẫn phải dùng số dấu phảy tĩnhÝ kiến 2. ý kiến 1 không có sức thuyết phục. vì có thể\ntăng số bít để biểu diễn số là có thể biểu diễn chính xác được, không nên hy\nsinh độ chính xác vì lý do bộ nhớ. Chỉ cần dùng số dấu phảy tĩnh là đủ.Ý kiến 3. Với cùng một số lượng vùng nhớ thoả đáng,\nkhoảng giá trị biểu diễn được của số dấu phảy động lớn hơn rất nhiều so với\nbiểu diễn số dấu phảy tĩnh nên dùng số dấu phảy động khi tính toán với các số\nlớn mà không cần tăng lượng bộ nhớÝ kiến 4. ý kiến 3 không đúng vì với cùng một vùng nhớ n\nbít thì dù là số dấu phảy động hay dấu phảy tĩnh cũng đều chỉ thể hiện được\nđúng 2nmã khác nhau mà thôi. Hơn nữa vấn đề bộ nhớ không còn quan\ntrọng vì bây giờ chi phí cho bộ nhớ rất rẻ.Quan điểm nào đúng hơn cả trong 4 cặp ý kiến sau.",
+        "choices": [
+            "Ý kiến 1 và ý kiến 3",
+            "Ý kiến 2 và ý kiến 4",
+            "Ý kiến 2 và ý kiến 3",
+            "Ý kiến 1 và ý kiến 4"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Khi biểu diễn giá trị logic, có những ý kiến sau, ý kiến nào kém thuyết phục hơn cả",
+        "choices": [
+            "1 bít",
+            "Tuỳ theo các hệ thống cụ thể nhưng nói chung là dùng một byte",
+            "1 byte",
+            "Tuỳ theo các hệ thống dùng từ máy dài bao nhiêu 8 bít, 16 bít, 32 bít"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán, là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu ảnh thuộc loại",
+        "choices": [
+            "Văn bản",
+            "Số",
+            "Logic",
+            "Đa phương tiện"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Số nguyên có biểu diễn được ở dưới dạng dấu phảy động được không",
+        "choices": [
+            "Có",
+            "Không",
+            "Tuỳ từng trường hợp cụ thể",
+            "Chỉ những số nguyên lớn hơn 2"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Sau đây là một số ý kiên sinh viên đưa ra về lý do dùng số dấu phảy động . Điều nào sai",
+        "choices": [
+            "Để đảm bảo được sai số tương đối chấp nhận được khi phải làm tròn số do phải sử dụng số lượng ngăn nhớ xác định trong biểu diễn số",
+            "Để tính toán các số gần đúng,",
+            "Để tăng cường khả năng biểu diễn các số rất lớn hoặc rất nhỏ với một số ngăn nhớ nhất định",
+            "Để tiết kiệm bộ nhớ"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Tuyệt đại đa số các máy tính sử dụng cấu trúc địa chỉ hoá tới byte. Byte thường được dùng để lưu trữ một chữ. Gần đây người ta dùng nhiều đến UNICODE mà mỗi trang mã có thể dùng đến 2 byte cho một ký tự. Lý do nào là lý do xác đáng nhất với việc tạo ra UNICODE là",
+        "choices": [
+            "Dùng nhiều byte hơn để mỗi quốc gia tự định nghĩa bộ chữ của mình cho đủ số mặt chữ",
+            "Tạo ra một bộ mã thống nhất toàn cầu trong đó mỗi quốc gia có quyền thừa hưởng các ký tự đã có cũng như có thể khai báo đủ các ký tự riêng liên quan đến bộ chữ của mình",
+            "Tất cả các phương án trên đều sai",
+            "Dùng cho các nước có số ký tự lớn hơn 256 như Trung Quốc, Nhật Bản"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Âm thanh có thể mã hoá dưới dạng số được không",
+        "choices": [
+            "Chỉ những ấm đơn sắc (luôn cùng một tần số)",
+            "Không",
+            "Tuỳ từng trường hợp cụ thể",
+            "Có"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán, là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu số giấy chứng minh thuộc loại nào",
+        "choices": [
+            "Logic",
+            "Đa phương tiện",
+            "Số",
+            "Văn bản"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán , là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu tên thuộc loại",
+        "choices": [
+            "Logic",
+            "Đa phương tiện",
+            "Văn bản",
+            "Số"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Có thể kết hợp cả hai phương pháp điều chế để mã hoá tín hiệu hay không",
+        "choices": [
+            "Có thể kết hợp cả điều biên, điều pha và điều tần",
+            "Có thể kết hợp điều tần và điều pha",
+            "Không thể kết hợp hai kiểu điều chế tín hiệu",
+            "Có thể kết hợp điều pha và điều biên"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Trong dữ liệu ảnh, màu được tạo từ các màu cơ bản nào",
+        "choices": [
+            "Đỏ Xanh Vàng (Red Blue Yellow)",
+            "Cam, Xanh, Tím (Orange, Blue, Violet)",
+            "Đỏ Xanh dương và Xanh lá cây (Red Blue Green)",
+            "Đỏ Xanh Nâu (Red Blue Brown)"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán , là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu tuổi thuộc loại",
+        "choices": [
+            "Đa phương tiện",
+            "Văn bản",
+            "Logic",
+            "Số"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Điều tần là phương pháp mã hoá tín hiệu dựa trên",
+        "choices": [
+            "Cả A và B đều sai",
+            "Cả A và B đều đúng",
+            "Tần số của sóng mang tín hiệu",
+            "Thay đổi tần số phát của đồng hồ xung trong CPU"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Chúng ta đã biết, chuẩn dấu phảy động IEEE 754 có những điều chỉnh so với kiểu dấu phảy động ban đầu. Phát biểu nào dưới đây sai",
+        "choices": [
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn số không chuẩn hoá",
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn số chuẩn hoá",
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào đặc tả riêng cho số khác 0",
+            "Số dấu phảy động theo chuẩn IEEE 754 đưa vào biểu diễn vô hạn"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Người ta lưu hồ sơ của cán bộ có mục tên, tuổi, quê quán, là đoàn viên hay không, đã có gia đình chưa, ảnh, số giấy chứng minh. Dữ liệu số giấy chứng minh thuộc loại",
+        "choices": [
+            "Số",
+            "Đa phương tiện",
+            "Logic",
+            "Văn bản"
+        ],
+        "answer": 3,
+        "links": {}
+    }
+]

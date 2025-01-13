@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz Application</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      background-color: #f4f4f9;
+      color: #333;
+    }
+    .quiz-container {
+      width: 80%;
+      max-width: 600px;
+      background: #fff;
+      padding: 20px;
+      margin: 20px auto;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+    h1 {
+      text-align: center;
+    }
+    .question {
+      margin: 20px 0;
+    }
+    .answers {
+      list-style: none;
+      padding: 0;
+    }
+    .answers li {
+      margin: 10px 0;
+    }
+    button {
+      background-color: #007BFF;
+      color: white;
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+    button:disabled {
+      background-color: #ccc;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 10px 0;
+    }
+    table, th, td {
+      border: 1px solid #ccc;
+    }
+    th, td {
+      padding: 8px;
+      text-align: center;
+    }
+    .correct {
+      background-color: #d4edda;
+      color: #155724;
+    }
+    .incorrect {
+      background-color: #f8d7da;
+      color: #721c24;
+    }
+    .file-list {
+      margin-bottom: 10px;
+    }
+    label {
+      margin-left: 10px;
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="quiz-container">
+    <h1>Quiz</h1>
+    <div id="file-list" class="file-list">
+      <!-- File list with checkboxes will be dynamically injected here -->
+    </div>
+    <label>
+      <input type="checkbox" id="shuffle-questions-checkbox"> Shuffle Questions
+    </label>
+    <label>
+      <input type="checkbox" id="shuffle-answers-checkbox"> Shuffle Answers
+    </label>
+    <button id="load-quiz-btn" style="margin: 10px 0;">Load Selected Quizzes</button>
+    <div id="quiz" style="margin-top: 20px;">
+      <!-- Quiz questions will be dynamically injected here -->
+    </div>
+    <button id="submit-btn">Submit Answers</button>
+    <button id="redo-btn" style="margin-top: 10px; display: none;">Redo Quiz</button>
+    <button id="show-answers-btn" style="margin-top: 10px; display: none;">Show Answers</button>
+    <div id="result" style="margin-top: 20px; font-size: 1.2em;"></div>
+  </div>
+
+  <script>
+    let quizData = [];
+    const quizContainer = document.getElementById('quiz');
+    const fileListContainer = document.getElementById('file-list');
+    const shuffleQuestionsCheckbox = document.getElementById('shuffle-questions-checkbox');
+    const shuffleAnswersCheckbox = document.getElementById('shuffle-answers-checkbox');
+    const loadQuizBtn = document.getElementById('load-quiz-btn');
+    const submitBtn = document.getElementById('submit-btn');
+    const redoBtn = document.getElementById('redo-btn');
+    const showAnswersBtn = document.getElementById('show-answers-btn');
+    const resultContainer = document.getElementById('result');
+
+    let userAnswers = [];
+
+    async function loadQuizFiles() {
+      try {
+        const response = await fetch('/list-quizzes');
+        const files = await response.json();
+
+        files.forEach(file => {
+          const checkbox = document.createElement('input');
+          checkbox.type = 'checkbox';
+          checkbox.value = `/json/${file}`;
+          checkbox.id = file;
+
+          const label = document.createElement('label');
+          label.htmlFor = file;
+          label.textContent = file.replace('.json', '');
+
+          const div = document.createElement('div');
+          div.appendChild(checkbox);
+          div.appendChild(label);
+
+          fileListContainer.appendChild(div);
+        });
+      } catch (error) {
+        console.error('Error loading quiz files:', error);
+      }
+    }
+
+    async function loadSelectedQuizzes() {
+  const selectedFiles = Array.from(fileListContainer.querySelectorAll('input:checked'))
+    .map(input => input.value);
+
+  try {
+    let combinedData = [];
+
+    for (const file of selectedFiles) {
+      const response = await fetch(file);
+      const data = await response.json();
+
+      if (shuffleAnswersCheckbox.checked) {
+        const shuffledData = data.map(question => {
+          const { choices, newCorrectIndex } = shuffleArrayWithCorrect(question.choices, question.answer);
+          return { ...question, choices, answer: newCorrectIndex };
+        });
+        combinedData = combinedData.concat(shuffledData);
+      } else {
+        combinedData = combinedData.concat(data);
+      }
+    }
+
+    if (shuffleQuestionsCheckbox.checked) {
+      combinedData = shuffleArray(combinedData);
+    }
+
+    quizData = combinedData;
+    loadQuiz();
+  } catch (error) {
+    console.error('Error loading quiz data:', error);
+  }
+}
+
+
+    function loadQuiz() {
+      quizContainer.innerHTML = ''; // Clear existing questions
+      quizData.forEach((item, index) => {
+        const questionElement = document.createElement('div');
+        questionElement.classList.add('question');
+
+        // Add the question text
+        let questionHTML = `<p><strong>Question ${index + 1}:</strong> ${item.question}</p>`;
+
+        // Add the matrix if present
+        if (item.matrix) {
+          questionHTML += '<table>';
+          item.matrix.forEach(row => {
+            questionHTML += '<tr>';
+            row.forEach(cell => {
+              questionHTML += `<td>${cell}</td>`;
+            });
+            questionHTML += '</tr>';
+          });
+          questionHTML += '</table>';
+        }
+
+        // Add the choices
+        questionHTML += `<ul class="answers">
+          ${item.choices
+            .map(
+              (choice, i) => `
+              <li>
+                <label>
+                  <input type="radio" name="question-${index}" value="${i}" />
+                  ${choice}
+                </label>
+              </li>`
+            )
+            .join('')}
+        </ul>`;
+
+        questionElement.innerHTML = questionHTML;
+        quizContainer.appendChild(questionElement);
+      });
+
+      quizContainer.addEventListener('change', handleInputChange);
+      resultContainer.textContent = '';
+      redoBtn.style.display = 'none';
+      showAnswersBtn.style.display = 'none';
+    }
+
+    function handleInputChange() {
+      userAnswers = quizData.map((_, index) => {
+        const selectedOption = document.querySelector(
+          `input[name="question-${index}"]:checked`
+        );
+        return selectedOption ? parseInt(selectedOption.value) : null;
+      });
+    }
+
+    function handleSubmit() {
+      const score = userAnswers.reduce((acc, answer, index) => {
+        return answer === quizData[index].answer ? acc + 1 : acc;
+      }, 0);
+
+      resultContainer.textContent = `You scored ${score} out of ${quizData.length}`;
+      showAnswersBtn.style.display = 'inline-block';
+      redoBtn.style.display = 'inline-block';
+    }
+
+    function showAnswers() {
+      quizData.forEach((item, index) => {
+        const answerElements = document.querySelectorAll(
+          `input[name="question-${index}"]`
+        );
+        answerElements.forEach((el, i) => {
+          const parent = el.parentElement.parentElement;
+          if (i === item.answer) {
+            parent.classList.add('correct');
+          } else if (i === userAnswers[index]) {
+            parent.classList.add('incorrect');
+          }
+        });
+      });
+    }
+
+    function handleRedo() {
+      loadQuiz();
+    }
+
+    function shuffleArray(array) {
+      const shuffled = [...array];
+      for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+      }
+      return shuffled;
+    }
+
+    function shuffleArrayWithCorrect(array, correctIndex) {
+      const correctChoice = array[correctIndex];
+      const otherChoices = array.filter((_, i) => i !== correctIndex);
+      const shuffledChoices = shuffleArray(otherChoices);
+      const newCorrectIndex = Math.floor(Math.random() * (shuffledChoices.length + 1));
+      shuffledChoices.splice(newCorrectIndex, 0, correctChoice);
+      return { choices: shuffledChoices, newCorrectIndex };
+    }
+
+    submitBtn.addEventListener('click', handleSubmit);
+    redoBtn.addEventListener('click', handleRedo);
+    showAnswersBtn.addEventListener('click', showAnswers);
+    loadQuizBtn.addEventListener('click', loadSelectedQuizzes);
+
+    // Initialize
+    loadQuizFiles();
+  </script>
+</body>
+</html>

@@ -1,0 +1,313 @@
+[
+    {
+        "question": "Hình thức mạng máy tính kết nối\ncác mạngquy mô thành phốlà đáp án nào dưới đây?",
+        "choices": [
+            "MAN",
+            "WAN",
+            "LAN",
+            "PAN"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Khẳng định nào đúng. Giao thức cảm nhận sóng mang đa truy nhập CSMA cho phép",
+        "choices": [
+            "Các máy tính có thể tham gia truyền thông khi phát hiện thấy đường truyền rỗi",
+            "Các máy tính chỉ được tham gia truyền thông khi nhận được quyền qua cơ chế trọng tài, chẳng hạn một thẻ (token)",
+            "Các máy tính có thể đồng thời tham gia truyền thông vào bất cứ lúc nào",
+            "Các máy tính có thể tham gia truyền thông khi đường rỗi được ít nhất một khỏang thời gian đã định trước."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trong danh sách dưới đây, đâu là thiết bị mạng?",
+        "choices": [
+            "USB",
+            "UPS",
+            "Webcam",
+            "Hub"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Mạng máy tính là",
+        "choices": [
+            "Là các máy tính nối với nhau qua mạng điện thoại.",
+            "Mạng Internet.",
+            "Các máy tính được kết nối với nhau qua các kênh truyền tín hiệu vật lý để chia sẻ tài nguyên và thông tin.",
+            "Là các máy tính được nối qua cáp vào chung một máy chủ (server)."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Chọn câu trả lời đầy đủ nhất về mô hình cộng tác theo kiểu Client/Server :",
+        "choices": [
+            "Máy chủ và máy khách cùng dùng chung dữ liệu và cùng nhau xử lý yêu cầu.",
+            "Một máy chủ phục vụ cho nhiều máy khách",
+            "Máy khách lấy dữ liệu từ trên máy chủ để xử lý",
+            "Các máy khách đưa ra yêu cầu, máy chủ xử lý và trả lại kết quả cho máy khách"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Thiết bị cho phép cắm nối các dây cáp mạng của máy tính theo tô pô hình sao là loại nào",
+        "choices": [
+            "Repeater",
+            "Hub và Switch",
+            "Switch",
+            "Hub",
+            "Hub và Repeater"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Trong các loại cáp truyền\nsau cáp truyền nào cho băng thông cao nhất",
+        "choices": [
+            "Cáp đồng trục",
+            "Cáp xoắn",
+            "Cáp quang"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Cáp quang nào có khả năng truyền xa hơn",
+        "choices": [
+            "Cáp quang đa mode",
+            "Cáp quang đơn mode"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Mạng rộng là mạng",
+        "choices": [
+            "Mạng có từ 100 máy trở lên",
+            "Hình thành từ việc liên kết các mạng cục bộ thông qua các thiết bị kết nối",
+            "Mạng Internet",
+            "Mạng của một quốc gia"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Mô hình mạng ngang hàng peer-to-peer là mô hình xử lý mà",
+        "choices": [
+            "Mọi máy đều có thể là máy chủ nếu trên đó cho phép chia sẻ thiết bị và dịch vụ cho các máy khác",
+            "Xử lý thực hiện ở một máy gọi là máy chủ. Máy trạm đơn thuần chỉ cung cấp ngoại vi từ xa cho máy chủ. Các thiết bị ngoại vi của máy trạm trở thành ngoại vi của máy chủ trong khi tính tóan",
+            "Máy chủ cung cấp thiết bị ngoại vi cho máy trạm. Máy trạm có thể dùng máy in mạng hay ổ đĩa mạng của một máy chủ",
+            "Xử lý phân tán ở nhiều máy. Máy chủ cung cấp các dịch vụ theo yêu cầu từ máy tính khác gọi là máy trạm"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trong các lý do cần có mạng máy tính, lý do nào thiếu cơ sở nhất",
+        "choices": [
+            "Các ứng dụng cộng tác từ khoảng cách xa phản hồi",
+            "Liên lạc",
+            "Chia sẻ tài nguyên"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Điều gì đúng khi nói về địa chỉ IPv4?",
+        "choices": [
+            "Địa chỉ IP sử dụng mặt nạ mask để phân chia các bít đánh dấu mạng nội bộ và địa chỉ trên mạng internet.",
+            "Địa chỉ IP có độ dài 32 bít.",
+            "Tất cả các đáp còn lại.",
+            "Địa chỉ IP được cấp cho các thực thể tham gia mạng máy tính."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Chuyển mạch (switch) khác bộ cắm nối tập trung\nHUB ở điểm nào",
+        "choices": [
+            ". Sử dụng giao thức CSMA/CD của mạng cục bộ",
+            "Dùng cáp xoắn (UTP hay STP)",
+            "Có thể kết nối theo tô pô hình sao",
+            "Cắch lan truyền tín hiệu giữa các cổng khi không có nhu cầu nối giữa các cổng"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Hãy cho câu trả lời đúng và đầy đủ nhất về mạng máy tính:",
+        "choices": [
+            "Là một tập hợp các máy tính trong trong một khu vực của một tổ chức được kết nối với nhau để chia sẻ thông tin của tổ chức đó",
+            "Là mạng Internet",
+            "Là tập hợp các máy tính kết nối với nhau qua các đường cáp để truyền dữ liệu cho nhau dưới các tín hiệu điện và tuân theo những quy ước truyền thông để các máy có thể hiểu các dữ liệu truyền cho nhau",
+            "Là tập các máy tính được nối với nhau theo các kênh truyền dữ liệu và tuân theo những quy ước truyền thông để các máy có thể hiểu các dữ liệu truyền cho nhau"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Thành phần/thiết bị nào sau đây không phải là thiết bị đầu-cuối?",
+        "choices": [
+            "Máy in.",
+            "Máy tính.",
+            "Điện thoại di động.",
+            "Cáp mạng."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Khẳng định nào sai đối với giao thức mạng cục bộ\nCSMA/CD",
+        "choices": [
+            "Các máy tính có thể tham gia truyền thông khi phát hiện thấy đường truyền rỗi",
+            "Các máy tính có thể tham gia truyền thông khi phát hiện thấy không quá một máy tính khác đang tham gia truyền thông",
+            "Các máy tính đang tham gia truyền thông có thể ngừng truyền thông nếu phát hiện có đụng độ"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Chọn phát biểu kém thuyết phục nhất trong các phát biểu sau",
+        "choices": [
+            "Lý do quan trọng nhất cần nối mạng vì cần sử dụng chung các thiết bị phần cứng.",
+            "Có thể dùng mạng để trao đổi thông tin",
+            "Mạng máy tính là một nhóm máy tính được nối với nhau bằng các kênh truyền tín hiệu vật lý theo một cách nối về mặt hình học và các quy ước truyền thông nhất định",
+            "Ưu điểm của việc nối mạng là có thể sử dụng chung các thiết bị phần cứng."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Mạng diện rộng là mạng",
+        "choices": [
+            "Hình thành từ việc liên kết các mạng cục bộ thông qua các thiết bị kết nối",
+            "Mạng Internet",
+            "Mạng có từ 100 máy trở lên",
+            "Mạng của một quốc gia"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cáp nào đi với HUB để cắm nối theo tô pô hính sao",
+        "choices": [
+            "Cáp đồng trục",
+            "Cáp quang",
+            "Cáp xoắn"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Tốc độ truy cập mạng được xác định theo đơn vị",
+        "choices": [
+            "RAM.",
+            "MHz.",
+            "GB.",
+            "kbps."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Giao thức cảm nhận sóng mang đa truy nhập CSMA\ncho phép",
+        "choices": [
+            "Các máy tính có thể đồng thời tham gia truyền thông vào bất cứ lúc nào",
+            "Các máy tính có thể tham gia truyền thông khi phát hiện thấy đường truyền rỗi",
+            "Các máy tính có thể tham gia truyền thông khi đường truyền rỗi được ít nhất một khoảng thời gian đã định trước",
+            "Các máy tính chỉ được tham gia truyền thông khi nhận được quyền qua cơ chế trọng tài, chẳng hạn một thẻ (token)"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Dưới góc độ địa lý, mạng máy tính được phân loại thành:",
+        "choices": [
+            "Mạng diện rộng, mạng toàn cầu, mạng toàn cục.",
+            "Mạng cục bộ, mạng toàn cục, mạng toàn cầu.",
+            "Mạng cục bộ, mạng diện rộng, mạng toàn cục.",
+            "Mạng cục bộ, mạng diện rộng, mạng toàn cầu."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Chức năng của bộ lặp (repeater) là gì",
+        "choices": [
+            "Tiếp nhận dữ liệu, khôi phục tín hiệu để chống làm hỏng tín hiệu nhằm mở rộng quy mô địa lý của mạng",
+            "Đấu nối mạch điện để mở rộng quy mô địa lý của mạng",
+            "Cấp năng lượng bổ sung cho mạng để mở rộng quy mô địa lý của mạng"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Điểm nào sai khi so sánh hoạt động của cầu (bridge) và chuyển mạch (switch)",
+        "choices": [
+            "Số cổng của cầu là 2, còn của chuyển mạch có thể nhiều hơn",
+            "Các gói tin chuyển từ cổng nọ sang cổng kia khi không thấy máy cần chuyển tin nằm trên cùng một cổng"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Định nghĩa đúng nhất về mạng máy tính:",
+        "choices": [
+            "Là mạng LAN (mạng cục bộ)",
+            "Là tập các máy tính được nối với nhau theo các đường truyền vật lý và tuân theo một quy ước truyền thông.",
+            "Là mạng Internet",
+            "Là tập hợp các máy tính"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Thông số nào của cấu hình máy ảnh hưởng đến khả năng hoạt động đa nhiệm?",
+        "choices": [
+            "Bộ nguồn điện cấp phát.",
+            "Tất cả các đáp án còn lại.",
+            "Dung lượng của RAM.",
+            "Số nhân của chip CPU."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Mạng WAN:",
+        "choices": [
+            "Chỉ cho phép kết nối các máy tính trong phạm vi bán kính 200 km.",
+            "Cho phép kết nối tất cả các mạng máy tính trên toàn cầu.",
+            "Là một tên gọi khác của mạng Internet.",
+            "Cho phép kết nối các mạng LAN nhỏ lại thành một mạng duy nhất."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Mạng cục bộ là mạng",
+        "choices": [
+            "Mạng trong phạm vi nhỏ, các máy chia sẻ trực tiếp đường truyền chung, không dùng thiết bị dẫn đường",
+            "Là mạng không sử dụng giao thức TCP/IP",
+            "Số máy ít, không cần thiết bị nối giữa các máy",
+            "Là mạng không dây"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Mô hình client-server là mô hình xử lý",
+        "choices": [
+            "Máy chủ cung cấp thiết bị ngoại vi cho máy trạm. Máy trạm có thể dùng máy in mạng hay ổ đĩa mạng của một máy chủ",
+            "Xử lý thực hiện toàn bộ ở một máy gọi là máy chủ. Máy trạm đơn thuần chỉ là thiết bị cung cấp phương tiện giao tiếp với máy chủ như màn hình và bàn phím",
+            "Mọi máy trong mạng đều có khả năng cung cấp dịch vụ cho máy khác.",
+            "Máy chủ (server) cung cấp các dịch vụ theo yêu cầu từ máy tính khác gọi là máy trạm. Các máy trạm có thể xử lý phối hợp với các xử lý khác trên máy chủ"
+        ],
+        "answer": 3,
+        "links": {}
+    }
+]

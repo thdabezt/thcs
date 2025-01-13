@@ -1,0 +1,324 @@
+[
+    {
+        "question": "Khẳng định nào sai:",
+        "choices": [
+            "Bộ nhớ ảo có thể làm tăng thời gian xử lý",
+            "Bộ nhớ ảo chỉ dùng với máy tính trước đây. Ngày nay, bộ nhớ trong đã rẻ và đủ lớn nên không cần dùng bộ nhớ ảo như trước nữa",
+            "Bộ nhớ ảo là cơ chế cho phép máy tính chạy được các chương trình có kích thước lớn, thậm chí còn lớn hơn phần bộ nhớ còn trống của máy tính",
+            "Bộ nhớ ảo là một cơ chế phối hợp giữa việc dùng bộ nhớ ngoài và bộ nhớ trong"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Câu nào đúng khi nói về hệ điều hành DOS?",
+        "choices": [
+            "Là hệ điều hành đa chương trình.",
+            "Là hệ điều hành đơn chương trình.",
+            "Cung cấp sẵn chế độ đồ họa (GUI) cho tất cả chương trình.",
+            "Là hệ điều hành đa người dùng."
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Trong những hệ điều hành sau, hệ nào là loại nhiều người dùng (multiuser)",
+        "choices": [
+            "Windows 7",
+            "Windows 95",
+            "UNIX",
+            "DOS"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Câu nào đúng khi nói về cơ chế plug & play của hệ điều hành?",
+        "choices": [
+            "Luôn luôn phải tải và cài module điều khiển từ mạng internet về mới dùng được thiết bị ngoại vi.",
+            "Sử dụng một phần mềm điều khiển chung cho mọi loại thiết bị ngoại vi.",
+            "Khả năng phát hiện và cài đặt chương trình điều khiển thiết bị ngoại vi mới ở mức độ tự động hóa cao.",
+            "Chỉ nhận thiết bị ngoại vi mới cắm vào khi khởi động lại máy."
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Trong các máy tính ngày nay, có còn dùng cơ chế spooling nữa hay không",
+        "choices": [
+            "Không",
+            "Có"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Ý nào dưới đây là đúng: Hệ điều hành máy tính cá nhân",
+        "choices": [
+            "là phần mềm phải có để máy tính cá nhân có thể hoạt động",
+            "là phần mềm do công ty Microsoft độc quyền xây dựng và phát triển.",
+            "là phần mềm không được thay đổi trong máy tính cá nhân.",
+            "là phần mềm cài sẵn trong mọi máy tính cá nhân"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Bạn đã cài đặt một đĩa hoàn toàn mới và bạn muốn định dạng nó. Mục đích của công việc định dạng là gì",
+        "choices": [
+            "Phục hồi dữ liệu bị mất trong đĩa",
+            "Tạo một đĩa chỉ đọc",
+            "Tạo một đĩa để đọc và chấp nhận dữ liệu",
+            "Làm cho nhiều người sử dụng có thể truy nhập được đĩa"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Khẳng định nào không chính xác",
+        "choices": [
+            "Hệ điều hành đa nhiệm tăng cường được hiệu suất sử dụng máy tính",
+            "Hệ điều hành đa nhiệm là hệ điều hành đa chương trình (multi -program)",
+            "Hệ điều hành đa nhiệm (multi-task) là hệ điều hành đa người sử dụng (multi-user)",
+            "Hệ điều hành hành phân chia thời gian (time sharing) là hệ điều hành đa nhiệm"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Trong các hệ điều hành sau, hệ điều hành nào là đa người dùng",
+        "choices": [
+            "DOS",
+            "Windows"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Khẳng định nào là đúng khi nói về cơ chê plug & play. Tính năng plug & play là cơ chế của hệ điều hành nhằm",
+        "choices": [
+            "Cơ chế này đã được sử dụng rất thịnh hành từ những năm 90 trên các máy tính lớn (mini, mainframe)",
+            "Phát hiện ngoại vi mới để tự cài đặt chương trình điều khiển phù hợp và nếu không làm được thì cảnh báo người sử dụng",
+            "Cơ chế plug play đã được sử dụng từ hệ điều hành DOS",
+            "Phát hiện những ngoại vi mới để cảnh báo người sử dụng cài đặt thêm các trình điều khiển"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Mục đích của xử lý theo lô là",
+        "choices": [
+            "Cả A và B",
+            "Để giảm bớt thời gian chết khi phải lao động thủ công để chuyển tiếp công việc",
+            "Để liên kết được các công việc với nhau, công việc truớc có thể để lại dữ liệu và trạng thái xử lý cho công việc sau tiếp tục thực hiện",
+            "Cả A và C",
+            "Để người sử dụng có thể gửi cả một gói công việc một lần để đỡ tốn thời gian"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Khẳng định nào đúng nhất. Một hệ điều hành bất kỳ có thể",
+        "choices": [
+            "Cho phép nhiều chương trình cùng nạp lên máy và chạy luân phiên",
+            "Quản lý thiết bị , chương trình và dữ liệu trong quá trình làm việc và cung cấp môi trường giao tiếp giữa người sử dụng và máy tính",
+            "Tất cả các đáp án còn lại đều đúng.",
+            "Cho phép nhiều người sử dụng đồng thời trên các đầu cuối (terminal) nối với máy tính"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Trong những hệ điều hành sau, hệ nào không phải loại đa nhiệm (multitask)",
+        "choices": [
+            "Windows",
+            "UNIX",
+            "Linux",
+            "DOS"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Mục đích của công việc định dạng đĩa là gì",
+        "choices": [
+            "Khôi phục lại dữ liệu trên đĩa",
+            "Làm cho nhiều người sử dụng có thể truy nhập được đĩa",
+            "Tạo một đĩa trắng đúng khuôn dạng để lưu trữ dữ liệu",
+            "Sắp xếp lại dữ liệu trên đĩa"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Khẳng định nào sai. Các chức năng của hệ điều hành gồm có",
+        "choices": [
+            "Cung cấp môi trường giao tiếp người máy",
+            "Quản lý các công việc xử lý trên máy và điều phối động các tài nguyên của máy cho các công việc đó",
+            "Quản lý file",
+            "Quản lý giao tiếp với các máy tính khác qua các mạng để tránh virus lây lan"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Phát biểu nào sau đây là ĐÚNG",
+        "choices": [
+            "GUI là viết tắt của Guide User Index.",
+            "GUI là viết tắt của Graphical User Index.",
+            "GUI là viết tắt của Guide User Indication.",
+            "GUI là viết tắt của Graphical User Interface."
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "Lợi ích của GUI (Graphic User Interface) là gì",
+        "choices": [
+            "GUI giảm thời gian tải từ Internet xuống",
+            "GUI làm cho bàn phím trở nên lỗi thời",
+            "GUI cho phép dùng con chuột để thao tác với máy tính",
+            "GUI tăng cường cho sự hoạt động của thẻ mạch đồ họa (graphic card)"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Hệ điều hành là",
+        "choices": [
+            "Phần mềm quản lý các thiết bị, quản lý công việc xử lý, quản lý dữ liệu và thực hiện giao tiếp người - máy hoặc máy - máy",
+            "Phần mềm quản lý toàn bộ hoạt động của máy tính trong suốt quá trình làm việc",
+            "Phần mềm thực hiện tất cả các công việc của máy tính"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trong hệ điều hành DOS, người ta có thể chạy các chương trình thường trú. Một khi chạy, các chương trình thường trú sẽ không tự dừng mà sẽ cùng chạy với cả các chương trình khác. Vậy DOS có phải là hệ điều hành đa nhiệm không",
+        "choices": [
+            "Có",
+            "Không"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Cái tên nào sau đây không phải là một hệ điều hành?",
+        "choices": [
+            "UPS",
+            "DOS",
+            "Window",
+            "UNIX"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cơ chế spooling cho phép",
+        "choices": [
+            "Giảm thời gian CPU",
+            "Giảm công sức của người vận hành máy",
+            "Giảm tổng thời gian làm việc của các thiết bị",
+            "Giảm thời gian kết thúc xử lý"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Hệ điều hành bắt đầu xuất hiện ở máy tính thế hệ nào",
+        "choices": [
+            "2",
+            "4",
+            "3",
+            "1"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Cơ chế plug and play là cơ chế",
+        "choices": [
+            "Loại thiết bị nào cũng sử dụng được vì hệ điều hành có đầy đủ các chương trình điều khiển cho mọi loại thiết bị ngoại vi.",
+            "Có cơ chế tự động phát hiện các thiết bị mới và tự động cảnh báo hoặc bổ sung chương trình điều khiển cho thiết bị mới",
+            "Đây là cơ chế của phần cứng không có liên quan gì đến hệ điều hành"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Chọn câu trả lời thích hợp nhất: “Tại sao phải định kì sử dụng công cụ chống phân mảnh đĩa cứng",
+        "choices": [
+            "để tốc độ truy xuất dữ liệu từ đĩa cứng nhanh hơn",
+            "để nén dữ liệu trong đĩa cứng tốt hơn",
+            "để ổ đĩa cứng máy tính lâu hỏng",
+            "để tạo ra nhiều không gian trống hơn trong đĩa cứng"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Trong chế độ phân trang, một chương trình được cấp một số trang nhớ, kích thước của các trang nhớ này ra sao?",
+        "choices": [
+            "Bằng nhau.",
+            "Khác nhau, tùy thuộc vào xác suất lệnh thường được gọi tới.",
+            "Khác nhau, tuân theo quy luật số mũ.",
+            "Luôn luôn bằng 512 từ máy."
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Các chức năng của hệ điều hành gồm có",
+        "choices": [
+            "Cung cấp môi trường giao tiếp người máy",
+            "Quản lý các công việc xử lý trên máy và điều phối động các tài nguyên của máy cho các công việc đó",
+            "Quản lý giao tiếp với các máy tính khác qua các mạng để tránh virus lây lan",
+            "Quản lý file"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Phần mềm Windows, Linux và OS2 có đặc điểm gì chung",
+        "choices": [
+            "Tất cả đều là hệ điều hành",
+            "Tất cả đều là phần mềm điều khiển thiết bị phần cứng",
+            "Tất cả đều là phần mềm ứng dụng",
+            "Tất cả đều là dịch vụ dải tần rộng (Broadband Service)"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "Hệ điều hành thường được sử dụng với các máy tính lớn (mini, mainframe) thường là:",
+        "choices": [
+            "DOS",
+            "Windows",
+            "UNIX"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "Trong cách hệ điều hành sau, hệ nào là đơn nhiệm",
+        "choices": [
+            "Windows 10",
+            "DOS",
+            "LINUX",
+            "Ubuntu"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "Điều gì đúng khi nói về hệ điều hành đa nhiệm?",
+        "choices": [
+            "Các chương trình được xử lý tuần tự.",
+            "Các chương trình được xử lý song song.",
+            "Các chương trình được xử lý từng phần luân phiên (cùng tiến triển).",
+            "Các chương trình được dự đoán có thời gian thực hiện dài sẽ ưu tiên hoàn thành trước."
+        ],
+        "answer": 2,
+        "links": {}
+    }
+]
