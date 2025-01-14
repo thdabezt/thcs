@@ -75,6 +75,12 @@
       margin-left: 10px;
       font-size: 1rem;
     }
+    .timer {
+      font-size: 1.5em;
+      font-weight: bold;
+      text-align: center;
+      margin: 10px 0;
+    }
   </style>
 </head>
 <body>
@@ -89,6 +95,13 @@
     <label>
       <input type="checkbox" id="shuffle-answers-checkbox"> Shuffle Answers
     </label>
+    <label>
+      <input type="checkbox" id="timer-checkbox"> Enable Timer
+    </label>
+    <label>
+      Max Questions: <input type="number" id="max-questions" value="0" min="0">
+    </label>
+    <div id="timer" class="timer" style="display: none;">0:00:00</div>
     <button id="load-quiz-btn" style="margin: 10px 0;">Load Selected Quizzes</button>
     <div id="quiz" style="margin-top: 20px;">
       <!-- Quiz questions will be dynamically injected here -->
@@ -105,6 +118,9 @@
     const fileListContainer = document.getElementById('file-list');
     const shuffleQuestionsCheckbox = document.getElementById('shuffle-questions-checkbox');
     const shuffleAnswersCheckbox = document.getElementById('shuffle-answers-checkbox');
+    const timerCheckbox = document.getElementById('timer-checkbox');
+    const maxQuestionsInput = document.getElementById('max-questions');
+    const timerElement = document.getElementById('timer');
     const loadQuizBtn = document.getElementById('load-quiz-btn');
     const submitBtn = document.getElementById('submit-btn');
     const redoBtn = document.getElementById('redo-btn');
@@ -112,69 +128,77 @@
     const resultContainer = document.getElementById('result');
 
     let userAnswers = [];
+    let timerInterval;
+    let startTime;
 
     async function loadQuizFiles() {
-  try {
-    const response = await fetch('/thcs/json/file_list.json'); // Fetch the predefined file list
-    const files = await response.json();
+      try {
+        const response = await fetch('/thcs/json/file_list.json'); // Fetch the predefined file list
+        const files = await response.json();
 
-    files.forEach(file => {
-      const checkbox = document.createElement('input');
-      checkbox.type = 'checkbox';
-      checkbox.value = file;
-      checkbox.id = file;
+        files.forEach(file => {
+          const checkbox = document.createElement('input');
+          checkbox.type = 'checkbox';
+          checkbox.value = file;
+          checkbox.id = file;
 
-      const label = document.createElement('label');
-      label.htmlFor = file;
-      label.textContent = file.replace('./json/', '').replace('.json', '');
+          const label = document.createElement('label');
+          label.htmlFor = file;
+          label.textContent = file.replace('./json/', '').replace('.json', '');
 
-      const div = document.createElement('div');
-      div.appendChild(checkbox);
-      div.appendChild(label);
+          const div = document.createElement('div');
+          div.appendChild(checkbox);
+          div.appendChild(label);
 
-      fileListContainer.appendChild(div);
-    });
-  } catch (error) {
-    console.error('Error loading file list:', error);
-  }
-}
-
+          fileListContainer.appendChild(div);
+        });
+      } catch (error) {
+        console.error('Error loading file list:', error);
+      }
+    }
 
     async function loadSelectedQuizzes() {
-  const selectedFiles = Array.from(fileListContainer.querySelectorAll('input:checked'))
-    .map(input => input.value); // Get selected files
+      const selectedFiles = Array.from(fileListContainer.querySelectorAll('input:checked'))
+        .map(input => `/thcs${input.value}`); // Prepend /thcs to paths
 
-  try {
-    let combinedData = [];
+      try {
+        let combinedData = [];
 
-    for (const file of selectedFiles) {
-      const response = await fetch(file); // Fetch each selected quiz file
-      const data = await response.json();
+        for (const file of selectedFiles) {
+          const response = await fetch(file); // Fetch each selected quiz file
+          const data = await response.json();
 
-      // Shuffle answers if the checkbox is checked
-      const processedData = shuffleAnswersCheckbox.checked
-        ? data.map(question => {
-            const { choices, newCorrectIndex } = shuffleArrayWithCorrect(question.choices, question.answer);
-            return { ...question, choices, answer: newCorrectIndex };
-          })
-        : data;
+          // Shuffle answers if the checkbox is checked
+          const processedData = shuffleAnswersCheckbox.checked
+            ? data.map(question => {
+                const { choices, newCorrectIndex } = shuffleArrayWithCorrect(question.choices, question.answer);
+                return { ...question, choices, answer: newCorrectIndex };
+              })
+            : data;
 
-      combinedData = combinedData.concat(processedData); // Merge quiz data
+          combinedData = combinedData.concat(processedData); // Merge quiz data
+        }
+
+        // Shuffle and limit questions if required
+        if (shuffleQuestionsCheckbox.checked) {
+          combinedData = shuffleArray(combinedData);
+        }
+
+        const maxQuestions = parseInt(maxQuestionsInput.value, 10);
+        if (maxQuestions > 0 && maxQuestions < combinedData.length) {
+          combinedData = combinedData.slice(0, maxQuestions);
+        }
+
+        quizData = combinedData; // Set global quiz data
+        loadQuiz(); // Load the quiz into the UI
+
+        if (timerCheckbox.checked) {
+          startTimer();
+        }
+      } catch (error) {
+        console.error('Error loading quiz data:', error);
+      }
     }
-
-    // Shuffle questions if the checkbox is checked
-    if (shuffleQuestionsCheckbox.checked) {
-      combinedData = shuffleArray(combinedData);
-    }
-
-    quizData = combinedData; // Set global quiz data
-    loadQuiz(); // Load the quiz into the UI
-  } catch (error) {
-    console.error('Error loading quiz data:', error);
-  }
-}
-
-
 
     function loadQuiz() {
       quizContainer.innerHTML = ''; // Clear existing questions
@@ -240,6 +264,8 @@
       resultContainer.textContent = `You scored ${score} out of ${quizData.length}`;
       showAnswersBtn.style.display = 'inline-block';
       redoBtn.style.display = 'inline-block';
+
+      stopTimer();
     }
 
     function showAnswers() {
@@ -260,6 +286,9 @@
 
     function handleRedo() {
       loadQuiz();
+      if (timerCheckbox.checked) {
+        startTimer();
+      }
     }
 
     function shuffleArray(array) {
@@ -278,6 +307,23 @@
       const newCorrectIndex = Math.floor(Math.random() * (shuffledChoices.length + 1));
       shuffledChoices.splice(newCorrectIndex, 0, correctChoice);
       return { choices: shuffledChoices, newCorrectIndex };
+    }
+
+    function startTimer() {
+      timerElement.style.display = 'block';
+      startTime = Date.now();
+      timerInterval = setInterval(() => {
+        const elapsedTime = Date.now() - startTime;
+        const hours = Math.floor(elapsedTime / (1000 * 60 * 60));
+        const minutes = Math.floor((elapsedTime % (1000 * 60 * 60)) / (1000 * 60));
+        const seconds = Math.floor((elapsedTime % (1000 * 60)) / 1000);
+        timerElement.textContent = `${hours}:${minutes.toString().padStart(2, '0')}:${seconds.toString().padStart(2, '0')}`;
+      }, 1000);
+    }
+
+    function stopTimer() {
+      clearInterval(timerInterval);
+      timerElement.style.display = 'none';
     }
 
     submitBtn.addEventListener('click', handleSubmit);
