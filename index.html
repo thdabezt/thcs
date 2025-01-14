@@ -89,20 +89,25 @@
     <div id="file-list" class="file-list">
       <!-- File list with checkboxes will be dynamically injected here -->
     </div>
+    <br>
     <label>
       <input type="checkbox" id="shuffle-questions-checkbox"> Shuffle Questions
     </label>
     <label>
       <input type="checkbox" id="shuffle-answers-checkbox"> Shuffle Answers
     </label>
-    <label>
-      <input type="checkbox" id="timer-checkbox"> Enable Timer
-    </label>
+    <br>
     <label>
       Max Questions: <input type="number" id="max-questions" value="0" min="0">
     </label>
-    <div id="timer" class="timer" style="display: none;">0:00:00</div>
+    <br>
+    <label>
+      <input type="checkbox" id="timer-checkbox"> Enable Timer
+    </label>
+    <br>
     <button id="load-quiz-btn" style="margin: 10px 0;">Load Selected Quizzes</button>
+    <br>
+    <div id="timer" class="timer" style="display: none;">0:00:00</div>
     <div id="quiz" style="margin-top: 20px;">
       <!-- Quiz questions will be dynamically injected here -->
     </div>
@@ -133,7 +138,7 @@
 
     async function loadQuizFiles() {
       try {
-        const response = await fetch('/thcs/json/file_list.json'); // Fetch the predefined file list
+        const response = await fetch('./json/file-list.json'); // Fetch the predefined file list
         const files = await response.json();
 
         files.forEach(file => {
@@ -159,7 +164,7 @@
 
     async function loadSelectedQuizzes() {
       const selectedFiles = Array.from(fileListContainer.querySelectorAll('input:checked'))
-        .map(input => `/thcs${input.value}`); // Prepend /thcs to paths
+        .map(input => input.value); // Use the value directly without prepending ./json/
 
       try {
         let combinedData = [];
@@ -193,12 +198,14 @@
         loadQuiz(); // Load the quiz into the UI
 
         if (timerCheckbox.checked) {
+          resetTimer();
           startTimer();
         }
       } catch (error) {
         console.error('Error loading quiz data:', error);
       }
     }
+
 
     function loadQuiz() {
       quizContainer.innerHTML = ''; // Clear existing questions
@@ -264,7 +271,6 @@
       resultContainer.textContent = `You scored ${score} out of ${quizData.length}`;
       showAnswersBtn.style.display = 'inline-block';
       redoBtn.style.display = 'inline-block';
-
       stopTimer();
     }
 
@@ -285,10 +291,11 @@
     }
 
     function handleRedo() {
-      loadQuiz();
       if (timerCheckbox.checked) {
+        resetTimer();
         startTimer();
       }
+      loadQuiz();
     }
 
     function shuffleArray(array) {
@@ -323,7 +330,11 @@
 
     function stopTimer() {
       clearInterval(timerInterval);
-      timerElement.style.display = 'none';
+    }
+
+    function resetTimer() {
+      stopTimer();
+      timerElement.textContent = '0:00:00';
     }
 
     submitBtn.addEventListener('click', handleSubmit);
