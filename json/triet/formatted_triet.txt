@@ -1,0 +1,925 @@
+Question: Triết học có chức năng cơ bản nào?
+A. Chức năng thế giới quan
+B. Chức năng phương pháp luận chung nhất.
+C. Cả a và b
+D. Không có câu trả lời đúng
+Answer: 2
+
+Question: Nhận định sau đây thuộc lập trường triết học nào? “Nhân tố kinh tế là nhân tố quyết định duy nhất trong lịch sử.”
+A. Chủ nghĩa duy vậy biện chứng.
+B. Chủ nghĩa duy tâm chủ quan.
+C. Chủ nghĩa duy tâm khách quan.
+D. Chủ nghĩa duy vật tầm thường.
+Answer: 3
+
+Question: Việc thừa nhận hay không thừa nhận tính thống nhất của thế giới có phải là sự khác nhau căn bản giữa chủ nghĩa duy vật và chủ nghĩa duy tâm hay không?
+A. Có.
+B. Không.
+C. Khác.
+Answer: 1
+
+Question: Xác định mệnh đề đúng theo quan điểm duy vật biện chứng.
+A. Phản điện tử, phản hạt nhân là phi vật chất.
+B. Phản điện tử, phản hạt nhân là thực tại khách quan, là dạng cụ thể của vật chất.
+C. Phản vật chất là sự tưởng tượng thuần túy của các nhà vật lý học.
+D. Phản vật chất không phải là vật chất.
+Answer: 1
+
+Question: Tồn tại khách quan là tồn tại như thế nào?
+A. Tồn tại bên ngoài ý thức của con người, không phụ thuộc vào ý thức của con người, độc lập vào ý thức của con người.
+B. Được ý thức của con người phản ánh.
+C. Tồn tại không thể nhận thức được.
+D. Cả A và B.
+Answer: 3
+
+Question: Bản chất của thế giới là vật chất, thế giới thống nhất ở tính vật chất. Điều đó thể hiện ở chỗ:
+A. Chỉ có một thế giới duy nhất là thế giới vật chất.
+B. Tất cả mọi sự vật, hiện tượng của thế giới chỉ là những hình thức biếu hiện đa dạng của vật chất với những mối liên hệ vật chất và tuân theo quy luật khách quan.
+C. Thế giới vật chất tồn tại vĩnh viễn, vô hạn và vô tận.
+D. Thể hiện ở cả A, B, C.
+Answer: 3
+
+Question: Về mặt nhận thức luận thì khái niệm vật chất không có ý nghĩa gì khác mà chính là:
+A. Tồn tại khách quan.
+B. Thực tại khách quan tồn tại độc lập với ý thức con người.
+C. Được ý thức con người phản ánh.
+D. Tồn tại thực sự.
+Answer: 1, 2
+
+Question: Khái quát nguồn gốc tự nhiên của ý thức:
+A. Nguồn gốc tự nhiên và ngôn ngữ.
+B. Nguồn gốc tự nhiên và xã hội.
+C. Nguồn gốc lịch sử – xã hội và hoạt động của bộ não con người.
+D. Cả B và C.
+Answer: 1
+
+Question: Theo quan điểm của triết học Mác – Lê nin: ý thức là:
+A. Một dạng tồn tại của vật chất.
+B. Dạng vật chất đặc biệt mà người ta không thể dùng giác quan trực tiếp để cảm nhận.
+C. Sự phản ánh tinh thần của con người về thế giới.
+D. Cả A, B, C.
+Answer: 2
+
+Question: Tri thức đóng vai trò là:
+A. Nội dung cơ bản của ý thức.
+B. Phương thức tồn tại của ý thức
+C. Cả A và B
+D. Không có ý kiến đúng.
+Answer: 2
+
+Question: Để phát huy vai trò tích cực của ý thức trong thực tiễn cần phải:
+A. Có ý thức phản ánh đúng thực tại khách quan.
+B. Có một tư tưởng sáng tạo.
+C. Ý thức phải được vật chất hoá trong thực tiễn.
+D. Cả 3 phương án trên.
+Answer: 3
+
+Question: Phép biện chứng nào cho rằng biện chứng ý niệm sinh ra biện chứng của sự vật.
+A. Phép biện chứng thời kỳ cổ đại.
+B. Phép biện chứng của các nhà tư tưởng xã hội dân chủ Nga.
+C. Phép biện chứng duy vật.
+D. Phép biện chứng duy tâm khách quan
+Answer: 3
+
+Question: Phép biện chứng duy vật bao gồm những nguyên lý quy luật cơ bản nào?
+A. 1 nguyên lý, 1 quy luật
+B. 2 nguyên lý, 2 quy luật
+C. 2 nguyên lý, 3 quy luật
+D. 3 nguyên lý, 3 quy luật
+Answer: 2
+
+Question: Cho hai tam giác: ABC là tam giác thường, DEG là tam giác vuông. Những khẳng định nào sau đây khẳng định nào đúng?
+A. ABC là cái chung, DEG là cái riêng
+B. ABC và DEG đều là cái riêng
+C. ABC và DEG là cái riêng nhưng đồng thời có tính chất chung
+D. Cả B và C
+Answer: 3
+
+Question: Quan điểm của trường phái triết học tách rời tuyệt đối mối quan hệ giữa cái chung và cái riêng:
+A. Trường phái học Duy danh
+B. Trường phái học Duy thực
+C. Cà hai trường phái trên
+D. Không có đáp án đúng
+Answer: 2
+
+Question: Cái … là cái toàn bộ, phong phú hơn cái …
+A. Chung/Riêng
+B. Riêng/Chung
+C. Chung/Đơn nhất
+D. Đơn nhất/Riêng
+Answer: 1
+
+Question: Công cuộc xây dựng chủ nghĩa xã hội trên thế giới phải xuất phát từ tình hình cụ thể của từng đất nước. Đó là bài học về việc…
+A. Áp dụng cái chung phải tùy theo từng cái riêng cụ thể để vận dụng cho thích hợp.
+B. Áp dụng cái chung phải tùy theo từng cái đơn nhất cụ thể để vận dụng cho thích hợp.
+C. Áp dụng cái riêng phải dựa vào cái chung.
+Answer: 0
+
+Question: Phạm trù nhằm chỉ sự tác động lẫn nhau giữa các mặt trong một sự vật hoặc giữa các sự vật với nhau, gây ra một biến đổi nào đó, gọi là gì?
+A. Nguyên nhân.
+B. Kết quả.
+C. Khả năng.
+D. Không có đáp án nào đúng.
+Answer: 0
+
+Question: Có rất nhiều loại nguyên nhân, như: nguyên nhân cơ bản, nguyên nhân chủ yếu, nguyên nhân bên trong, nguyên nhân bên ngoài, nguyên nhân chủ quan, nguyên nhân khách quan… Điều đó chứng tỏ…
+A. Một kết quả chỉ có thể do một loại nguyên nhân gây ra.
+B. Một kết quả có thể do nhiều loại nguyên nhân gây ra.
+C. Một kết quả có thể không cần nguyên nhân gây ra.
+D. Không thể nhận thức được quan hệ nguyên nhân – kết quả.
+Answer: 1
+
+Question: Cái không do mối liên hệ bản chất bên trong kết cấu vật chất, bên trong sự vật quyết định, mà do các nhân tố bên ngoài, do sự ngẫu hợp của nhiều hoàn cảnh bên ngoài quyết định, gọi là gì?
+A. Tất nhiên.
+B. Ngẫu nhiên.
+C. Khả năng.
+D. Không xác định
+Answer: 1
+
+Question: Phạm trù triết học dùng để chỉ những gì hiện có, hiện đang tồn tại thực sự, gọi là gì?
+A. Kết quả
+B. Hiện thực.
+C. Khả năng.
+D. Hiện thực khách quan.
+Answer: 1
+
+Question: Đối tượng của triết học có thay đổi trong lịch sử không?
+A. Không
+B. Có
+Answer: 1
+
+Question: Quan hệ giữa khoa học tự nhiên với thần học ở thời kỳ Phục Hưng như thế nào?
+A. Khoa học tự nhiên hoàn toàn phụ thuộc vào thần học và tôn giáo
+B. Khoa học tự nhiên hoàn toàn độc lập với thần học và tôn giáo.
+C. Khoa học tự nhiên dần dần độc lập với thần học và tôn giáo
+Answer: 2
+
+Question: Triết học của các nhà tư tưởng thời kỳ Phục Hưng có đặc điểm gì?
+A. Có tính chất duy vật tự phát
+B. Có tính duy tâm khách quan
+C. Có tính duy tâm chủ quan
+D. Còn pha trộn giữa các yếu tố duy vật và duy tâm, có tính chất phiếm thần luận
+Answer: 3
+
+Question: Những cuộc cách mạng thời kỳ cận đại ở Tây Âu do mâu thuẫn giữa lực lượng sản xuất với quan hệ sản xuất nào?
+A. Quan hệ sản xuất phong kiến
+B. Quan hệ sản xuất tư bản chủ nghĩa
+C. Quan hệ sản xuất chiếm hữu nô lệ
+Answer: 0
+
+Question: Cuộc cách mạng ở Anh giữa thế kỷ XVII và cuộc cách mạng ở Pháp cuối TK XVIII đánh dấu sự thay thế của trật tự xã hội nào cho xã hội nào?
+A. Trật tự xã hội chiếm hữu nô lệ thay cho trật tự xã hội cộng sản nguyên thuỷ
+B. Trật tự xã hội phong kiến thay cho trật tự xã hội chiếm hữu nô lệ
+C. Trật tự xã hội tư sản thay cho trật tự xã hội phong kiến.
+D. Trật tự xã hội xã hội chủ nghĩa thay cho trật tự xã hội tư sản
+Answer: 2
+
+Question: Theo Ph. Bêcơn con người muốn chiếm được của cải của giới tự nhiên thì cần phải có cái gì?
+A. Có niềm tin vào thượng đế
+B. Có nhiệt tình làm việc
+C. Có tri thức về tự nhiên
+D. Có kinh nghiệm sống
+Answer: 2
+
+Question: Tô mát Hốp-xơ hiểu bước chuyển từ cái riêng sang cái chung từ tri giác cảm tính đến khái niệm theo quan điểm nào?
+A. Duy lý luận
+B. Duy danh luận
+C. Kinh nghiệm luận
+Answer: 1
+
+Question: Tômát Hốp xơ cho nguồn gốc của nhà nước là gì?
+A. Do thần thánh sáng tạo ra.
+B. Do ý chí của giai cấp thống trị
+C. Do sự quy ước, thoả thuận giữa con người nhằm tránh những cuộc chiến tranh tàn khốc.
+D. Do ý muốn chủ quan của cá nhân nhà tư tưởng.
+Answer: 2
+
+Question: Khi giải quyết vấn đề cơ bản của triết học, Đềcáctơ đứng trên lập trường triết học nào?
+A. Chủ nghĩa duy vật
+B. Chủ nghĩa duy tâm khách quan
+C. Chủ nghĩa duy tâm chủ quan
+D. Thuyết nhị nguyên
+Answer: 3
+
+Question: Về nhận thức luận, Xpinôda theo chủ nghĩa nào?
+A. Chủ nghĩa duy cảm
+B. Chủ nghĩa duy lý.
+C. Chủ nghĩa kinh nghiệm.
+D. Chủ nghĩa duy vật biện chứng
+Answer: 1
+
+Question: Quan niệm của Xpinôda về pháp quyền và xã hội được xây dựng trên lập trường nào?
+A. Chủ nghĩa tự nhiên
+B. Chủ nghĩa duy vật biện chứng
+C. Chủ nghĩa duy tâm khách quan
+D. Chủ nghĩa tự do tư sản
+Answer: 0
+
+Question: Hạn chế của thuyết tabula rasa (tấm bảng sạch) là ở chỗ nào?
+A. Đề cao vai trò nhận thức lý tính
+B. Phủ nhận nhận thức cảm tính
+C. Đề cao nhận thức cảm tính một cách tuyệt đối
+D. Chưa thấy vai trò của kinh nghiệm
+Answer: 2
+
+Question: Gioócgiơ Béccơli là nhà triết học của nước nào?
+A. Anh
+B. Pháp
+C. Hà Lan
+D. Đức
+Answer: 0
+
+Question: Về bản chất triết học của Béccơli phản ánh hệ tư tưởng của giai cấp nào?
+A. Giai cấp địa chủ phong kiến
+B. Giai cấp chủ nô
+C. Giai cấp tư sản đã giành được chính quyền
+D. Giai cấp tư sản chưa giành được chính quyền
+Answer: 2
+
+Question: Hãy chỉ ra đâu là quan điểm của Hêghen?
+A. Nhà nước hiện thực chỉ là tồn tại khác của khái niệm nhà nước.
+B. Khái niệm nhà nước là sự phản ánh nhà nước hiện thực.
+C. Khái niệm nhà nước và nhà nước hiện thực là hai thực thể độc lập với nhau.
+Answer: 0
+
+Question: Mác chỉ ra đâu là hạt nhân hợp lý trong triết học của Hêghen
+A. Chủ nghĩa duy vật
+B. Chủ nghĩa duy tâm
+C. Phép biện chứng như lý luận về sự phát triển
+D. Tư tưởng về vận động
+Answer: 2
+
+Question: Khẳng định nào sau đây là đúng của Phoi-ơ-bắc.
+A. Phoi-ơ-bắc cho tự nhiên là "tồn tại khác" của tinh thần.
+B. Phoi-ơ-bắc cho tự nhiên tồn tại độc lập với ý thức của con người, vận động nhờ những cơ sở bên trong nó
+C. Phoi-ơ-bắc cho tinh thần và thể xác tồn tại tách rời nhau.
+Answer: 1
+
+Question: Phoi-ơ-bắc có nói đến sự "tha hoá" không. Nếu có thì quan niệm của ông thế nào?
+A. Không.
+B. Có, đó là tha hoá của ý niệm
+C. Có, đó là tha hoá của lao động.
+D. Có, đó là tha hoá bản chất con người về thượng đế.
+Answer: 3
+
+Question: Ba phát minh trong khoa học tự nhiên: định luật bảo toàn và chuyển hoá năng lượng, học thuyết tế bào, học thuyết tiến hoá chứng minh thế giới vật chất có tính chất gì?
+A. Tính chất tách rời tĩnh tại của thế giới vật chất.
+B. Tính chất biện chứng của sự vận động và phát triển của thế giới vật chất.
+C. Tính chất không tồn tại thực của thế giới vật chất.
+Answer: 1
+
+Question: Ph. Ăngghen sinh năm nào, ở đâu và mất năm nào?
+A. 1819 - 1895, ở thành phố Bác-men
+B. 1820 - 1895, ở thành Béc-linh
+C. 1820 - 1895, ở thành phố Bác-men.
+D. 1821 - 1895, ở thành phố Bác-men.
+Answer: 2
+
+Question: Phương pháp tư duy nào chi phối những hiểu biết triết học duy vật về vật chất ở thế kỷ XVII - XVIII?
+A. Phương pháp biện chứng duy tâm
+B. Phương pháp biện chứng duy vật.
+C. Phương pháp siêu hình máy móc.
+Answer: 2
+
+Question: Coi vận động của vật chất chỉ là biểu hiện của vận động cơ học, đó là quan điểm về vận động và vật chất của ai?
+A. Các nhà triết học duy vật thời kỳ cổ đại.
+B. Các nhà khoa học tự nhiên và triết học thế kỷ XVII - XVIII.
+C. Các nhà triết học duy vật biện chứng hiện đại.
+D. Các nhà triết học duy tâm thế kỷ XVII - XVIII.
+Answer: 1
+
+Question: Khẳng định sau đây là đúng hay sai: chủ nghĩa duy vật biện chứng không thừa nhận cái gì con người biết được mới là vật chất.
+A. Đúng
+B. Vừa đúng, vừa sai
+C. Sai.
+Answer: 0
+
+Question: Theo cách phân chia các hình thức vận động của Ăngghen, hình thức nào là thấp nhất?
+A. Cơ học
+B. Hoá học
+C. Vật lý
+Answer: 0
+
+Question: Quan điểm của chủ nghĩa duy tâm về nguồn gốc của ý thức?
+A. Là sự phản ánh của hiện thực khách quan.
+B. Là thuộc tính của bộ não người, do não người tiết ra.
+C. Phủ nhận nguồn gốc vật chất của ý thức.
+Answer: 2
+
+Question: Hình thức phản ánh đặc trưng của động vật có hệ thần kinh là gì?
+A. Tính kích thích.
+B. Tâm lý động vật.
+C. Tính cảm ứng.
+D. Các phản xạ.
+Answer: 3
+
+Question: Nguồn gốc xã hội của ý thức là yếu tố nào?
+A. Bộ óc con người.
+B. Sự tác động của thế giới bên ngoài vào bộ óc con người.
+C. Lao động và ngôn ngữ của con người.
+Answer: 2
+
+Question: Đâu là quan điểm của chủ nghĩa duy vật biện chứng về bản chất của ý thức?
+A. Ý thức là hình ảnh chủ quan của thế giới khách quan.
+B. Ý thức là hình ảnh phản chiếu về thế giới khách quan.
+C. Ý thức là tượng trưng của sự vật.
+Answer: 0
+
+Question: Quan điểm sau đây thuộc lập trường triết học nào: Trong nhận thức và hoạt động thực tiễn phải lấy hiện thực khách quan làm căn cứ, không được lấy mong muốn chủ quan làm căn cứ.
+A. Chủ nghĩa duy vật biện chứng.
+B. Chủ nghĩa duy tâm.
+C. Chủ nghĩa duy vật siêu hình.
+Answer: 0
+
+Question: Quan điểm của chủ nghĩa duy vật biện chứng về nguồn gốc mối liên hệ giữa các sự vật và hiện tượng là từ đâu?
+A. Do lực lượng siêu nhiên (thượng đế, ý niệm) sinh ra.
+B. Do tính thống nhất vật chất của thế giới.
+C. Do cảm giác thói quen của con người tạo ra.
+D. Do tư duy con người tạo ra rồi đưa vào tự nhiên và xã hội.
+Answer: 1
+
+Question: Luận điểm sau đây thuộc lập trường triết học nào: "Phát triển là quá trình vận động tiến lên theo con đường xoáy ốc".
+A. Quan điểm siêu hình.
+B. Quan điểm chiết trung và nguỵ biện.
+C. Quan điểm biện chứng.
+Answer: 2
+
+Question: Luận điểm sau đây về nguồn gốc của sự phát triển thuộc lập trường triết học nào: "Mâu thuẫn tồn tại khách quan trong chính sự vật quy định sự phát triển của sự vật".
+A. Chủ nghĩa duy tâm chủ quan.
+B. Chủ nghĩa duy tâm khách quan.
+C. Chủ nghĩa duy vật biện chứng.
+D. Chủ nghĩa duy vật siêu hình.
+Answer: 2
+
+Question: Trong nhận thức cần quán triệt quan điểm phát triển. Điều đó dựa trên cơ sở lý luận của nguyên lý nào?
+A. Nguyên lý về mối liên hệ phổ biến.
+B. Nguyên lý về sự phát triển.
+C. Nguyên lý về tính thống nhất vật chất của thế giới.
+Answer: 1
+
+Question: Thêm cụm từ nào vào chỗ trống của câu sau để được định nghĩa về phạm trù: "phạm trù là những ........... phản ánh những mặt, những thuộc tính, những mối liên hệ chung, cơ bản nhất của các sự vật và hiện tượng thuộc một lĩnh vực nhất định".
+A. Khái niệm.
+B. Khái niệm rộng nhất.
+C. Khái niệm cơ bản nhất.
+D. Gồm b và c.
+Answer: 3
+
+Question: Thêm cụm từ vào chỗ trống của câu sau để được định nghĩa khái niệm cái đơn nhất: "Cái đơn nhất là phạm trù triết học dùng để chỉ........."
+A. Những mặt lặp lại trong nhiều sự vật
+B. Một sự vật riêng lẻ.
+C. Những nét, những mặt chỉ ở một sự vật
+Answer: 2
+
+Question: Luận điểm sau đây thuộc lập trường triết học nào: "Phạm trù vật chất không có sự tồn tại hữu hình như một vật cụ thể. Phạm trù vật chất bao quát đặc điểm chung tồn tại trong các vật cụ thể".
+A. Phái Duy Thực
+B. Chủ nghĩa duy vật biện chứng.
+C. Phái Duy Danh
+D. Chủ nghĩa duy vật siêu hình.
+Answer: 1
+
+Question: Theo quan điểm của chủ nghĩa duy vật biện chứng nguyên nhân để hạt thóc nẩy mầm là gì?
+A. Độ ẩm của môi trường
+B. Nhiệt độ của không khí
+C. Sự tác động giữa hạt thóc với nhiệt độ không khí và nước.
+Answer: 2
+
+Question: Có thể đồng nhất quan hệ hàm số với quan hệ nhân quả không?
+A. Không
+B. có
+Answer: 0
+
+Question: Trong những luận điểm sau, đâu là luận điểm của chủ nghĩa duy vật biện chứng?
+A. Kết quả do nguyên nhân quyết định, nhưng kết quả lại tác động trở lại nguyên nhân.
+B. Kết quả không tác động gì đối với nguyên nhân.
+C. Kết quả và nguyên nhân không thể thay đổi vị trí cho nhau.
+Answer: 0
+
+Question: Theo quan điểm của chủ nghĩa duy vật biện chứng khẳng định nào sau đây là đúng?
+A. Cái ngẫu nhiên không có nguyên nhân.
+B. Chỉ có cái tất yếu mới có nguyên nhân.
+C. Không phải cái gì con người chưa nhận thức được nguyên nhân là cái ngẫu nhiên.
+Answer: 2
+
+Question: Điền cụm từ tích hợp vào câu sau để được khái niệm về hình thức: Hình thức là hệ thống ............. giữa các yếu tố của sự vật.
+A. Mối liên hệ tương đối bền vững.
+B. Hệ thống các bước chuyển hoá
+C. Mặt đối lập
+D. Mâu thuẫn được thiết lập
+Answer: 0
+
+Question: Luận điểm sau đây thuộc lập trường triết học nào: Hình thức thuần tuý của sự vật tồn tại trước sự vật, quyết định nội dung của sự vật.
+A. Chủ nghĩa duy tâm chủ quan.
+B. Chủ nghĩa duy tâm khách quan.
+C. Chủ nghĩa duy vật biện chứng.
+Answer: 1
+
+Question: Điền cụm từ thích hợp vào chỗ trống của câu sau để được định nghĩa khái niệm hiện tượng: Hiện tượng là ........ của bản chất.
+A. Cơ sở.
+B. Nguyên nhân
+C. Biểu hiện ra bên ngoài.
+Answer: 2
+
+Question: Luận điểm nào sau đây là luận điểm của chủ nghĩa duy vật biện chứng?
+A. Bản chất tồn tại khách quan bên ngoài sự vật
+B. Hiện tượng là tổng hợp các cảm giác của con người
+C. Bản chất và hiện tượng đều tồn tại khách quan, là cái vốn có của sự vật.
+Answer: 2
+
+Question: Điền cụm từ thích hợp vào chỗ trống của câu sau để được định nghĩa khái niệm hiện thực: "Hiện thực là phạm trù triết học chỉ cái ........."
+A. Mối liên hệ giữa các sự vật.
+B. Chưa có, chưa tồn tại
+C. Hiện có đang tồn tại
+Answer: 2
+
+Question: Điền cụm từ thích hợp vào chỗ trống của câu sau để được định nghĩa khái niệm khả năng: "Khả năng là phạm trù triết học chỉ .......... khi có các điều kiện thích hợp".
+A. Cái đang có, đang tồn tại
+B. Cái chưa có, nhưng sẽ có
+C. Cái không thể có
+D. Cái tiền đề để tạo nên sự vật mới.
+Answer: 1
+
+Question: Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng?
+A. Trong hoạt động thực tiễn phải dựa vào khả năng.
+B. Trong hoạt động thực tiễn phải dựa vào hiện thực, không cần tính đến khả năng.
+C. Trong hoạt động thực tiễn phải dựa vào hiện thực, đồng thời phải tính đến khả năng.
+Answer: 2
+
+Question: Theo quan điểm của chủ nghĩa duy vật biện chứng, luận điểm nào sau đây là sai?
+A. Thuộc tính của sự vật là những đặc tính vốn có của sự vật.
+B. Thuộc tính của sự vật bộc lộ thông qua sự tác động giữa các sự vật
+C. Thuộc tính của sự vật không phải là cái vốn có của sự vật
+Answer: 2
+
+Question: Theo quan điểm của chủ nghĩa duy vật biện chứng luận điểm nào sau đây là đúng?
+A. Chất của sự vật được biểu hiện thông qua thuộc tính của sự vật.
+B. Mọi thuộc tính đều biểu hiện chất của sự vật.
+C. Thuộc tính thay đổi, luôn làm cho chất của sự vật thay đổi.
+Answer: 0
+
+Question: Điền tập hợp từ thích hợp vào chỗ trống của câu sau để được định nghĩa khái niệm "lượng": Lượng là phạm trù triết học dùng để chỉ...(1) ... của sự vật về mặt ...(2) ... của sự vận động và phát triển cũng như các thuộc tính của sự vật.
+A. 1- tính quy định vốn có, 2- số lượng, quy mô, trình độ, nhịp điệu
+B. 1- mối liên hệ và phụ thuộc, 2- bản chất bên trong.
+C. 1- mức độ quy mô, 2- chất lượng, phẩm chất.
+Answer: 0
+
+Question: Tính quy định nói lên sự vật trong một mối quan hệ nhất định đó, gọi là gì?
+A. Chất
+B. Độ
+C. Lượng
+D. Bước nhảy
+Answer: 0
+
+Question: Trong hoạt động thực tiễn sai lầm của trì trệ bảo thủ là do không tôn trọng quy luật nào của phép biện chứng duy vật?
+A. Quy luật lượng - chất.
+B. Quy luật phủ định của phủ định.
+C. Quy luật mâu thuẫn.
+Answer: 0
+
+Question: Trong quy luật mâu thuẫn tính quy định về chất và tính quy định về lượng được gọi là gì?
+A. Hai sự vật
+B. Hai mặt đối lập
+C. Hai thuộc tính
+D. Hai quá trình
+Answer: 1
+
+Question: Trong hai xu hướng tác động của của các mặt đối lập xu hướng nào quy định sự ổn định tương đối của sự vật?
+A. Thống nhất của các mặt đối lập
+B. Đấu tranh của các mặt đối lập
+C. Cả A và B.
+Answer: 0
+
+Question: Mâu thuẫn nổi lên hàng đầu ở một giai đoạn phát triển nhất định của sự vật, chi phối các mâu thuẫn khác trong giai đoạn đó được gọi là mâu thuẫn gì?
+A. Mâu thuẫn cơ bản
+B. Mâu thuẫn chủ yếu
+C. Mâu thuẫn thứ yếu.
+D. Mâu thuẫn đối kháng
+Answer: 1
+
+Question: Con đường phát triển của sự vật mà quy luật phủ định của phủ định vạch ra là con đường nào?
+A. Đường thẳng đi lên
+B. Đường tròn khép kín
+C. Đường xoáy ốc đi lên
+Answer: 2
+
+Question: Luận điểm sau đây thuộc lập trường triết học nào: "Chúng ta chỉ nhận thức được các cảm giác của chúng ta thôi".
+A. Chủ nghĩa duy tâm khách quan
+B. Chủ nghĩa duy tâm chủ quan
+C. Chủ nghĩa duy vật siêu hình
+D. Chủ nghĩa duy vật biện chứng
+Answer: 1
+
+Question: Trường phái triết học nào cho thực tiễn là cơ sở chủ yếu và trực tiếp nhất của nhận thức?
+A. Chủ nghĩa duy tâm khách quan
+B. Chủ nghĩa duy vật siêu hình
+C. Chủ nghĩa duy vật biện chứng
+Answer: 2
+
+Question: Thêm cụm từ thích hợp vào chỗ trống của câu sau để được định nghĩa phạm trù thực tiễn: "Thực tiễn là toàn bộ những ........... của con người nhằm cải tạo tự nhiên và xã hội".
+A. Hoạt động.
+B. Hoạt động vật chất
+C. Hoạt động có mục đích
+D. Hoạt động vật chất có mục đích, mang tính lịch sử - xã hội
+Answer: 3
+
+Question: Nhận thức lý tính được thực hiện dưới hình thức nào?
+A. Cảm giác, tri giác và biểu tượng
+B. Khái niệm, phán đoán, suy luận
+C. Tri giác, biểu tượng, khái niệm
+Answer: 1
+
+Question: Các hình thức nào dưới đây là hình thức cơ bản của chủ nghĩa duy vật?
+A. Chủ nghĩa duy vật chất phác
+B. Chủ nghĩa duy vật siêu hình
+C. Chủ nghĩa duy vật biện chứng
+D. Tất cả các ý trên
+Answer: 3
+
+Question: Thế nào là nhất nguyên luận?
+A. Chủ nghĩa duy vật
+B. Chủ nghĩa duy tâm
+C. Cả A và B
+Answer: 2
+
+Question: Hãy chỉ ra phương án đúng trong ba nhận xét dưới đây về mối quan hệ giữa sản xuất và tiêu dùng:
+A. Sản xuất đối lập hoàn toàn với tiêu dùng, vì sản xuất là sáng tạo còn tiêu dùng là phá huỷ.
+B. Sản xuất cũng là tiêu dùng.
+C. Sản xuất là cái có trước và quy định tiêu dùng.
+Answer: 1
+
+Question: Định nghĩa của V.I. Lênin về vật chất được nêu ra trong tác phẩm nào?
+A. Chủ nghĩa duy vật và chủ nghĩa kinh nghiệm phê phán.
+B. Bút ký triết học
+C. Nhà nước và cách mạng.
+Answer: 0
+
+Question: Bài học kinh nghiệm mà Đảng ta đã rút ra trong công cuộc đổi mới là gì?
+A. Đổi mới kinh tế trước, đổi mới chính trị sau.
+B. Đổi mới chính trị trước, đổi mới kinh tế sau.
+C. Kết hợp đổi mới kinh tế với đổi mới chính trị.
+Answer: 2
+
+Question: Câu nói sau đây của V.I.Lênin là trong tác phẩm nào: "Chỉ có đem quy những quan hệ xã hội vào những quan hệ sản xuất, và đem quy những quan hệ sản xuất vào trình độ của những lực lượng sản xuất thì người ta mới có được cơ sở vững chắc để quan niệm sự phát triển của những hình thái xã hội là một quá trình lịch sử - tự nhiên".
+A. Những người bạn dân là thế nào và họ đấu tranh chống những người dân chủ - xã hội ra sao.
+B. Nhà nước và cách mạng xã hội.
+C. Bệnh ấu trĩ tả khuynh và tính tiểu tư sản.
+Answer: 0
+
+Question: Khi thừa nhận trong những trường hợp cần thiết thì bên cạnh cái “hoặc là… hoặc là…” còn có cái “vừa là… vừa là…” nữa; thừa nhận một chỉnh thể trong lúc vừa là nó vừa không phải là nó… đây là:
+A. Phương pháp siêu hình
+B. Phương pháp biện chứng
+C. Thuyết bất khả tri
+D. Chủ nghĩa duy vật
+Answer: 1
+
+Question: Hệ thống triết học không chính thống ở Ấn Độ cổ đại gồm các trường phái:
+A. Sàmkhuya, Đạo Jaina, Đạo Phật
+B. Lôkayata, Đạo Jaina, Đạo Phật
+C. Vêdanta, Đạo Jaina, Đạo Phật
+D. Đạo Jaina, Đạo Phật, Yoga
+Answer: 1
+
+Question: Nhà triết học Trung Quốc cổ đại nào đưa ra quan điểm: “Dân vi quý, xã tắc thứ chi, quân vi khinh” (Dân là trọng hơn cả, xã tắc đứng đằng sau, vua còn nhẹ hơn):
+A. Khổng Tử
+B. Tuân Tử
+C. Mạnh Tử
+D. Lão Tử
+Answer: 2
+
+Question: Luận điểm nổi tiếng: “Trời có bốn mùa, đất có sản vật, người có văn tự” là của nhà triết học nào?
+A. Khổng Tử
+B. Mạnh Tử
+C. Hàn Phi Tử
+D. Tuân Tử
+Answer: 3
+
+Question: Tư tưởng về nguồn gốc tâm lý của tín ngưỡng, tôn giáo là vì con người bị ám ảnh bởi những hiện tượng khủng khiếp trong tự nhiên, là của nhà triết học Hy lạp cổ đại nào?
+A. Hêraclit
+B. Đêmôcrit
+C. Arixtốt
+D. Platôn
+Answer: 1
+
+Question: Ông cho rằng chỉ có nghiên cứu sự vật cụ thể, tìm hiểu đời sống con người mới có thể tìm ra quy luật khách quan, tìm ra chân lý. Ông là ai?
+A. Trương Tải (1020 - 1077)
+B. Thiệu Ung (1011 - 1077)
+C. Trần Lượng (1143 - 1194)
+D. Lục Cửu Uyên (1139-1192)
+Answer: 2
+
+Question: Yếu tố cách mạng nhất trong lực lượng sản xuất:
+A. Người lao động
+B. Công cụ lao động
+C. Phương tiện lao động
+D. Tư liệu lao động
+Answer: 1
+
+Question: Nền tảng vật chất của toàn bộ lịch sử nhân loại là:
+A. Lực lượng sản xuất
+B. Quan hệ sản xuất
+C. Của cải vật chất
+D. Phương thức sản xuất
+Answer: 0
+
+Question: Tiến lên chủ nghĩa xã hội ở nước ta hiện nay là:
+A. Trái với tiến trình lịch sử tự nhiên
+B. Phù hợp với quá trình lịch sử tự nhiên
+C. Vận dụng sáng tạo của Đảng ta
+D. Không phù hợp với quy luật khách quan
+Answer: 3
+
+Question: Luận điểm sau của C.Mác: “Sự tồn tại của các giai cấp chỉ gắn liền với những giai đoạn phát triển lịch sử nhất định của sản xuất” được hiểu theo nghĩa:
+C.Mác: “Sự tồn tại của các giai cấp chỉ gắn liền với những giai đoạn phát triển lịch sử nhất định của sản xuất” được hiểu theo nghĩa:
+A. Giai cấp chỉ là một phạm trù lịch sử
+B. Sự tồn tại của giai cấp gắn liền với lịch sử của sản xuất
+C. Sự tồn tại giai cấp chỉ gắn liền với các giai đoạn phát triển nhất định của sản xuất
+D. Cả A và C
+Answer: 3
+
+Question: Theo sự phát triển của lịch sử xã hội, thứ tự sự phát triển các hình thức cộng đồng người là:
+A. Bộ lạc – Bộ tộc – Thị tộc – Dân tộc
+B. Bộ tộc – Thị tộc – Bộ lạc - Dân tộc
+C. Thị tộc – Bộ lạc – Bộ tộc - Dân tộc
+D. Thị tộc – Bộ lạc – Liên minh thị tộc - Bộ tộc - Dân tộc
+Answer: 2
+
+Question: Những đặc trưng cơ bản của nhà nước:
+A. Nhà nước quản lý dân cư trên một vùng lãnh thổ nhất định
+B. Là bộ máy quyền lực đặc biệt mang tính cưỡng chế đối với mọi thành viên trong xã hội
+C. Nhà nước hình thành hệ thống thuế khoá để duy trì và tăng cường bộ máy cai trị
+D. Tất cả các ý trên
+Answer: 3
+
+Question: Câu nói sau của Ph.Ăngghen: “Nhà nước là yếu tố tuỳ thuộc, còn xã hội công dân tức là lĩnh vực những quan hệ kinh tế, là yếu tố quyết định”, được nêu trong tác phẩm:
+A. Lutvich Phoiơbắc và sự cáo chung của triết học cổ điển Đức
+B. Nguồn gốc của gia đình, của chế độ tư hữu và của nhà nước
+C. Chống Đuyrinh
+D. Biện chứng của tự nhiên
+Answer: 0
+
+Question: Nền tảng của quan hệ giữa cá nhân và xã hội:
+A. Quan hệ chính trị
+B. Quan hệ lợi ích
+C. Quan hệ pháp quyền
+D. Quan hệ đạo đức
+Answer: 1
+
+Question: Trong cách mạng vô sản, nội dung nào xét đến cùng đóng vai trò quyết định:
+A. Kinh tế
+B. Chính trị
+C. Văn hoá
+D. Tư tưởng
+Answer: 0
+
+Question: Tư tưởng về giải phóng nhân loại được C.Mác đề xuất vào năm nào, trong tác phẩm nào?
+C.Mác đề xuất vào năm nào, trong tác phẩm nào?
+A. Năm 1844 trong tác phẩm “Bản thảo kinh tế - triết học 1844”
+B. Năm 1843 trong tác phẩm “Bản thảo góp phần phê phán kinh tế -chính trị học”
+C. Năm 1843 trong tác phẩm: ”Góp phần phê phán triết học pháp quyền của Hêghen”
+D. Luận cương về Phoiơbắc
+Answer: 0
+
+Question: Để đi đến diệt vong hoàn toàn thì Nhà nước vô sản phải hoàn thành nhiệm vụ lịch sử vĩ đại của mình là:
+A. Hoàn thiện chế độ dân chủ.
+B. Xoá bỏ hoàn toàn giai cấp.
+C. Xây dựng thành công xã hội cộng sản chủ nghĩa.
+D. Thiết lập chế độ công hữu về tư liệu sản xuất
+Answer: 2
+
+Question: C.Mác nói về việc phê phán tôn giáo là dể loài người vứt bỏ “ những xiềng xích, những bông hoa tưởng tượng” trong tác phẩm nào sau đây.
+C.Mác nói về việc phê phán tôn giáo là dể loài người vứt bỏ “ những xiềng xích, những bông hoa tưởng tượng” trong tác phẩm nào sau đây.
+A. Tư bản.
+B. Góp phần phê phán triết học pháp quyền của Hê ghen( lời nói đầu)
+C. Luận cương về Phoiơbắc
+D. Hệ tư tưởng Đức
+Answer: 1
+
+Question: Tính chất chung của khoa học?
+A. Tính hệ thống, tính có căn cứ và tính quy luật
+B. Tính chính trị, giai cấp, tính hệ thống và tính có căn cứ.
+C. Tính đối tượng và tính khách quan, tính hệ thống và tính có căn cứ.
+D. Tính quy luật, tính chính trị, giai cấp
+Answer: 2
+
+Question: Thời đại” Đồ sắt” tương ứng với hình thái kinh tế – xã hội:
+A. Cộng sản nguyên thuỷ.
+B. Chiếm hữu nô lệ.
+C. Phong kiến.
+D. Tư bản chủ nghĩa
+Answer: 2
+
+Question: Xét đến cùng, vai trò của cách mạng xã hội là:
+A. Phá bỏ xã hội cũ lạc hậu.
+B. Giải phóng lực lượng sản xuất.
+C. Đưa giai cấp tiến bộ lên địa vị thống trị.
+D. Lật đổ chính quyền của giai cấp thống trị
+Answer: 1
+
+Question: Bản chất hệ tư tưởng chính trị xã hội chủ nghĩa?
+A. Là ý thức chính trị của toàn xã hội.
+B. Là ý thức chính trị của nhân dân lao động.
+C. Là ý thức chính trị của giai cấp công nhân.
+D. Là ý thức chính trị của dân tộc
+Answer: 2
+
+Question: Hạt nhân của nhân cách là gì?
+A. “Cái tôi” cá nhân
+B. Cá tính.
+C. Thế giới quan cá nhân.
+D. Tự ý thức
+Answer: 2
+
+Question: “Sợi dây xuyên suốt toàn bộ lịch sử nhân loại” theo C Mác là:
+A. Lực lượng sản xuất.
+B. Quan hệ sản xuất.
+C. Đấu tranh giai cấp
+D. Phương thức sản xuất
+Answer: 0
+
+Question: Hãy chỉ ra luận điểm thể hiện lập trường Duy vật siêu hình về lịch sử trong các luận điểm sau:
+A. Quan hệ sản xuất có tính vật chất, quyết định mọi quan hệ xã hội khác.
+B. Nguyên nhân của mọi biến đổi trong lịch sử, xét đến cùng là do tư tưởng của con người đang luôn luôn thay đổi.
+C. Nhân tố kinh tế là nhân tố quyết định duy nhất trong lịch sử.
+D. Cơ sở hạ tầng quyết định kiến trúc thượng tầng, đồng thời kiến trúc thượng tầng tác động ngược trở lại đối với cơ sở hạ tầng.
+Answer: 2
+
+Question: Hãy chỉ ra luận điểm thể hiện lập trường Duy tâm trong các câu sau:
+A. Chỉ dựa vào các quan hệ kinh tế hiện có cũng có thể giải thích đầy đủ bất kỳ học thuyết chính trị nào.
+B. Chỉ dựa vào các quan hệ kinh tế hiện có cũng có thể giải thích đúng bất kỳ tư tưởng pháp quyền nào.
+C. Mọi thuyết đạo đức có từ trước đến nay, xét đến cùng, đều là sản phẩm của tình hình kinh tế lúc bấy giờ.
+D. Hoạt động của con người khác với động vật là có ý thức, vì thế ý thức của con người quyết định sự tồn tại của họ.
+Answer: 3
+
+Question: Tìm câu tóm tắt sai về khái niệm Quan hệ sản xuất trong các câu sau:
+A. Mối quan hệ giữa người và người trong quá trình sản xuất của cải vật chất được gọi là Quan hệ sản xuất.
+B. Cũng như Lực lượng sản xuất, Quan hệ sản xuất thuộc lĩnh vực đời sống vật chất xã hội.
+C. Tính vật chất của Quan hệ sản xuất được biểu hiện ở chỗ chúng tồn tại khách quan, phụ thuộc vào ý thức con người
+D. Quan hệ sản xuất là quan hệ kinh tế cơ bản của một hình thái kinh tế-xã hội.
+Answer: 2
+
+Question: Tìm câu trả lời đúng nhất về phạm trù Cái riêng trong các câu sau:
+A. Chỉ một sự vật, hiện tượng, quá trình có tính toàn vẹn tồn tại tương đối độc lập với các sự vật khác.
+B. Chỉ một sự vật, hiện tượng, quá trình tồn tại ngẫu nhiên, không lặp lại với Cái riêng khác.
+C. Chỉ một cái khác với Cái chung, là cái bộ phận của Cái chung.
+D. Chỉ một sự vật, hiện tượng có tính quy định không chỉnh thể, phụ thuộc vào Cái riêng khác.
+Answer: 0
+
+Question: Tìm câu trả lời đúng nhất về phạm trù Hình thức trong các câu sau:
+A. Hình thức là phương thức tồn tại và phát triển của sự vật, là hệ thống các mối liên hệ tương đối bền vững giữa các yếu tố của sự vật đó.
+B. Là tổng số các mặt biểu hiện bên ngoài của nội dung.
+C. Là vẻ bề ngoài của nội dung.
+D. Là phương thức kết cấu của nội dung, cú tính chủ quan do con người tạo ra cho phù hợp với nội dung.
+Answer: 0
+
+Question: Luận điểm “Những thời đại kinh tế khác nhau không phải ở chỗ chúng sản xuất ra cái gì mà là ở chỗ chúng sản xuất bằng cách nào, với những tư liệu lao động nào” nhấn mạnh yếu tố nào trong các đáp án sau:
+A. Công cụ lao động
+B. Người lao động
+C. Đối tượng lao động
+D. Công cụ phụ trợ
+Answer: 0
+
+Question: Xác định quan niệm sai về mối quan hệ giữa Cái Chung với Cái Riêng trong các câu sau:
+A. Cái Chung chỉ tồn tại trong Cái Riêng, thông qua Cái Riêng mà biểu hiện sự tồn tại của mình.
+B. Quan hệ giữa Cái Chung và Cái Riêng là quan hệ có tính chủ quan.
+C. Quan hệ giữa Cái Chung và Cái Riêng là có tính phổ biến.
+D. Cái Riêng là cái toàn bộ, phong phú hơn Cái chung, Cái chung là cái bộ phận, nhưng sâu sắc hơn Cái riêng.
+Answer: 1
+
+Question: Điền đáp án đúng vào chỗ trống câu sau: “Phương thức sản xuất đời sống vật chất ............ toàn bộ quá trình đời sống xã hội, đời sống chính trị và đời sống tinh thần của xã hội”:
+A. thúc đẩy.
+B. chi phối.
+C. phụ thuộc.
+D. liên quan.
+Answer: 1
+
+Question: Điền đáp án đúng vào chỗ trống câu sau: “Theo quan điểm duy vật lịch sử, nhân tố ................ trong lịch sử, xét đến cùng là sự sản xuất và tái sản xuất ra đời sống hiện thực”:
+A. thứ yếu.
+B. chủ yếu.
+C. quan trọng
+D. quyết định.
+Answer: 3
+
+Question: Luận điểm nào dưới đây là luận điểm Bất khả tri về mối quan hệ giữa cái Tất nhiên và Ngẫu nhiên:
+A. Thông qua nghiên cứu nhiều cái ngẫu nhiên để phát hiện cái tất nhiên. Nắm lấy cái tất nhiên để hành động đồng thời dự phòng xử lý kịp thời với cái ngẫu nhiên.
+B. Mục đích của nhận thức và hành động là đạt tới cái tất nhiên để có tự do. Nhưng cái tất nhiên tồn tại như vật tự nó nên con người chỉ có thể nắm được cái ngẫu nhiên
+C. Nắm lấy cái tất nhiên, chi phối, điều khiển, phòng ngừa cái ngẫu nhiên. Đó là mục đích của nhận thức và hành động của con người trong khi giải quyết mối quan hệ giữa tất nhiên và ngẫu nhiên.
+D. Nắm lấy cái tất nhiên để chi phối, điều khiển, phòng ngừa mặt tác hại của ngẫu nhiên. Đó là mục đích của nhận thức và hành động không phải bằng cách đi từ phân tích ngẫu nhiên mà đi thẳng vào cái tất nhiên.
+Answer: 1
+
+Question: Xác định câu trả lời đúng nhất về bản chất của Ý thức trong các câu dưới đây:
+A. Là sản phẩm của một dạng vật chất - đó là não người. Não người sinh ra ý thức cũng như mọi sản phẩm vật chất khác do con người tạo ra.
+B. Là hình ảnh chủ quan của thế giới khách quan.
+C. Triết học duy vật siêu hình giải thích bản chất ý thức là sự phản ánh hiện thực khách quan một cách thụ động hoàn toàn giống cái gương soi.
+D. Là sự phản ánh tích cực, năng động, sáng tạo thế giới khách quan bằng não người.
+Answer: 3
+
+Question: Tìm câu trả lời đúng nhất về ý nghĩa phương pháp luận của quy luật Phủ định của phủ định trong các câu sau:
+A. Phủ định của phủ định là quá trình cái cũ mất đi, cái mới hợp quy luật ra đời. Cần có thái độ tích cực ủng hộ, giúp đỡ, bảo vệ cái mới và kiên quyết từ bỏ cái cũ lỗi thời. Cái mới ra đời thường gặp nhiều khó khăn, trở ngại.
+B. Phủ định của phủ định là quá trình cái mới ra đời. Cần có thái độ giúp đỡ, ủng hộ, bảo vệ cái mới. Vì khi nó ra đời thường gặp nhiều khó khăn.
+C. Phủ định của phủ định là làm cho cái cũ mất đi, cái mới ra đời phù hợp quy luật. Cần phải xây dựng thái độ ủng hộ, giúp đỡ, phê phán cái mới.
+D. Phủ định của phủ định là quá trình cái cũ mất đi, cái mới ra đời hợp quy luật. Cần có nhận thức đúng về vai trò tích cực, tiến bộ của cái mới.
+Answer: 0
+
+Question: Xác định câu trả lời đúng và đầy đủ nhất về Thực tiễn:
+A. Là toàn bộ những hoạt động của con người có tính vật chất, tính mục đích, tính xã hội - lịch sử làm biến đổi tự nhiên, xã hội theo hướng tích cực, tiến bộ, trong đó sản xuất vật chất là thực tiễn cơ bản nhất.
+B. Là toàn bộ những hoạt động của con người có tính mục đích, tính xã hội - lịch sử làm biến đổi tự nhiên, xã hội theo hướng tích cực, tiến bộ, trong đó sản xuất vật chất là thực tiễn cơ bản nhất.
+C. Là toàn bộ những hoạt động của con người có tính mục đích, tính vật chất, làm biến đổi tự nhiên - xã hội theo hướng tích cực, trong đó sản xuất vật chất là thực tiễn cơ bản nhất.
+D. Là toàn bộ những hoạt động của con người có tính mục đích, tính vật chất, tính lịch sử - xã hội, trong đó sản xuất tinh thần là thực tiễn cơ bản nhất.
+Answer: 0
+
+Question: Tìm câu thể hiện quan điểm Duy tâm về ý nghĩa phương pháp luận rút ra từ quan hệ Nguyên nhân – Kết quả:
+A. Để có kết quả theo mong muốn phải biết phát hiện và điều khiển các nguyên nhân, khắc phục những nguyên nhân ngược chiều, tạo điều kiện cho nguyên nhân cùng chiều hướng tới kết quả.
+B. Vì nguyên nhân có trước kết quả nên muốn có kết quả theo mong muốn thì chờ đợi ở nguyên nhân sẽ xảy ra. Sau đó lại sử dụng kết quả đó tạo ra nguyên nhân tiếp sau để được hưởng kết quả cao hơn.
+C. Quan hệ nhân quả là quan hệ do chủ quan của con người tạo ra cho nên trong nhận thức và hành động con người chắc chắn nhận được kết quả do mình tạo ra.
+D. Nguyên nhân có trước kết quả vì thế cứ chờ đợi thì sớm hay muộn kết quả sẽ tới.
+Answer: 2
+
+Question: Hãy phát hiện một điểm tóm tắt sai nội dung trong các tóm tắt sau đây:
+A. Đó là quy luật xã hội phổ biến trong tất cả các xã hội có đối kháng giai cấp
+B. Lực lượng sản xuất và quan hệ sản xuất là hai mặt của phương thức sản xuất, tồn tại không thể tách rời
+C. Quy luật này vạch rõ sự phụ thuộc khách quan của quan hệ sản xuất vào sự phát triển của lực lượng sản xuất, đồng thời quan hệ sản xuất cũng tác động trở lại lực lượng sản xuất
+D. Tác động biện chứng giữa 2 mặt đó tạo thành quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất
+Answer: 0
+
+Question: Hãy chỉ ra luận điểm thể hiện lập trường duy tâm lịch sử trong các luận điểm sau:
+A. Quan hệ sản xuất là những quan hệ xã hội có tính vật chất, quyết định mọi quan hệ xã hội khác
+B. Nguyên nhân của mọi biến đổi trong lịch sử, xét đến cùng là do tư tưởng của con người đang luôn luôn thay đổi
+C. Cơ sở hạ tầng quyết định kiến trúc thượng tầng so với vai trò tích cực trong sưj phát triển lịch sử
+D. Nhân tố kinh tế là nhân tố quyết định duy nhất trong lịch sử
+Answer: 1
+
+Question: Tính năng động, sáng tạo của ý thức dựa trên những điều kiện nào? Xác định câu trả lời đúng nhất?
+A. Ý thức chỉ phụ thuộc vật chất khi nó sinh ra( nguồn gốc). Còn khi đã hình thành thì nó không phụ thuộc vào vật chất nữa, nó có đời sống riêng. Chỉ khi đó ý thức mới phát huy được tính năng động, sáng tạo
+B. Sự năng động, sáng tạo của ý thức luôn luôn dựa trên những tiền đề vật chất và hoạt động thực tiễn của con người
+C. Tính năng động, chủ quan của con người muốn có hiệu quả bao giờ cũng phải thông qua hoat động thực tiễn của con người, tức là hoạt động có tính vật chất
+D. Những nhà nhị nguyên luận coi vai trò của ý thức và vật chất ngang nhau, chúng tự thân vận động theo quy luật riêng
+Answer: 1
+
+Question: Phát hiện một điểm giải thích chưa chính xác trong những giải thích nguyên tắc nhận thức " Phải xem xét sự vật trong sự phát triển" như sau:
+A. Theo nguyên tắc này ta chỉ cần liệt kê các giai đoạn vận động lịch sử mà sự vật đã trải qua là hiểu được thực chất của sự phát triển của sự vật
+B. Cơ sở lý luận của nguyên tắc này là nguyên lý về sự phát triển
+C. Theo nguyên tắc này cần phân đôi cái thống nhất và nhận thức các bộ phận đối lập của nó để hiểu được nguồn gốc và động lực phát triển của sự vật
+D. Theo nguyên tắc này, cần vận dụng quy luật Lượng-chất để hiểu được cách thức phát triển của sự vật
+Answer: 0
+
+Question: Hãy chỉ ra một nguyên tắc nhận thức và hành động để khắc phục biện pháp chủ quan duy ý chí không phù hợp trong những nguyên tắc sau:
+A. Lấy ý chí và nguyện vọng làm điểm xuất phát cho mọi chủ trương, kế hoạch công tác
+B. Tôn trọng và hành động theo quy luật khách quan
+C. Nhìn thẳng vào sự vật, đánh giá đúng sự thật, nói rõ sự thật
+D. Lấy dân làm gốc, lawgs nghe nguyện vọng chính đáng của dân
+Answer: 0
+
+Question: Hãy chỉ ra luận điểm thuộc lập trường duy tâm trong bốn luận điểm sau:
+A. Không có lý luận thì hoạt động thực tiễn của con người mò mẫm, mất phương hướng. Do đó lý luận phải có trước và không phụ thuộc vào thực tiễn
+B. Sự phát huy tính năng động chủ quan của con người muốn có hiệu quả bao giờ cũng phải dựa vào cơ ở vật chất
+C. Động vật và thực vật hoàn toàn khác nhau, không có nguồn gốc chung
+Answer: 0
+
+Question: Xác định quan niệm sai về vai trò của mâu thuẫn và của quy luật mâu thuẫn:
+A. Mâu thuẫn vừa có tính khách quan, vừa có tính phôt biến trong tự nhiên, xã hội và nhận thức
+B. Không chỉ cần nắm được vai trò động lực, nguồn gốc của mâu thuẫn trong phát triển mà còn biêt phân biệt các mâu thuẫn khác nhau để có giải pháp goải quyết khác nhau
+C. Quy luật mâu thuẫn là hạt nhân của phép biện chứng duy vật, nó chỉ phương hướng của sự phát triển
+D. Sự vật tự nhiên muốn có mâu thuẫn bên trong, mâu thuẫn này là nguồn gốc vận động của sự vật
+Answer: 2
+
+Question: Phương thức sản xuất đời sống vật chất........ toàn bộ đời sống xã hội, đời sống chính trị và đời sống tinh thần của xã hội. Luận điểm này viết thiếu hai từ. Hãy chọn cụm từ đúng nhất cho chỗ viết thiếu đó:
+A. Chi phối
+B. Liên quan
+C. Thúc đẩy
+D. Phụ thuộc
+Answer: 0
+
+Question: Quy luật về sự phù hợp của quan hệ sản xuất với trình độ và tính chất của lực lượng sản xuất là quy luật..........của sự phát triển. Luận điểm này bị viết thiếu hai từ. hãy chon ra cụm từ đúng cho chỗ viết thiếu đó:
+A. Chung nhất
+B. Tạm thời
+C. Riêng biệt
+D. Đặc thù
+Answer: 0
+
+Question: Trong mọi thời đại, những tư tưởng của giai cấp thóng trị là những tư tưởng thống nhất xã hội. Luận điểm này thể hiện lập trường triết học nào. Chọn câu trả lời đúng nhất:
+A. Chủ nghĩa duy vật tầm thường( chủ nghĩa kinh tế)
+B. Chủ nghĩa duy tâm chủ quan
+C. Chủ nghĩa duy tâm lịch sử
+D. Chủ nghĩa duy vật lịch sử
+Answer: 3
+
+Question: Phương thức sản xuất đời sống vật chất phụ thuộc vào đời sống chính trị, đời sống xã hội và đời sống tinh thần ní chung. Luận điểm ày đã viết sai cụm từ nào? chọn câu trả lời đúng nhất:
+A. Phụ thuộc
+B. Phương thức sản xuất
+C. Đời sống chính trị
+D. Đời sống tinh thần
+Answer: 0
+
+Question: Xã hội là một tổ hợp các bộ phận được cấu thành và biến đổi một cách ngẫu nhiên. quan điểm này thuộc lập trường triết học nào? chọn câu trả lời đúng nhất:
+A. Chủ nghĩa duy vật biện chứng lịch sử
+B. Chủ nghĩa duy vật siêu hình trong lịch sử
+C. Chủ nghĩa duy tâm lịch sử
+D. Chủ nghĩa duy vật siêu hình
+Answer: 3
+
+Question: Một sinh viên tóm tắt nội dung quy luật về sự phù hợp giữa QHSX với trình độ của LLXH như sau. Phát hiện câu tóm tắt đúng?
+A. LLSX và QHSX lag hai mặt của PTSX tồn tại tách rời nhau
+B. Quy luật này chỉ tồn tại trong một vài chế độ xã hội
+C. Quy luật này vạch rõ sự phụ thuộc khách quan của LLSX và QHSX
+D. Quy luật về sự phù hợp của LLSX với trình độ của QHSX là quy luật cơ bản của sự phát triểm xã hội loài người
+Answer: 3
+
