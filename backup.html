@@ -104,9 +104,6 @@
     <label>
       <input type="checkbox" id="timer-checkbox"> Enable Timer
     </label>
-    <label>
-      <input type="checkbox" id="show-answer-on-click-checkbox"> Show Answer on Click
-    </label>
     <br>
     <button id="load-quiz-btn" style="margin: 10px 0;">Load Selected Quizzes</button>
     <br>
@@ -127,7 +124,6 @@
     const shuffleQuestionsCheckbox = document.getElementById('shuffle-questions-checkbox');
     const shuffleAnswersCheckbox = document.getElementById('shuffle-answers-checkbox');
     const timerCheckbox = document.getElementById('timer-checkbox');
-    const showAnswerOnClickCheckbox = document.getElementById('show-answer-on-click-checkbox');
     const maxQuestionsInput = document.getElementById('max-questions');
     const timerElement = document.getElementById('timer');
     const loadQuizBtn = document.getElementById('load-quiz-btn');
@@ -210,6 +206,7 @@
       }
     }
 
+
     function loadQuiz() {
       quizContainer.innerHTML = ''; // Clear existing questions
       quizData.forEach((item, index) => {
@@ -255,10 +252,6 @@
       resultContainer.textContent = '';
       redoBtn.style.display = 'none';
       showAnswersBtn.style.display = 'none';
-
-      if (showAnswerOnClickCheckbox.checked) {
-        quizData.forEach((item, index) => showAnswerForQuestion(index));
-      }
     }
 
     function handleInputChange() {
@@ -267,31 +260,6 @@
           `input[name="question-${index}"]:checked`
         );
         return selectedOption ? parseInt(selectedOption.value) : null;
-      });
-
-      if (showAnswerOnClickCheckbox.checked) {
-        quizData.forEach((_, index) => {
-          const selectedOption = document.querySelector(
-            `input[name="question-${index}"]:checked`
-          );
-          if (selectedOption) {
-            showAnswerForQuestion(index);
-          }
-        });
-      }
-    }
-
-    function showAnswerForQuestion(index) {
-      const answerElements = document.querySelectorAll(
-        `input[name="question-${index}"]`
-      );
-      answerElements.forEach((el, i) => {
-        const parent = el.parentElement.parentElement;
-        if (i === quizData[index].answer) {
-          parent.classList.add('correct');
-        } else if (i === userAnswers[index]) {
-          parent.classList.add('incorrect');
-        }
       });
     }
 
@@ -307,7 +275,19 @@
     }
 
     function showAnswers() {
-      quizData.forEach((item, index) => showAnswerForQuestion(index));
+      quizData.forEach((item, index) => {
+        const answerElements = document.querySelectorAll(
+          `input[name="question-${index}"]`
+        );
+        answerElements.forEach((el, i) => {
+          const parent = el.parentElement.parentElement;
+          if (i === item.answer) {
+            parent.classList.add('correct');
+          } else if (i === userAnswers[index]) {
+            parent.classList.add('incorrect');
+          }
+        });
+      });
     }
 
     function handleRedo() {
