@@ -194,12 +194,12 @@
         }
         const range = rangeInput.value;
 
-      if (range) {
-        const selectedIndices = parseRangeInput(range);
-        combinedData = selectedIndices.map(index => combinedData[index]).filter(Boolean);
-      } else if (maxQuestions > 0 && maxQuestions < combinedData.length) {
-        combinedData = combinedData.slice(0, maxQuestions);
-      }
+        if (range) {
+          const selectedIndices = parseRangeInput(range);
+          combinedData = selectedIndices.map(index => combinedData[index]).filter(Boolean);
+        } else {
+          combinedData = combinedData.slice(0); // Select all questions if no range is provided
+        }
         // Shuffle and limit questions if required
         if (shuffleQuestionsCheckbox.checked) {
           combinedData = shuffleArray(combinedData);
