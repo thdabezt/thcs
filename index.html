@@ -330,7 +330,7 @@
     }, 0);
 
     const percentage = ((score / quizData.length) * 100).toFixed(2);
-    resultContainer.textContent = `${score} correct / ${quizData.length} - ${percentage}%`;
+    resultContainer.textContent = `${score}/${quizData.length} - ${percentage}%`;
       showAnswersBtn.style.display = 'inline-block';
       redoBtn.style.display = 'inline-block';
       stopTimer();
