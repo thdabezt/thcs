@@ -100,6 +100,9 @@
     <label>
       Max Questions: <input type="number" id="max-questions" value="0" min="0">
     </label>
+    <label>
+      Range: <input type="text" id="range-input" placeholder="e.g., 1-2,5,10-15">
+    </label>    
     <br>
     <label>
       <input type="checkbox" id="timer-checkbox"> Enable Timer
@@ -187,7 +190,14 @@
 
           combinedData = combinedData.concat(processedData); // Merge quiz data
         }
+        const range = rangeInput.value;
 
+      if (range) {
+        const selectedIndices = parseRangeInput(range);
+        combinedData = selectedIndices.map(index => combinedData[index]).filter(Boolean);
+      } else if (maxQuestions > 0 && maxQuestions < combinedData.length) {
+        combinedData = combinedData.slice(0, maxQuestions);
+      }
         // Shuffle and limit questions if required
         if (shuffleQuestionsCheckbox.checked) {
           combinedData = shuffleArray(combinedData);
@@ -208,6 +218,23 @@
       } catch (error) {
         console.error('Error loading quiz data:', error);
       }
+    }
+    function parseRangeInput(range) {
+      const ranges = range.split(',');
+      const questionIndices = new Set();
+
+      ranges.forEach(r => {
+        if (r.includes('-')) {
+          const [start, end] = r.split('-').map(Number);
+          for (let i = start - 1; i < end; i++) {
+            questionIndices.add(i);
+          }
+        } else {
+          questionIndices.add(parseInt(r, 10) - 1);
+        }
+      });
+
+      return Array.from(questionIndices);
     }
 
     function loadQuiz() {
