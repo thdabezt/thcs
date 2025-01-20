@@ -326,10 +326,11 @@
 
     function handleSubmit() {
       const score = userAnswers.reduce((acc, answer, index) => {
-        return answer === quizData[index].answer ? acc + 1 : acc;
-      }, 0);
+      return answer === quizData[index].answer ? acc + 1 : acc;
+    }, 0);
 
-      resultContainer.textContent = `You scored ${score} out of ${quizData.length}`;
+    const percentage = ((score / quizData.length) * 100).toFixed(2);
+    resultContainer.textContent = `${score} correct / ${quizData.length} - ${percentage}%`;
       showAnswersBtn.style.display = 'inline-block';
       redoBtn.style.display = 'inline-block';
       stopTimer();
