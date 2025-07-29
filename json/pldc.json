@@ -1,0 +1,1082 @@
+[
+    {
+        "question": "1. Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân chủ yếu làm xuất hiện Nhà nước là?",
+        "choices": [
+            "Do có sự phân hóa lao động trong xã hội",
+            "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội",
+            "Do địa hình, khí hậu không thuận lợi nên con người phải hợp sức lại để phát triển sản xuất",
+            "Do các thành viên trong xã hội lập ra"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "2. Nhà nước chưa tồn tại trong hình thái kinh tế - xã hội nào?",
+        "choices": [
+            "Hình thái kinh tế - xã hội Công xã nguyên thủy",
+            "Hình thái kinh tế - xã hội Cộng sản nguyên thủy",
+            "Hình thái kinh tế - xã hội Cộng sản chủ nghĩa",
+            "Hình thái kinh tế - xã hội Chiếm hữu nô lệ"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "3. Tổ chức thị tộc trong xã hội Cộng sản nguyên thủy là?",
+        "choices": [
+            "Một tổ chức kinh tế",
+            "Một tập đoàn người có cùng quan hệ huyết thống",
+            "Một xã hội độc lập",
+            "Một đơn vị độc lập"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "4. Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là đúng?",
+        "choices": [
+            "Thị tộc là gia đình trong xã hội Cộng sản nguyên thủy",
+            "Trong thị tộc đã có sự phân công lao động chuyên môn hóa ngành nghề",
+            "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy",
+            "Tổ chức thị tộc gắn liền với nền kinh tế sản xuất"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "5. Theo quan điểm của chủ nghĩa Mác-Lênin về Nhà nước thì?",
+        "choices": [
+            "Nhà nước là hiện tượng tự nhiên",
+            "Nhà nước là hiện tượng xã hội mang tính lịch sử",
+            "Nhà nước là hiện tượng xã hội",
+            "Nhà nước là hiện tượng xuất hiện và tồn tại cùng với sự xuất hiện, tồn tại của lịch sử xã hội loài người"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "6. Dân cư trong xã hội cộng sản nguyên thủy được phân bố theo?",
+        "choices": [
+            "Tôn giáo",
+            "Quan hệ huyết thống",
+            "Đơn vị hành chính lãnh thổ",
+            "Hội đồng thị tộc, hội đồng bộ lạc"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "7. Khi nghiên cứu về nguồn gốc Nhà nước, xem Nhà nước là hiện tượng siêu nhiên, vĩnh cửu, đó là quan điểm của?",
+        "choices": [
+            "Thuyết thần học",
+            "Thuyết gia trưởng",
+            "Thuyết khế ước xã hội",
+            "Thuyết bạo lực"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "8. Khi nghiên cứu về tổ chức thị tộc thì khẳng định nào sau đây là sai?",
+        "choices": [
+            "Thị tộc là đơn vị kinh tế đầu tiên của xã hội cộng sản nguyên thủy",
+            "Trong thị tộc đã hình thành hội đồng thị tộc",
+            "Trong thị tộc đã hình thành các giai cấp khác nhau",
+            "Thị tộc tồn tại gắn liền với nền kinh tế tự nhiên"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "9. Những quy phạm xã hội tồn tại trong xã hội cộng sản nguyên thủy là?",
+        "choices": [
+            "Đạo đức, tập quán, pháp luật",
+            "Tập quán, tín điều tôn giáo, luật pháp",
+            "Tín điều tôn giáo, tập quán pháp",
+            "Đạo đức, tập quán, tín điều tôn giáo"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "10. Trong các quan điểm phi mácxít về nguồn gốc Nhà nước thì quan điểm nào được coi là tiến bộ nhất?",
+        "choices": [
+            "Quan điểm của những nhà nghiên cứu theo thuyết thần học",
+            "Quan điểm của những nhà nghiên cứu theo thuyết gia trưởng",
+            "Quan điểm của những nhà nghiên cứu theo thuyết khế ước xã hội",
+            "Quan điểm của những nhà nghiên cứu theo thuyết bạo lực"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "11. C.Mác và Ăngghen đã khái quát hóa quá trình tồn tại, phát triển, thay đổi của xã hội loài người trải qua..... lần phân công lao động?",
+        "choices": [
+            "Hai",
+            "Ba",
+            "Bốn",
+            "Năm"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "12. Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sau đây là sai?",
+        "choices": [
+            "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời",
+            "Lần phân công lao động thứ hai: ngành trồng trọt và tiểu thủ công nghiệp ra đời",
+            "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời",
+            "Lần phân công lao động thứ ba làm cho những mâu thuẫn trong xã hội ngày càng trở nên gay gắt"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "13. Đề cập đến quá trình phát triển, thay đổi của xã hội loài người, nhận định nào sau đây là sai?",
+        "choices": [
+            "Lần phân công lao động thứ nhất: ngành chăn nuôi ra đời",
+            "Lần phân công lao động thứ hai: ngành tiểu thủ công nghiệp ra đời",
+            "Lần phân công lao động thứ ba: ngành thương nghiệp ra đời",
+            "Lần phân công lao động thứ tư: Nhà nước ra đời"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "14. Nhận định nào sau đây là sai?",
+        "choices": [
+            "Hội đồng thị tộc là tổ chức quyền lực cao nhất của thị tộc",
+            "Cơ sở kinh tế đặc trưng của xã hội cộng sản nguyên thủy là chế độ sở hữu chung về tư liệu sản xuất và sản phẩm lao động",
+            "Xã hội cộng sản nguyên thủy đã tồn tại quyền lực Nhà nước",
+            "Quyền lực trong xã hội cộng sản nguyên thủy là quyền lực xã hội, chưa mang tính giai cấp"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "15. Quyền lực trong xã hội cộng sản nguyên thủy mới chỉ là quyền lực xã hội vì?",
+        "choices": [
+            "Chưa mang tính giai cấp",
+            "Quyền lực gắn liền với xã hội, hòa nhập với xã hội",
+            "Do toàn xã hội tổ chức ra và phục vụ lợi ích cho cả cộng đồng",
+            "Bao gồm các đáp án"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "16. Nhà nước là hiện tượng xã hội mang tính lịch sử, đây là khẳng định về nguồn gốc Nhà nước theo quan điểm của?",
+        "choices": [
+            "Aristote",
+            "J.J.Rousseau",
+            "E.Duyring",
+            "Mác-Lênin"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "17. Khi nghiên cứu về nguồn gốc Nhà nước, khẳng định nào sau đây là sai?",
+        "choices": [
+            "Nhà nước ra đời trong điều kiện xã hội có giai cấp và đấu tranh giai cấp",
+            "Nhà nước chưa xuất hiện trong chế độ cộng sản nguyên thủy",
+            "Nhà nước ra đời, tồn tại cùng với lịch sử xã hội loài người",
+            "Nhà nước là hiện tượng xã hội mang tính lịch sử"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "18. Khẳng định nào sau đây đúng khi đề cập về bản chất Nhà nước",
+        "choices": [
+            "Nhà nước nào cũng chỉ mang bản chất xã hội",
+            "Mọi Nhà nước đều là bộ máy dùng để duy trì sự thống trị của giai cấp này đối với giai cấp khác",
+            "Bất cứ Nhà nước nào cũng thể hiện bản chất xã hội rõ nét hơn bản chất giai cấp",
+            "Bất cứ Nhà nước nào cũng đều mang bản chất giai cấp và bản chất xã hội"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "19. Bản chất giai cấp của Nhà nước được thể hiện?",
+        "choices": [
+            "Nhà nước là công cụ bảo vệ lợi ích của nhân dân lao động",
+            "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác",
+            "Nhà nước là công cụ để tổ chức, quản lý xã hội",
+            "Cả a, b, c đều đúng"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "20. Bản chất xã hội của Nhà nước được thể hiện?",
+        "choices": [
+            "Nhà nước là công cụ sắc bén để duy trì sự thống trị giai cấp",
+            "Nhà nước là một bộ máy trấn áp đặc biệt của giai cấp này đối với giai cấp khác",
+            "Nhà nước bảo đảm trật tự an toàn xã hội và giải quyết công việc chung của xã hội",
+            "Nhà nước là một bộ máy cưỡng chế đặc biệt nằm trong tay giai cấp cầm quyền"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "21. Với bản chất là chuyên chính vô sản, \"nó\" không còn là Nhà nước theo đúng nghĩa nữa mà chỉ còn là \"một nửa Nhà nước\" - \"nó\" đó là Nhà nước?",
+        "choices": [
+            "Nhà nước chủ nô",
+            "Nhà nước phong kiến",
+            "Nhà nước tư sản",
+            "Nhà nước xã hội chủ nghĩa"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "22. Nhà nước có mấy thuộc tính?",
+        "choices": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "23. Thuộc tính của Nhà nước được thể hiện?",
+        "choices": [
+            "Nhà nước thiết lập một quyền lực xã hội",
+            "Nhà nước có quyền ban hành những nội quy, điều lệ",
+            "Nhà nước có lãnh thổ và thực hiện sự phân chia dân cư thành các đơn vị hành chính lãnh thổ",
+            "Nhà nước có quyền quản lý mọi mặt đời sống xã hội"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "24. Nhà nước nào cũng có chức năng?",
+        "choices": [
+            "Bảo đảm an ninh chính trị",
+            "Phát triển kinh tế",
+            "Đối nội và đối ngoại",
+            "Ký kết điều ước quốc tế"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "25. Đề cập về mối quan hệ giữa các chức năng của Nhà nước, thì khẳng định nào sau đây là sai?",
+        "choices": [
+            "Chức năng đối nội và chức năng đối ngoại không liên quan đến nhau",
+            "Chức năng đối nội là cơ sở cho việc thực hiện chức năng đối ngoại",
+            "Kết quả của việc thực hiện chức năng đối ngoại có tác động đến việc thực hiện chức năng đối nội",
+            "Chức năng đối nội có vai trò quan trọng hơn chức năng đối ngoại"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "26. Đối nội và đối ngoại là những mặt hoạt động chủ yếu của Nhà nước, đó chính là?",
+        "choices": [
+            "Bản chất Nhà nước",
+            "Đặc trưng cơ bản của Nhà nước",
+            "Cách thức tồn tại của Nhà nước",
+            "Chức năng của Nhà nước"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "27. Việt Nam phối hợp với lực lượng an ninh các quốc gia trong khu vực giải quyết vấn đề tội phạm xuyên quốc gia, đây là hoạt động thể hiện?",
+        "choices": [
+            "Chức năng của Nhà nước",
+            "Chức năng đối ngoại của Nhà nước",
+            "Nhiệm vụ của Nhà nước",
+            "Mối quan hệ của Nhà nước Việt Nam"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "28. Đẩy mạnh cải cách thủ tục hành chính, tăng cường hiệu quả hoạt động của bộ máy Nhà nước, đặc biệt trong giai đoạn hiện nay là nội dung thuộc về?",
+        "choices": [
+            "Chức năng đối nội của Nhà nước",
+            "Quyền hạn của Nhà nước",
+            "Chức năng Nhà nước",
+            "Nhiệm vụ của Nhà nước"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "29. Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là?",
+        "choices": [
+            "Do ý chí của giai cấp thống trị xã hội",
+            "Do sự phát triển tự nhiên của xã hội",
+            "Do mâu thuẫn giữa lực lượng sản xuất và quan hệ sản xuất trong xã hội",
+            "Do sự vận động, phát triển, thay thế các hình thái kinh tế - xã hội mà nhân tố làm nên sự thay thế đó là các cuộc cách mạng xã hội"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "30. Khi nghiên cứu về các kiểu Nhà nước trong lịch sử, khẳng định nào sau đây là sai?",
+        "choices": [
+            "Tương ứng với mỗi hình thái kinh tế - xã hội trong lịch sử thì có một kiểu Nhà nước",
+            "Cơ sở để xác định kiểu Nhà nước là các yếu tố kinh tế - xã hội tồn tại trong một giai đoạn lịch sử nhất định",
+            "Nguyên nhân dẫn đến sự thay thế các kiểu Nhà nước trong lịch sử là do sự vận động, thay thế các hình thái kinh tế - xã hội",
+            "Kiểu Nhà nước sau bao giờ cũng tiến bộ hơn kiểu Nhà nước trước"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "31. Kiểu Nhà nước đầu tiên trong lịch sử là?",
+        "choices": [
+            "Nhà nước cộng sản nguyên thủy",
+            "Nhà nước chủ nô",
+            "Nhà nước phong kiến",
+            "Nhà nước tư sản"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "32. Hình thức chính thể của Nhà nước bao gồm các loại?",
+        "choices": [
+            "Chính thể quân chủ và cộng hòa dân chủ",
+            "Chính thể quân chủ và cộng hòa",
+            "Chính thể cộng hòa tổng thống và cộng hòa đại nghị",
+            "Chính thể quân chủ tuyệt đối và quân chủ tương đối"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "33. Chính thể quân chủ tuyệt đối thường xuất hiện ở chế độ xã hội nào?",
+        "choices": [
+            "Cộng sản nguyên thủy",
+            "Phong kiến",
+            "Chiếm hữu nô lệ",
+            "Tư bản chủ nghĩa"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "34. Hình thức chính thể nào là phổ biến trên thế giới?",
+        "choices": [
+            "Cộng hòa tổng thống",
+            "Quân chủ lập hiến",
+            "Cộng hòa đại nghị",
+            "Cộng hòa dân chủ"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "35. Hình thức Nhà nước được tạo thành từ các yếu tố?",
+        "choices": [
+            "Hình thức kinh tế; chế độ kinh tế - chính trị; cấu trúc lãnh thổ",
+            "Chế độ chính trị; chế độ kinh tế; chế độ văn hóa",
+            "Hình thức chính thể; hình thức cấu trúc Nhà nước; chế độ chính trị",
+            "Hình thức cấu trúc; hình thức chính thể; chế độ kinh tế - chính trị"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "36. Trong một quốc gia, tổ chức duy nhất được quyền phát hành tiền?",
+        "choices": [
+            "Quốc hội",
+            "Chính phủ",
+            "Nhà nước",
+            "Các tổ chức chính trị - xã hội"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "37. Lịch sử xã hội loài người đã tồn tại..... kiểu Nhà nước, bao gồm các kiểu Nhà nước là?",
+        "choices": [
+            "4: Chủ nô - Phong kiến - Tư hữu - XHCN",
+            "4: Chủ nô - Phong kiến - Tư sản - XHCN",
+            "4: Chủ nô - Chiếm hữu nô lệ - Tư bản - XHCN",
+            "4: Địa chủ - Nông nô, phong kiến - Tư bản - XHCN"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "38. Hình thức Nhà nước là cách tổ chức bộ máy quyền lực Nhà nước và phương pháp thực hiện quyền lực Nhà nước. Hình thức Nhà nước được thể hiện chủ yếu ở..... khía cạnh; đó là......?",
+        "choices": [
+            "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ KT - XH",
+            "3 - hình thức chính thể, hình thức cấu trúc Nhà nước và chế độ chính trị",
+            "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ KT - XH",
+            "3 - hình thức chuyên chính, hình thức cấu trúc Nhà nước và chế độ chính trị"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "39. Chức năng nào dưới đây không phải là chức năng chính của Quốc hội?",
+        "choices": [
+            "Chức năng lập pháp",
+            "Chức năng giám sát tối cao",
+            "Chức năng quyết định các vấn đề quan trọng của đất nước",
+            "Chức năng công tố"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "40. Quyền lập pháp được hiểu là?",
+        "choices": [
+            "Quyền ban hành và triển khai thực hiện pháp luật",
+            "Thiết lập Hiến pháp",
+            "Soạn thảo và ban hành pháp luật",
+            "Thực hiện pháp luật"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "41. Quyền hành pháp được hiểu là?",
+        "choices": [
+            "Quyền ban hành và triển khai thực hiện pháp luật",
+            "Quyền ban hành pháp luật",
+            "Quyền bảo vệ pháp luật",
+            "Quyền tổ chức thực hiện pháp luật"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "42. Quyền tư pháp được hiểu là?",
+        "choices": [
+            "Quyền xét xử",
+            "Quyền ban hành pháp luật",
+            "Quyền tổ chức thực hiện pháp luật",
+            "Quyền bảo vệ pháp luật"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "43. Theo quan điểm của chủ nghĩa Mác-Lênin thì nguyên nhân pháp luật ra đời là?",
+        "choices": [
+            "Do có sự chia rẽ trong xã hội",
+            "Do có sự phân hóa giai cấp và đấu tranh giai cấp trong xã hội",
+            "Do thượng đế tạo ra",
+            "Do các thành viên trong xã hội ban hành"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "44. Pháp luật chưa tồn tại trong xã hội nào?",
+        "choices": [
+            "Xã hội Phong kiến",
+            "Xã hội Cộng sản nguyên thủy",
+            "Xã hội Tư bản chủ nghĩa",
+            "Xã hội Chiếm hữu nô lệ"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "45. Mối quan hệ giữa cộng đồng trong xã hội nguyên thủy được điều chỉnh bởi?",
+        "choices": [
+            "Tập quán",
+            "Tín điều tôn giáo",
+            "Pháp luật",
+            "Quy phạm xã hội"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "46. Nhận định nào sau đây đúng khi nghiên cứu về sự ra đời của pháp luật?",
+        "choices": [
+            "Pháp luật là những quy tắc xã hội được lưu truyền qua nhiều thế hệ",
+            "Nhà nước đã nâng tập quán từng tồn tại trở thành pháp luật",
+            "Giai cấp thống trị đã chọn lọc những quy phạm xã hội còn phù hợp và ban hành các quy định mới để trở thành pháp luật",
+            "Pháp luật ra đời là kết quả của cuộc tranh giành giữa các giai cấp"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "47. Pháp luật là sản phẩm của?",
+        "choices": [
+            "Tôn giáo",
+            "Đảng phái chính trị",
+            "Đạo đức",
+            "Nhà nước"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "48. Nhận định nào sau đây đúng khi bàn về sự ra đời của pháp luật?",
+        "choices": [
+            "Pháp luật ra đời do nhu cầu khách quan của xã hội mà không cần đến vai trò của Nhà nước",
+            "Pháp luật là sản phẩm của xã hội có giai cấp và đấu tranh giai cấp",
+            "Ý chí chủ quan của Nhà nước được nâng thành pháp luật",
+            "Pháp luật là sự thỏa hiệp về ý chí của mọi người trong xã hội"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "49. Pháp luật là phương tiện để khẳng định vai trò của giai cấp thống trị đối với toàn xã hội, đây là nội dung thể hiện?",
+        "choices": [
+            "Thuộc tính của pháp luật",
+            "Bản chất giai cấp của pháp luật",
+            "Bản chất của pháp luật",
+            "Bản chất xã hội của pháp luật"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "50. Nhận định nào sau đây đúng khi bàn về bản chất của pháp luật?",
+        "choices": [
+            "Pháp luật mang bản chất giai cấp và bản chất xã hội",
+            "Pháp luật luôn chỉ phản ánh ý chí của giai cấp thống trị",
+            "Trong mọi chế độ xã hội, pháp luật là công cụ bảo vệ lợi ích của nhân dân",
+            "Bản chất giai cấp của pháp luật quan trọng hơn bản chất xã hội"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "51. Nhận định nào sau đây sai khi bàn về bản chất của pháp luật?",
+        "choices": [
+            "Pháp luật mang bản chất giai cấp và bản chất xã hội",
+            "Pháp luật phản ánh ý chí của giai cấp thống trị, bảo vệ lợi ích của Nhà nước",
+            "Trong mọi chế độ xã hội, pháp luật là công cụ bảo vệ lợi ích của nhân dân",
+            "Tùy vào mỗi kiểu pháp luật khác nhau, bản chất giai cấp hay bản chất xã hội sẽ thể hiện rõ nét hơn"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "52. Nhà nước ban hành pháp luật để điều chỉnh các quan hệ xã hội?",
+        "choices": [
+            "Chủ yếu, quan trọng",
+            "Điển hình, quan trọng",
+            "Phổ biến, điển hình",
+            "Tất cả các quan hệ xã hội"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "53. Tính quy phạm của pháp luật thể hiện giới hạn cần thiết để các chủ thể pháp luật tự do xử sự trong khuôn khổ Nhà nước quy định, giới hạn đó xác định ở các khía cạnh sau?",
+        "choices": [
+            "Cho phép thực hiện",
+            "Cấm đoán thực hiện",
+            "Bắt buộc thực hiện",
+            "Bao gồm các đáp án"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "54. Nội dung nào sau đây phù hợp với tính quy phạm và phổ biến của pháp luật?",
+        "choices": [
+            "Phạm vi tác động của quy phạm xã hội rộng hơn so với pháp luật",
+            "Ai cũng cần phải thực hiện theo các tín điều tôn giáo được ban hành",
+            "Cơ quan có quyền ban hành pháp luật thì cũng có quyền không thực hiện pháp luật",
+            "Phạm vi tác động của pháp luật rộng lớn cả về không gian, thời gian và đối tượng áp dụng"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "55. Ưu thế vượt trội của pháp luật so với các quy phạm xã hội khác là?",
+        "choices": [
+            "Tính cưỡng chế",
+            "Tính rộng rãi",
+            "Tính xã hội",
+            "Tồn tại trong thời gian dài"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "56. Pháp luật ghi nhận các quan hệ xã hội chủ yếu và xác định quyền, nghĩa vụ pháp lý của các chủ thể trong quan hệ đó, thể hiện?",
+        "choices": [
+            "Chức năng điều chỉnh các quan hệ xã hội của pháp luật",
+            "Chức năng của pháp luật",
+            "Chức năng giáo dục của pháp luật",
+            "Nhiệm vụ của pháp luật"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "57. Nhận định nào sau đây sai khi đề cập đến chức năng của pháp luật?",
+        "choices": [
+            "Pháp luật bảo vệ tất cả các quan hệ xã hội",
+            "Pháp luật tác động đến các quan hệ xã hội chủ yếu, tạo hành lang pháp lý an toàn cho quan hệ xã hội đó tồn tại, phát triển",
+            "Chức năng giáo dục của pháp luật thể hiện tính răn đe đối với hành vi vi phạm pháp luật và phòng ngừa chung cho toàn xã hội",
+            "Không đáp án nào sai"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "58. Người lao động đình công theo quy định pháp luật đòi tăng lương, giảm giờ làm, thể hiện vai trò nào sau đây của pháp luật?",
+        "choices": [
+            "Pháp luật làm ổn định những quan hệ mới",
+            "Pháp luật là phương tiện để Nhà nước quản lý mọi mặt đời sống xã hội",
+            "Pháp luật là phương tiện để bảo vệ các quyền, lợi ích hợp pháp của công dân",
+            "Pháp luật là cơ sở để tạo lập mối quan hệ đối ngoại"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "59. Đề cập về mối quan hệ giữa pháp luật và Nhà nước, khẳng định nào sau đây là sai?",
+        "choices": [
+            "Pháp luật và Nhà nước đều là hai yếu tố thuộc kiến trúc thượng tầng",
+            "Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau",
+            "Nhà nước đứng trên pháp luật vì Nhà nước ban hành ra pháp luật",
+            "Pháp luật là phương tiện để tổ chức và thực hiện quyền lực Nhà nước"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "60. Đề cập về mối quan hệ giữa pháp luật và Nhà nước, khẳng định nào sau đây là sai?",
+        "choices": [
+            "Pháp luật và Nhà nước có chung điều kiện ra đời, tồn tại, thay đổi và tiêu vong",
+            "Nhà nước và pháp luật có mối quan hệ tác động qua lại lẫn nhau theo hướng tích cực hoặc tiêu cực",
+            "Pháp luật đứng trên Nhà nước vì nó là cơ sở pháp lý thừa nhận sự tồn tại của Nhà nước",
+            "Tương ứng với mỗi kiểu Nhà nước thì có một kiểu pháp luật"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "61. Pháp luật là công cụ bảo vệ lợi ích của?",
+        "choices": [
+            "Tổ chức tôn giáo",
+            "Giai cấp thống trị",
+            "Nhà nước và xã hội",
+            "Nhân dân"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "62. Đề cập về mối quan hệ giữa pháp luật và kinh tế, khẳng định nào sau đây là sai?",
+        "choices": [
+            "Đó là mối quan hệ giữa cơ sở thượng tầng và hạ tầng kiến trúc",
+            "Pháp luật tác động đến kinh tế theo hướng tích cực hoặc tiêu cực",
+            "Kinh tế giữ vai trò quyết định đối với pháp luật",
+            "Pháp luật có tính độc lập tương đối và tác động mạnh mẽ đến kinh tế"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "63. Pháp luật công khai quy định về chế độ bóc lột nô lệ, thể hiện sự bất bình đẳng giữa chủ nô và nô lệ, đây là đặc điểm của kiểu pháp luật nào?",
+        "choices": [
+            "Pháp luật chủ nô",
+            "Pháp luật phong kiến",
+            "Pháp luật tư sản",
+            "Bao gồm các đáp án"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "64. Pháp luật quy định và bảo đảm thực hiện trên thực tế quyền tự do dân chủ của nhân dân; hạn chế sự bóc lột, bảo vệ quyền lợi của nhân dân. Đây là đặc điểm của kiểu pháp luật nào?",
+        "choices": [
+            "Pháp luật chủ nô",
+            "Pháp luật phong kiến",
+            "Pháp luật tư sản",
+            "Các đáp án đều sai"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "65. Pháp luật quy định đẳng cấp trong xã hội và đặc quyền, đặc lợi của địa chủ, phong kiến. Đây là đặc trưng của kiểu pháp luật nào?",
+        "choices": [
+            "Pháp luật chủ nô",
+            "Pháp luật phong kiến",
+            "Pháp luật tư sản",
+            "Pháp luật XHCN"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "66. Chọn phương án đúng điền vào chỗ trống: .....là cách thức mà giai cấp thống trị sử dụng để nâng ý chí của giai cấp mình lên thành pháp luật?",
+        "choices": [
+            "Kiểu pháp luật",
+            "Hình thức pháp luật",
+            "Hình thức Nhà nước",
+            "Hình thức văn bản"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "67. Kiểu pháp luật và hình thức pháp luật là hai khái niệm?",
+        "choices": [
+            "Giống nhau",
+            "Khác nhau",
+            "Đối lập nhau",
+            "Tương tự nhau"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "68. Hiện nay Việt Nam áp dụng hình thức pháp luật nào?",
+        "choices": [
+            "Tập quán pháp",
+            "Văn bản luật",
+            "Văn bản quy phạm pháp luật",
+            "Án lệ pháp"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "69. Việc phân định kiểu pháp luật là dựa trên cơ sở?",
+        "choices": [
+            "Hình thái kinh tế - xã hội và bản chất Nhà nước",
+            "Hình thái kinh tế - xã hội",
+            "Kiểu Nhà nước",
+            "Hình thức Nhà nước"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "70. Kiểu pháp luật..... thể hiện rõ sự bất bình đẳng giữa hai cấp đối kháng trong xã hội, công khai thừa nhận nô lệ không phải là công dân, họ là tài sản của.....?",
+        "choices": [
+            "Phong kiến - giai cấp địa chủ",
+            "Tư sản - giai cấp thống trị",
+            "Chủ nô - giai cấp phong kiến",
+            "Chủ nô - giai cấp chủ nô"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "71. Trong lịch sử xã hội đã tồn tại các hình thức pháp luật sau?",
+        "choices": [
+            "Tập quán pháp",
+            "Án lệ pháp",
+            "Tiền lệ pháp",
+            "Các đáp án đều sai"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "72. Trong lịch sử xã hội đã tồn tại các hình thức pháp luật sau?",
+        "choices": [
+            "Tập quán pháp",
+            "Văn bản quy phạm pháp luật",
+            "Tiền lệ pháp",
+            "Bao gồm các đáp án"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "73. Hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung là hình thức pháp luật nào sau đây?",
+        "choices": [
+            "Tập quán pháp",
+            "Văn bản quy phạm pháp luật",
+            "Tiền lệ pháp",
+            "Tiền lệ pháp và tập quán pháp"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "74. Nhận định nào sau đây là sai khi đề cập về tập quán pháp?",
+        "choices": [
+            "Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện",
+            "Hình thức pháp luật xuất hiện sớm nhất là tập quán pháp",
+            "Tất cả các tập quán đều trở thành pháp luật",
+            "Hiện nay hình thức tập quán pháp được sử dụng hạn chế tại một số nước"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "75. Nhận định nào sau đây là sai?",
+        "choices": [
+            "Tập quán pháp là hình thức Nhà nước thừa nhận một số tập quán lưu truyền trong xã hội và quy định thành cách xử sự chung, được Nhà nước bảo đảm thực hiện",
+            "Hình thức tập quán pháp được sử dụng nhiều trong Nhà nước xã hội chủ nghĩa",
+            "Văn bản quy phạm pháp luật là hình thức pháp luật tiến bộ nhất",
+            "Hình thức tiền lệ pháp còn gọi là án lệ pháp"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "76. Việc Nhà nước thừa nhận một số quyết định của cơ quan hành chính và cơ quan xét xử trước đây làm mẫu để giải quyết các vụ việc tương tự xảy ra về sau gọi là hình thức pháp luật nào?",
+        "choices": [
+            "Luật lệ pháp",
+            "Tiền lệ pháp",
+            "Văn bản quy phạm pháp luật",
+            "Tương tự pháp"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "77. Khẳng định nào sau đây sai khi đề cập về hình thức tiền lệ pháp?",
+        "choices": [
+            "Tiền lệ pháp là hình thức Nhà nước thừa nhận một số quyết định của cơ quan hành chính và cơ quan xét xử trước đây làm mẫu để giải quyết các vụ việc tương tự xảy ra về sau",
+            "Hiện nay hình thức tiền lệ pháp được áp dụng phổ biến ở một số nước như Anh, Mỹ, Việt Nam",
+            "Hạn chế của hình thức tiền lệ pháp là dễ tạo ra sự tùy tiện khi xử lý vi phạm",
+            "Việc áp dụng án lệ pháp phải tuân theo trình tự, thủ tục chặt chẽ"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "78. Hình thức pháp luật này ngày càng được sử dụng rộng rãi ở các quốc gia vì nó khắc phục được những hạn chế của các hình thức pháp luật khác và có tính rõ ràng, cụ thể, được ban hành theo trình tự, thủ tục nhất định, đó là?",
+        "choices": [
+            "Tiền lệ pháp",
+            "Văn bản quy phạm pháp luật",
+            "Văn bản luật",
+            "Tập quán pháp"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "79. Đáp án nào sau đây không thuộc kiểu pháp luật chủ nô?",
+        "choices": [
+            "Bộ luật Hammurabi",
+            "Quốc triều hình luật",
+            "Bộ luật Manu",
+            "Luật Đôracông"
+        ],
+        "answer": 1,
+        "links": {}
+    },
+    {
+        "question": "80. Trong các bộ luật nổi tiếng sau thuộc kiểu pháp luật chủ nô, bộ luật nào hoàn thiện nhất?",
+        "choices": [
+            "Bộ luật Hammurabi của Nhà nước CHNL Babilon",
+            "Bộ luật Manu của Nhà nước CHNL Ấn Độ",
+            "Luật mười hai bảng của Nhà nước CHNL La Mã",
+            "Luật Đôracông của Nhà nước CHNL Hy Lạp"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "81. Để bảo đảm cho pháp luật được tôn trọng và thực hiện, Nhà nước có những biện pháp nào?",
+        "choices": [
+            "Biện pháp về mặt kinh tế",
+            "Biện pháp về mặt tổ chứcc) Biện pháp cưỡng chế Nhà nước",
+            "Bao gồm các đáp án"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "82. Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+        "choices": [
+            "Nghị quyết của Quốc hội",
+            "Quyết định của Chủ tịch nước",
+            "Điều lệ Đoàn Thanh niên Cộng sản Hồ Chí Minh",
+            "Nghị quyết của Hội đồng nhân dân"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "83. Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+        "choices": [
+            "Quyết định của Thủ tướng Chính phủ",
+            "Thông tư của Bộ trưởng Bộ Tài chính",
+            "Điều lệ Hội Cựu chiến binh",
+            "Nghị quyết Ủy ban Thường vụ Quốc hội"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "84. Các đáp án sau đều là quy phạm pháp luật, ngoại trừ?",
+        "choices": [
+            "Nghị quyết của Hội đồng Thẩm phán Tòa án nhân dân Tối cao",
+            "Nghị quyết của Hội đồng nhân dân Tp. Hồ Chí Minh",
+            "Nghị quyết của Đảng Cộng sản",
+            "Nghị quyết Ủy ban Thường vụ Quốc hội"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "85. Quy phạm pháp luật là quy tắc xử sự mang tính..... do..... ban hành và bảo đảm thực hiện, thể hiện ý chí và bảo vệ lợi ích của giai cấp thống trị để điều chỉnh các.....?",
+        "choices": [
+            "Bắt buộc chung - Nhà nước - quan hệ pháp luật",
+            "Bắt buộc - Nhà nước - quan hệ xã hội",
+            "Bắt buộc chung - Quốc hội - quan hệ xã hội",
+            "Bắt buộc chung - Nhà nước - quan hệ xã hội"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "86. Những quy tắc xử sự chung do Nhà nước ban hành và bảo đảm thực hiện để điều chỉnh các quan hệ xã hội theo định hướng và nhằm đạt được những mục đích nhất định, các quy tắc đó gọi là?",
+        "choices": [
+            "Quy phạm luật pháp",
+            "Vi phạm pháp luật",
+            "Quy phạm pháp luật",
+            "Văn bản pháp luật"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "87. Quy phạm pháp luật tồn tại trong xã hội nào?",
+        "choices": [
+            "Xã hội có giai cấp",
+            "Xã hội có Nhà nước",
+            "Các đáp án đều đúng",
+            "Xã hội có tư hữu"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "88. Quy phạm pháp luật là?",
+        "choices": [
+            "Quy tắc xử sự chung tồn tại từ xã hội nguyên thủy đến nay để điều chỉnh các quan hệ xã hội",
+            "Các quy phạm xã hội được lưu truyền từ xưa đến nay để điều chỉnh các quan hệ xã hội",
+            "Quy tắc được hình thành dựa trên nhận thức về các quy luật tự nhiên, điều chỉnh mối quan hệ giữa người và máy móc",
+            "Những quy tắc xử sự chung do Nhà nước ban hành và bảo đảm thực hiện để điều chỉnh các quan hệ xã hội theo định hướng và nhằm đạt được những mục đích nhất định"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "89. Quy phạm pháp luật và quy phạm xã hội?",
+        "choices": [
+            "Là hai khái niệm đồng nhất",
+            "Hoàn toàn giống nhau",
+            "Hoàn toàn khác nhau",
+            "Vừa có điểm giống nhau, vừa có điểm khác nhau",
+            "Quy phạm tập quán",
+            "Quy phạm tôn giáo",
+            "Quy phạm pháp luật",
+            "Quy phạm đạo đức"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "91. Đặc điểm khác biệt nhất của quy phạm pháp luật so với các quy phạm xã hội khác là?",
+        "choices": [
+            "Quy phạm pháp luật là quy tắc xử sự chung",
+            "Quy phạm pháp luật có tính hệ thống",
+            "Quy phạm pháp luật do các cơ quan Nhà nước có thẩm quyền ban hành và bảo đảm thực hiện",
+            "Nội dung của quy phạm pháp luật quy định quyền và nghĩa vụ pháp lý của các bên tham gia quan hệ xã hội mà nó điều chỉnh"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "92. Cấu trúc pháp lý của một quy phạm pháp luật thông thường gồm có các bộ phận?",
+        "choices": [
+            "Giả định",
+            "Quy định",
+            "Chế tài",
+            "Bao gồm các đáp án"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "93. Chọn phương án đúng nhất điền vào chỗ trống: .....của quy phạm pháp luật chứa đựng mệnh lệnh của Nhà nước?",
+        "choices": [
+            "Bộ phận giả định",
+            "Bộ phận quy định",
+            "Bộ phận chế tài",
+            "Bộ phận quy định và bộ phận chế tài"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "94. Những điều kiện, hoàn cảnh có thể xảy ra trong thực tế cuộc sống mà Nhà nước dự liệu và dùng pháp luật tác động, được ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+        "choices": [
+            "Giả định",
+            "Giả thuyết",
+            "Quy định",
+            "Giả định và quy định"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "95. Bộ phận nào sau đây không thể thiếu trong một quy phạm pháp luật?",
+        "choices": [
+            "Bộ phận giả định và bộ phận chế tài",
+            "Bộ phận giả địnhc) Bộ phận quy định",
+            "Bộ phận chế tài"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "96. Trong một quy phạm pháp luật, bộ phận quan trọng nhất là?",
+        "choices": [
+            "Bộ phận quy định và bộ phận chế tài",
+            "Bộ phận giả định",
+            "Bộ phận quy định",
+            "Bộ phận chế tài"
+        ],
+        "answer": 0,
+        "links": {}
+    },
+    {
+        "question": "97. Bộ phận nào của quy phạm pháp luật nhằm bảo đảm cho pháp luật được thực hiện nghiêm chỉnh?",
+        "choices": [
+            "Giả định",
+            "Quy định",
+            "Chế tài",
+            "Cả a, b, c đều đúng"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "98. Giới hạn Nhà nước đưa ra cho phép, cấm đoán, bắt buộc các chủ thể thực hiện hành vi hoặc tiến hành một công việc nhất định được ghi nhận tại bộ phận..... của quy phạm pháp luật?",
+        "choices": [
+            "Giả định",
+            "Chế định",
+            "Quy định",
+            "Chế tài"
+        ],
+        "answer": 2,
+        "links": {}
+    },
+    {
+        "question": "99. Giả định nêu lên nhiều điều kiện, hoàn cảnh và giữa chúng có mối liên hệ với nhau, gọi là?",
+        "choices": [
+            "Giả định đơn giản",
+            "Giả định phức hợp",
+            "Giả định phức tạp",
+            "Giả thuyết phức tạp"
+        ],
+        "answer": 2,
+        "links": {}
+    }
+]
