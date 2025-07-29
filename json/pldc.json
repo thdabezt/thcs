@@ -883,7 +883,8 @@
         "question": "81. Để bảo đảm cho pháp luật được tôn trọng và thực hiện, Nhà nước có những biện pháp nào?",
         "choices": [
             "Biện pháp về mặt kinh tế",
-            "Biện pháp về mặt tổ chứcc) Biện pháp cưỡng chế Nhà nước",
+            "Biện pháp về mặt tổ chức",
+            "Biện pháp cưỡng chế Nhà nước",
             "Bao gồm các đáp án"
         ],
         "answer": 3,
@@ -972,13 +973,20 @@
             "Là hai khái niệm đồng nhất",
             "Hoàn toàn giống nhau",
             "Hoàn toàn khác nhau",
-            "Vừa có điểm giống nhau, vừa có điểm khác nhau",
+            "Vừa có điểm giống nhau, vừa có điểm khác nhau"
+        ],
+        "answer": 3,
+        "links": {}
+    },
+    {
+        "question": "90. Trong xã hội có giai cấp, quy phạm nào sau đây có vai trò quan trọng nhất đối với việc duy trì trật tự xã hội?",
+        "choices": [
             "Quy phạm tập quán",
             "Quy phạm tôn giáo",
             "Quy phạm pháp luật",
             "Quy phạm đạo đức"
         ],
-        "answer": 3,
+        "answer": 2,
         "links": {}
     },
     {
@@ -1029,7 +1037,8 @@
         "question": "95. Bộ phận nào sau đây không thể thiếu trong một quy phạm pháp luật?",
         "choices": [
             "Bộ phận giả định và bộ phận chế tài",
-            "Bộ phận giả địnhc) Bộ phận quy định",
+            "Bộ phận giả định",
+            "Bộ phận quy định",
             "Bộ phận chế tài"
         ],
         "answer": 0,
