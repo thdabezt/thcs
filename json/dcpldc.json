@@ -1,0 +1,1206 @@
+[
+    {
+        "question": "Trong các câu sau, câu nào là Đúng:",
+        "answer": 2,
+        "choices": [
+            "Tổ chức dòng họ cũng phân chia, quản lý dân cư theo các đơn vị hành chính lãnh thổ",
+            "Các tổ chức nghề nghiệp cũng phân chia, quản lý dân cư theo các đơn vị hành chính lãnh thổ",
+            "Chỉ có nhà nước mới có đặc trưng phân chia, quản lý dân cư theo các đơn vị hành chính lãnh thổ",
+            "Tổ chức công đoàn cũng phân chia, quản lý dân cư theo các đơn vị hành chính lãnh thổ"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các câu sau, câu nào là Đúng:",
+        "answer": 0,
+        "choices": [
+            "Chủ quyền quốc gia là quyền tối cao của nhà nước về đối nội và độc lập về đối ngoại",
+            "Chủ quyền quốc gia chỉ đặt ra đối với việc bảo vệ biên giới quốc gia",
+            "Chủ quyền quốc gia cũng có ở các tổ chức xã hội khác",
+            "Chủ quyền quốc gia chỉ giới hạn trong phạm vi lãnh thổ từng quốc gia"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Đặc điểm nào dưới đây KHÔNG phải là đặc điểm của văn bản quy phạm pháp luật:",
+        "answer": 1,
+        "choices": [
+            "Được ban hành theo đúng thẩm quyền",
+            "Có tính cá biệt, cụ thể",
+            "Được ban hành theo trình tự, thủ tục xác định",
+            "Có tính xác định chặt chẽ về hình thức"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Bản chất của pháp luật theo quan niệm chủ nghĩa Mác - Lê nin thể hiện chủ yếu qua:",
+        "answer": 1,
+        "choices": [
+            "Tính văn hoá của pháp luật",
+            "Tính giai cấp và tính xã hội của pháp luật",
+            "Tính xác định chặt chẽ về hình thức",
+            "Sự hình thành pháp luật trong lịch sử xã hội loài người"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Những câu dưới đây, câu nào KHÔNG chính xác:",
+        "answer": 1,
+        "choices": [
+            "Chức năng của pháp luật hiện đại là bảo vệ quan hệ xã hội",
+            "Chức năng của pháp luật hiện đại là bảo vệ chế độ gia trưởng",
+            "Định chuẩn là một trong những chức năng của pháp luật",
+            "Chức năng của pháp luật hiện đại là điều chỉnh quan hệ xã hội"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong những đáp án dưới đây, đáp án nào ĐÚNG:",
+        "answer": 1,
+        "choices": [
+            "Tập quán pháp là loại pháp luật được làm ra bởi sự sáng tạo của các quốc gia",
+            "Lẽ công bằng là nguồn luật ở Việt Nam hiện nay",
+            "Thủ tướng ban hành pháp luật để điều chỉnh quan hệ xã hội được Quốc hội giao",
+            "Luật được làm ra bởi nhân dân toàn quốc được gọi là tập quán pháp"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Các đáp án dưới đây, đáp án nào SAI:",
+        "answer": 0,
+        "choices": [
+            "Văn bản pháp luật do tổ chức, cá nhân không nhân danh quyền lực nhà nước ban hành",
+            "Án lệ là một loại nguồn của pháp luật",
+            "Văn bản pháp luật do cơ quan nhà nước ban hành",
+            "Án lệ do toà án tạo lập trong quá trình xét sử"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Các loại nguồn (hình thức) của pháp luật Việt Nam hiện nay là:",
+        "answer": 1,
+        "choices": [
+            "Điều lệ của các công ty",
+            "Văn bản pháp luật, tập quán, án lệ, lẽ công bằng, nguyên tắc pháp luật",
+            "Học thuyết chính trị - pháp lý",
+            "Hương ước"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là Sai:",
+        "answer": 0,
+        "choices": [
+            "Tất cả các cá nhân, các tổ chức trong xã hội không có quyền tham gia xây dựng pháp luật",
+            "Các tổ chức trong xã hội có quyền góp ý kiến xây dựng pháp luật khi nhà nước thông báo",
+            "Mọi cá nhân đều có quyền phản biện các văn bản pháp luật",
+            "Tất cả các cá nhân, các tổ chức trong xã hội đều có quyền tham gia xây dựng pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Pháp luật được bảo đảm thực hiện bằng nhà nước qua:",
+        "answer": 2,
+        "choices": [
+            "Dư luận xã hội",
+            "Các điều lệ của các tổ chức xã hội được nhà nước thừa nhận",
+            "Các biện pháp cưỡng chế, thuyết phục, giáo dục, hỗ trợ và các biện pháp khác do nhà nước tiến hành",
+            "Sức mạnh của tất cả mọi người trong xã hội"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Tính xác định chặt chẽ về hình thức của pháp luật có nghĩa là:",
+        "answer": 3,
+        "choices": [
+            "Pháp luật khái quát hoá và điều chỉnh các quan hệ xã hội cơ bản nhất",
+            "Các hình thức thể hiện của pháp luật rất đa dạng và phong phú",
+            "Pháp luật có loại nguồn cơ bản là văn bản quy phạm pháp luật và tập quán",
+            "Pháp luật được thể hiện bằng các hình thức rõ ràng, xác định nhằm đảm bảo tính chính xác cao"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong những đáp án dưới đây, đáp án nào ĐÚNG:",
+        "answer": 3,
+        "choices": [
+            "Lẽ công bằng không phải là nguồn luật ở Việt Nam",
+            "Quyết định của Chánh án Toà án nhân dân tối cao là loại văn bản quy phạm pháp luật",
+            "Nghị quyết của Chủ tịch nước là loại nguồn luật",
+            "Nghị định do Chính phủ ban hành"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quy phạm \"bắt buộc\" là quy phạm như thế nào?",
+        "answer": 1,
+        "choices": [
+            "Là loại quy phạm đặt ra một việc cụ thể và cấm các chủ thể khi tham gia vào quan hệ pháp luật làm việc đó",
+            "Là loại quy phạm đặt ra một việc cụ thể và buộc các chủ thể khi tham gia vào quan hệ pháp luật phải làm việc đó",
+            "Là loại quy phạm đặt ra một việc cụ thể và cho phép các chủ thể khi tham gia vào quan hệ pháp luật có quyền lựa chọn làm hoặc không làm việc đó",
+            "Cả ba nhận định trên đều sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "\"Năng lực pháp luật\" của chủ thể trong quan hệ pháp luật phụ thuộc vào yếu tố nào sau đây?",
+        "answer": 1,
+        "choices": [
+            "Phụ thuộc vào phong tục, tập quán",
+            "Phụ thuộc vào pháp luật của từng quốc gia",
+            "Phụ thuộc vào trình độ văn hoá",
+            "Phụ thuộc vào quan điểm đạo đức"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chủ thể của một quan hệ pháp luật có thể là:",
+        "answer": 2,
+        "choices": [
+            "Động vật nuôi (chó, mèo...)",
+            "Một trí tuệ nhân tạo",
+            "Cá nhân và pháp nhân (tổ chức)",
+            "Chỉ có thể là cá nhân"
+        ],
+        "links": {}
+    },
+    {
+        "question": "\"Quy phạm cấm đoán\" là quy phạm như thế nào?",
+        "answer": 2,
+        "choices": [
+            "Là loại quy phạm đặt ra một việc cụ thể và buộc các chủ thể khi tham gia vào quan hệ pháp luật phải làm việc đó",
+            "Là loại quy phạm đặt ra một việc cụ thể và cho phép các chủ thể khi tham gia vào quan hệ pháp luật có quyền lựa chọn làm hoặc không làm việc đó",
+            "Là loại quy phạm đặt ra một việc cụ thể và cấm các chủ thể khi tham gia vào quan hệ pháp luật làm việc đó",
+            "Cả ba nhận định trên đều sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Năng lực hành vi của chủ thể trong quan hệ pháp luật được hiểu như thế nào?",
+        "answer": 0,
+        "choices": [
+            "Là khả năng của chủ thể bằng chính hành vi của mình để được tham gia vào quan hệ pháp luật",
+            "Cả ba nhận định trên đều sai",
+            "Là khả năng của chủ thể được pháp luật quy định và bằng chính hành vi của mình để tham gia vào quan hệ pháp luật đó",
+            "Là khả năng của chủ thể được pháp luật quy định để được tham gia vào quan hệ pháp luật đó"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Áp dụng pháp luật:",
+        "answer": 3,
+        "choices": [
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật tiến hành các hoạt động mà pháp luật buộc phải làm",
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật kiềm chế không tiến hành các hoạt động mà pháp luật cấm",
+            "Là hình thức pháp luật, trong đó các chủ thể pháp luật tiến hành những hoạt động mà pháp luật cho phép",
+            "Là hình thức thực hiện pháp luật của các cơ quan nhà nước, nhà chức trách có thẩm hoặc tổ chức xã hội được nhà nước trao quyền"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Các hình thức thực hiện pháp luật là:",
+        "answer": 2,
+        "choices": [
+            "Áp dụng pháp luật",
+            "Sử dụng pháp luật",
+            "Cả ba đáp án trên",
+            "Tuân thủ pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Sử dụng pháp luật:",
+        "answer": 0,
+        "choices": [
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật tiến hành những hoạt động mà pháp luật cho phép",
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật kiềm chế không tiến hành các hoạt động mà pháp luật cấm",
+            "Là hình thức thực hiện pháp luật của các cơ quan nhà nước, nhà chức trách có thẩm hoặc tổ chức xã hội được nhà nước trao quyền",
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật tiến hành các hoạt động mà pháp luật buộc pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Năng lực hành vi của chủ thể trong quan hệ pháp luật phụ thuộc vào yếu tố nào sau đây?",
+        "answer": 1,
+        "choices": [
+            "Phụ thuộc vào truyền thống văn hoá dân tộc của từng quốc gia",
+            "Phụ thuộc vào độ tuổi, tình trạng sức khoẻ, trình độ nhận thức của chủ thể",
+            "Phụ thuộc vào hoàn cảnh kinh tế của chủ thể",
+            "Phụ thuộc vào pháp luật của từng quốc gia"
+        ],
+        "links": {}
+    },
+    {
+        "question": "\"Năng lực pháp luật\" của chủ thể trong quan hệ pháp luật được hiểu như thế nào?",
+        "answer": 0,
+        "choices": [
+            "Là khả năng của chủ thể được pháp luật quy định để được tham gia vào quan hệ pháp luật đó",
+            "Là khả năng của chủ thể được pháp luật quy định và bằng chính hành vi của mình để tham gia vào quan hệ pháp luật đó",
+            "Là khả năng của chủ thể bằng chính hành vi của mình để tham gia vào quan hệ pháp luật đó",
+            "Cả ba nhận định trên đều sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quy phạm pháp luật là:",
+        "answer": 2,
+        "choices": [
+            "Quy tắc của một tổ chức",
+            "Quy tắc xử sự trong xã hội",
+            "Quy tắc xử sự do Nhà nước ban hành hoặc thừa nhận và bảo đảm thực hiện",
+            "Quy tắc của một nhóm người"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Mối quan hệ giữa quan hệ pháp luật và quan hệ xã hội:",
+        "answer": 2,
+        "choices": [
+            "Quan hệ xã hội là một loại quan hệ pháp luật",
+            "Cả ba nhận định trên đều sai",
+            "Mọi quan hệ pháp luật đều là quan hệ xã hội",
+            "Không phải quan hệ pháp luật nào cũng là quan hệ xã hội"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Loại quy tắc xử sự nào sau đây là quy phạm pháp luật:",
+        "answer": 2,
+        "choices": [
+            "Những quy tắc tôn giáo",
+            "Các chuẩn mực ứng xử chung giữa người với người trong đời sống xã hội được cộng đồng thừa nhận và tôn trọng",
+            "Những quy tắc xử sự được Nhà nước ban hành hoặc thừa nhận và đảm bảo thực hiện",
+            "Những thói quen được hình thành từ lâu đời, được cộng đồng thừa nhận"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quy phạm pháp luật đầy đủ được cấu thành bởi các bộ phận nào?",
+        "answer": 3,
+        "choices": [
+            "Chỉ gồm hai bộ phận bắt buộc là \"giả định\" và \"chế tài\"",
+            "Chỉ gồm hai bộ phận bắt buộc là \"giả định\" và \"quy định\"",
+            "Chỉ gồm hai bộ phận bắt buộc là \"quy định\" và \"chế tài\"",
+            "Gồm 03 bộ phận là: giả định, quy định và chế tài"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quy phạm pháp luật gồm những loại nào?",
+        "answer": 0,
+        "choices": [
+            "Có thể bao gồm tất cả các loại quy phạm nêu trên",
+            "Chỉ có một loại là \"quy phạm bắt buộc\"",
+            "Chỉ có một loại là \"quy phạm lựa chọn\"",
+            "Chỉ có một loại là \"quy phạm cấm đoán\""
+        ],
+        "links": {}
+    },
+    {
+        "question": "Năng lực chủ thể của chủ thể trong quan hệ pháp luật được hiểu như thế nào?",
+        "answer": 1,
+        "choices": [
+            "Chỉ cần có năng lực pháp luật là có năng lực chủ thể",
+            "Phải có đủ cả năng lực pháp luật và năng lực hành vi mới có đủ năng lực chủ thể",
+            "Chỉ cần có năng lực hành vi là có đủ năng lực chủ thể",
+            "Chỉ cần có năng lực pháp luật hoặc có năng lực hành vi là có đủ năng lực chủ thể"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quan hệ pháp luật phát sinh, thay đổi hoặc chấm dứt khi có điều kiện gì?",
+        "answer": 3,
+        "choices": [
+            "Chỉ cần có chủ thể tham gia quan hệ và chủ thể đó có đủ năng lực chủ thể",
+            "Chỉ cần có quy phạm pháp luật điều chỉnh",
+            "Chỉ cần có sự kiện pháp lý",
+            "Phải có đủ cả ba điều kiện trên"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khái niệm quyền chủ thể được hiểu là?",
+        "answer": 0,
+        "choices": [
+            "Là khả năng của chủ thể được xử sự theo những cách thức nhất định mà pháp luật cho phép",
+            "Cá nhân, tổ chức đáp ứng được các điều kiện do pháp luật quy định và tham gia vào quan hệ pháp luật",
+            "Là khả năng mà nhà nước thừa nhận cho các cá nhân, tổ chức bằng hành vi của mình tự xác lập và thực hiện các quyền và nghĩa vụ pháp lý",
+            "Là khả năng có quyền, nghĩa vụ pháp lý do nhà nhà nước quy định cho các cá nhân, tổ chức nhất định"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chủ thể của quan hệ pháp luật là gì?",
+        "answer": 1,
+        "choices": [
+            "Là các tổ chức, cá nhân tham gia vào quan hệ pháp luật, trong đó phải có ít nhất một bên là cơ quan nhà nước có thẩm quyền",
+            "Là các tổ chức, cá nhân có đủ năng lực chủ thể theo quy định của pháp luật, tham gia vào quan hệ pháp luật",
+            "Bất kỳ người nào cũng là chủ thể của quan hệ pháp luật",
+            "Là tất cả các tổ chức, cá nhân tham gia vào quan hệ pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong những yếu tố sau đây của cấu thành vi phạm pháp luật, yếu tố nào là bắt buộc phải có để xác định đó là vi phạm pháp luật:",
+        "answer": 2,
+        "choices": [
+            "Động cơ thúc đẩy chủ thể thực hiện hành vi vi phạm pháp luật",
+            "Hậu quả do hành vi vi phạm pháp luật gây ra",
+            "Hành vi vi phạm pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Đâu là khẳng định đúng?",
+        "answer": 1,
+        "choices": [
+            "Anh N do phòng vệ chính đáng trong quá trình chống trả đánh chết người tấn công mình là vi phạm pháp luật dân sự",
+            "Anh A chậm trả tiền mua nhà trả góp theo hợp đồng là vi phạm pháp luật dân sự",
+            "Anh B là cán bộ của Sở Tư pháp Hà Nội thường xuyên đi làm muộn là vi phạm hành chính",
+            "Anh C bị mất năng lực hành vi dân sự lái xe máy đâm bị thương người đi đường là vi phạm hành chính"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Đâu là khẳng định không đúng?",
+        "answer": 3,
+        "choices": [
+            "Ý thức pháp luật có tính giai cấp",
+            "Tâm lý pháp luật là bộ phận mang tính bền vững, bảo thủ hơn so với tư tưởng pháp luật C. Trong một nhà nước dân chủ, chất lượng xây dựng pháp luật phụ thuộc vào ý thức pháp luật của những nhà làm luật và của người dân",
+            "Ý thức pháp luật sẽ quyết định các yếu tố của tồn tại xã hội"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau Đúng hay Sai? \"Khi thực hiện hành vi, không biết trước hành vi của mình là nguy hiểm cho xã hội thì không bị coi là có lỗi và không phải chịu trách nhiệm pháp lý\":",
+        "answer": 1,
+        "choices": [
+            "Đúng",
+            "Sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Đâu không phải là ví dụ về ý thức pháp luật?",
+        "answer": 2,
+        "choices": [
+            "Quan điểm của anh A là chủ cửa hàng tạp hoá về việc pháp luật nên cho phép những hộ kinh doanh nhỏ lẻ như nhà anh được bày bán hàng hoá ra vỉa hè ngay trước cửa nhà mình B. Quan điểm của học thuyết Mác-xít về nguồn gốc nhà nước",
+            "Tư tưởng Hồ Chí Minh về văn hoá",
+            "Đại biểu quốc hội B cho rằng các biện pháp bảo vệ trẻ em cần được quy định ở mức độ cao hơn và sớm hơn"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau đúng hay sai? \"Pháp luật có thể tác động tiêu cực đến ý thức pháp luật\"",
+        "answer": 1,
+        "choices": [
+            "Sai",
+            "Đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trường hợp nào không phải là một hình thức trách nhiệm pháp lý?",
+        "answer": 1,
+        "choices": [
+            "Cảnh cáo anh Y (15 tuổi) do điều khiển máy (xe moto)",
+            "Cưỡng chế thu hồi đất cảu gia đình xanh X để xây dựng kho tàng của lực lượng vũ tra nhân dân",
+            "Tạm đình chỉ hoạt động đối với quan karaoke HH do vi phạm quy định vè phòng cháy chữa cháy",
+            "Trục xuất anh J là người nước ngoài do anh J đã phạm tội trên lãnh thổ Việt Nam"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau Đúng hay Sai? \"Chủ thể không hành động thì không thể bị coi là vi phạm pháp luật\"",
+        "answer": 0,
+        "choices": [
+            "Sai",
+            "Đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau Đúng hay Sai? \"Toà án là cơ quan có thẩm quyền áp dụng các loại trách nhiệm pháp lý hình sự và trách nhiệm pháp lý hành chính\"",
+        "answer": 0,
+        "choices": [
+            "Sai",
+            "Đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau Đúng hay Sai? \"Ý thức pháp luật là một trong số những yếu tố cấu thành cơ bản của văn hoá pháp luật\"",
+        "answer": 0,
+        "choices": [
+            "Đúng",
+            "Sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Anh A là công chức của Uỷ ban nhân dân huyện. Anh A đã nhận hối lội để chạy biên chế cho con gái của anh C vào làm trong cơ quan của mình. Anh A đã vi phạm pháp luật loại gi?",
+        "answer": 1,
+        "choices": [
+            "Vi phạm pháp luật dân sự",
+            "Vi phạm pháp luật hình sự",
+            "Vi phạm pháp luật hành chính"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau Đúng hay Sai? \"Mọi hành vi trái pháp luật đều là hành vi vi phạm pháp luật\"",
+        "answer": 1,
+        "choices": [
+            "Đúng",
+            "Sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Một hành vi vi phạm pháp luật không thể đồng thời cùng bị truy cứu các loại trách nhiệm pháp lý nào?",
+        "answer": 1,
+        "choices": [
+            "Trách nhiệm pháp lý hình sự và dân sự",
+            "Trách nhiệm pháp lý hành chính và hình sự C. Trách nhiệm pháp lý kỷ luật và dân sự",
+            "Trách nhiệm pháp lý hình sự, dân sự và kỷ luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khẳng định sau Đúng hay Sai? \"Ý thức pháp luật được cấu thành từ Ý thức pháp luật thông thường, ý thức pháp luật có tính lý luận khoa học và ý thức pháp luật nghề nghiệp\":",
+        "answer": 1,
+        "choices": [
+            "Đúng",
+            "Sai"
+        ],
+        "links": {}
+    },
+    {
+        "question": "B nói: Tính trái pháp luật hình sự của tội phạm không phải là đặc điểm cơ bản và quan trọng nhất của tội phạm. C nói: Tính trái pháp luật hình sự của tội phạm là đặc điểm cơ bản và quan trọng nhất của tội phạm. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "B đúng",
+            "C đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "M nói người bị buộc tội có quyền những không buộc phải chứng minh mình vô tội. N nói người bị buộc tội có nghĩa vụ phải chưng minh là mình vô tội. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "M đúng",
+            "N đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A nói: Người đủ 14 tuổi có thể phải chịu trách nhiệm hình sự về tội giết người. B nói: Người đủ 14 tuổi chưa phải chịu trách nhiệm hình sự về tội giết người. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "B đúng",
+            "A đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG NHẤT:",
+        "answer": 1,
+        "choices": [
+            "Phương pháp điều chỉnh của luật dân sự là phương pháp thoả thuận kết hợp với phương pháp mệnh lệnh",
+            "Phương pháp điều chỉnh của luật dân sự là phương pháp tự định đoạt, tự do ý chí, tự chịu trách nhiệm, và các chủ thể được làm tất cả những gì luật không cấm",
+            "Phương pháp điều chỉnh của luật dân sự là phương pháp thoả thuận kết hợp với cấm đoán",
+            "Phương pháp điều chỉnh của luật dân sự là phương pháp thoả thuận kết hợp với trao quyền"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A cho B vay 200 triệu, đến hạn B không trả. Dù A đã vòi vài lần, B vẫn xin khất nợ do đang gặp khó khăn. A bực mình làm đơn tố cáo B gửi đến cơ quan công an về tội Lạm dụng tín nhiệm chiếm đoạt tài sản, yêu cầu xử lý hình sự đối với B. Hành vi làm đơn tố cáo của A là đúng hay sai, giải thích?",
+        "answer": 2,
+        "choices": [
+            "A làm đơn tố cáo B gửi đến cơ quan công an yêu cầu xử lý hình sự đối với B là sai vì Viện kiểm sát nhân dân mới có thẩm quyền giải quyết vụ việc này",
+            "A làm đơn tố cáo B gửi đến cơ quan công an yêu cầu xử lý hình sự đối với B là đúng vì hành vi của B thỏa mãn dấu hiệu của Tội lạm dụng tín nhiệm chiếm đoạt tài sản",
+            "A làm đơn tố cáo B gửi đến cơ quan công an yêu cầu xử lý hình sự đối với B là sai vì quan hệ vay nợ giữa A và B là quan hệ dân sự, thuộc đối tượng điều chỉnh của luật dân sự và hành vi của B chưa thỏa mãn dấu hiệu của Tội lạm dụng tín nhiệm chiếm đoạt tài sản",
+            "A làm đơn tố cáo B gửi đến cơ quan công an yêu cầu xử lý hình sự đối với B là sai vì quan hệ vay nợ giữa A và B là quan hệ pháp luật hành chính, A phải yêu cầu Ủy ban nhân dân giải quyết"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG NHẤT:",
+        "answer": 3,
+        "choices": [
+            "Luật hiến pháp là tổng thể các quy phạm điều chỉnh về tổ chức quyền lực nhà nước, nghĩa vụ công dân",
+            "Luật hiến pháp là tổng thể các quy phạm điều chỉnh về tổ chức quyền lực nhà nước",
+            "Luật hiến pháp là tổng thể các quy phạm điều chỉnh về Quốc hội",
+            "Luật hiến pháp là tổng thể các quy phạm điều chỉnh về tổ chức quyền lực nhà nước, quyền con người, quyền và nghĩa vụ của công dân"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là SAI:",
+        "answer": 1,
+        "choices": [
+            "Người nước ngoài cư trú ở Việt Nam phải tuân theo Hiến pháp và pháp luật Việt Nam",
+            "Người nước ngoài cư trú ở Việt Nam không phải nộp thuế",
+            "Người nước ngoài cư trú ở Việt Nam phải nộp thuế",
+            "Người nước ngoài cư trú ở Việt Nam được bảo hộ tính mạng, tài sản và các quyền, lợi ích chính đáng theo pháp luật Việt Nam"
+        ],
+        "links": {}
+    },
+    {
+        "question": "X nói thủ tục tố tụng giải quyết vụ án hình sự gồm có khởi tố, điều tra, truy tố và xét xử. Y nói thủ tục tố tụng giải quyết vụ án hình sự gồm có khởi tố, điều tra, truy tố và xét xử và thi hành án. Ai đúng? Giải thích?",
+        "answer": 1,
+        "choices": [
+            "X dúng",
+            "Y đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A nói pháp nhân thương mại chịu trách nhiệm hình sự thì cá nhân không phải chịu trách nhiệm. M nói pháp nhân thương mại chịu trách nhiệm hình sự không loại trừ trách nhiệm hình sự của cá nhân. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "A đúng",
+            "M đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "X nói phòng vệ chính đáng vẫn là tội phạm. Y nói phòng vệ chính đáng không phải là tội phạm. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "X dúng",
+            "Y đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A nói: Người nước ngoài phạm tội ở nước ngoài có thể phải chịu Trách nhiệm hình sự theo quy định của Bộ luật hình sự Việt Nam. B phản đối: Người nước ngoài phạm tội ở nước ngoài không phải chịu Trách nhiệm hình sự theo quy định của Bộ luật hình Việt Nam. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "B đúng",
+            "A đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG NHẤT:",
+        "answer": 0,
+        "choices": [
+            "Luật dân sự điều chỉnh các quan hệ nhân thân và quan hệ tài sản giữa các chủ thể bình đẳng với nhau về địa vị pháp lý",
+            "Luật dân sự điều chỉnh các quan hệ tài sản giữa các cá nhân, pháp nhân",
+            "Luật dân sự điểu chỉnh các quan hệ giữa Nhà nước và công dân liên quan đến quyền lợi công",
+            "Luật dân sự điều chỉnh quan hệ giữa các cá nhân với nhau liên quan đến quyền lợi tư"
+        ],
+        "links": {}
+    },
+    {
+        "question": "E nói tội phạm chỉ được quy định trong Bộ luật hình sự. M nói trong án lệ nếu có quy định về tội phạm mới thì vẫn phải áp dụng án lệ đó. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "E đúng",
+            "M đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "T nói người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điểu khiển hành vi của mình, thì không phải chịu trách nhiệm hình sự. H nói người thực hiện hành vi nguy hiểm cho xã hội trong khi đang mắc bệnh tâm thần hoặc một bệnh khác làm mất khả năng nhận thức hoặc khả năng điều khiển hành vi của mình, thì vẫn phải chịu trách nhiệm hình sự. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "H đúng",
+            "T đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "X nói người bị buộc tội được coi là không có tội cho đến khi được chứng minh theo trình tự, thủ tục do Bộ luật tố tụng hình sự quy định và có bản án kết tội của Toà án đã có hiệu lực pháp luật. M nói người bị buộc tội được coi là có tội ngay sau khi thực hiện hành vi phạm tội bị bắt quả tang. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "X đúng",
+            "M đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A mới chuyển đến căn biệt thự mới to đẹp, A rất tự hào nên thường xuyên mời bạn bè đến tổ chức tiệc tùng, hát hò nhảy múa thâu đêm rất ầm ĩ. Hàng xóm xung quanh bất bình, phàn nàn với tổ trưởng tổ dân phố và đề nghị A chấm dứt các hoạt động tiệc tùng ồn ào, nhưng A vẫ mặc kệ. Hãy chọn đáp án ĐÚNG cho tình huống này trong các trường hợp dưới đây:",
+        "answer": 2,
+        "choices": [
+            "Đề nghị của hàng xóm là sai vì A có toàn quyền sở hữu căn biệt thự và có thể làm bất kỳ điều gì mình muốn để hưởng thụ lợi ích từ chính tài sản của mình",
+            "Đề nghị của hàng xóm là sai vì hàng xóm không có quyền can thiệp vào đời sống riêng tư của A",
+            "Đề nghị của hàng xóm là đúng vì mặc dù A có quyền sở hữu căn biệt thự nhưng chủ sở hữu không được gây thiệt hại hoặc làm ảnh hưởng đến quyền, lợi ích hợp pháp của người khác",
+            "Đề nghị của hàng xóm là đúng vì hàng xóm cũng có quyền sử dụng nhất định đối với căn biệt của A"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là SAI:",
+        "answer": 0,
+        "choices": [
+            "Quyền con người cũng là quyền công dân",
+            "Công dân có trách nhiệm thực hiện nghĩa vụ đối với Nhà nước và xã hội",
+            "Mọi người có nghĩa vụ tôn trọng quyền của người khác",
+            "Quyền công dân không tách rời nghĩa vụ công dân"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A nói người tự ý nửa chừng chấm dứt việc phạm tội không được miễn trách nhiệm hình sự về tội định phạm. B nói người tự ý nửa chừng chấm dứt việc phạm tội được miễn trách nhiệm hình sự về tội định phạm. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "B đúng",
+            "A đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG:",
+        "answer": 1,
+        "choices": [
+            "Toà án nhân dân là cơ quan hành chính nhà nước",
+            "Chính phủ là cơ quan hành chính nhà nước",
+            "Tập đoàn Điện lực Việt Nam là cơ quan hành chính nhà nước",
+            "Quốc hội là cơ quan hành chính nhà nước"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Nhận định nào sau đây là ĐÚNG:",
+        "answer": 1,
+        "choices": [
+            "Luật tố tụng dân sự điều chỉnh các quan hệ có tính chất dân sự giữa các cá nhân phát sinh trong quá trình giải quyết các vụ việc dân sự tại Toà án và thi hành án dân sự",
+            "Luật tố tụng dân sự điều chỉnh các quan hệ phát sinh trong quá trình giải quyết các vụ việc dân sự tại Toà án và thi hành án dân sự",
+            "Luật tố tụng dân sự điều chỉnh quan hệ giữa các cơ quan nhà nước trong quá trình giải quyết các vụ việc dân sự tại Toà án và thi hành án dân sự",
+            "Luật tố tụng dân sự điều chỉnh các quan hệ phát sinh trong quá trình xử lý hành vi vi phạm pháp luật dân sự"
+        ],
+        "links": {}
+    },
+    {
+        "question": "X nói tù có thời hạn với người phạm tội có mức tối thiểu là 3 tháng và tối đa là 20 năm. Y nói tù có thời hạn với người phạm tội có mức tối thiểu là 6 tháng và tối đa là 30 năm. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "X đúng",
+            "Y đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A nói nguồn của luật hình sự chỉ có duy nhất Bộ luật hình sự. B phản đối nói rằng nguồn của luật hình sự có nhiều loại nguồn khác bao gồm điều ước quốc tế, tập quán, án lệ. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "B đúng",
+            "A đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG:",
+        "answer": 2,
+        "choices": [
+            "Toà hành chính là loại toà đặc biệt chỉ dành cho người làm việc trong cơ quan hành chính B. Toà hành chính là loại toà dành cho việc xét xử các vụ án hành chính, trong đó người khởi kiện chỉ có thể là công chức nhà nước",
+            "Toà hành chính là loại toà dành cho việc xét xử các vụ án hành chính, trong đó người khởi kiện có thể là cá nhân, tổ chức"
+        ],
+        "links": {}
+    },
+    {
+        "question": "C nói tội phạm phải là hành vi nguy hiểm cho xã hội, ý nghĩ, tư tưởng mà chưa biểu lộ ra bằng hành vi thì không phải là tội phạm. D phản đối nói rằng trong trường hợp không hành động thì không phải là hành vi như trốn thuế, không cứu người trong trường hợp người đó nguy hiểm đến tính mạng những vẫn là tội phạm. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "D đúng",
+            "C đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "A nói lỗi là dấu hiệu bắt buộc của mọi tội phạm. B nói có những trường hợp là tội phạm không nhất thiết phải có lỗi. Ai đúng?",
+        "answer": 1,
+        "choices": [
+            "B đúng",
+            "A đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Hoa khôi A và Đại gia B (đã có vợ) ký hợp đồng, thoả thuận rằng B sẽ chu chấp cho A một cuộc sống sung túc với 01 biệt thự sang trọng, tiền mặt 100 triệu đồng/tháng trong 7 năm, tổng giá trị lên tới 16,5 tỷ đồng, đổi lại, A phải chấp nhận làm \"vợ hai\" của B, phải \"ngoan\" và \"chiều\" B, phục vụ B bất cứ lúc nào B muốn. Thực hiện thoả thuận được gần 2 năm, B gặp người đẹp khác trẻ và hấp dẫn hơn A nên không còn chu cấp cho A như đã cam kết, A khởi kiện B ra Toà án yêu cầu B thực hiện đúng hợp đồng. Hãy chọn đáp án ĐÚNG cho tình huống này trong các đáp án dưới đây:",
+        "answer": 1,
+        "choices": [
+            "Tòa án sẽ chấp nhận yêu cầu của A và buộc B phải thực hiện đúng hợp đồng vì B đã vi phạm hợp đồng dân sự được ký kết giữa A và B",
+            "Tòa án không chấp nhận yêu cầu của A vì hợp đồng giữa A và B không có hiệu lực do vừa vi phạm điều cấm của bộ luật vừa trái đạo đức xã hội",
+            "Tòa án không chấp nhận yêu cầu của A vì yêu cầu này không thuộc thẩm quyền giải quyết của Tòa án mà thuộc thẩm quyền của cơ quan công an",
+            "Tòa án không chấp nhận yêu cầu của A vì yêu cầu này không thuộc thẩm quyền giải quyết của Tòa án mà thuộc thẩm quyền của Ủy ban nhân dân"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG:",
+        "answer": 0,
+        "choices": [
+            "Cá nhân, cơ quan, tổ chức nếu không đồng ý với quyết định hành chính, hành vi hành chính thì có quyền khởi kiện vụ án hành chính ra Toà án, không cần phải khiếu nại đến cơ quan có thẩm quyền giải quyết khiếu nại lần đầu rồi mới có quyền khởi kiện ra Toà án",
+            "Cá nhân, cơ quan, tổ chức nếu không đồng ý với quyết định hành chính, hành vi hành chính thì có quyền khởi kiện vụ án hành chính ra Toà án, bắt buộc phải khiếu nại đến cơ quan có thẩm quyền giải quyết khiếu nại lần đầu rồi mới có quyền khởi kiện ra Toà á"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận dịnh nào là ĐÚNG:",
+        "answer": 1,
+        "choices": [
+            "Các điều ước quốc tế không phải là nguồn của luật hành chính",
+            "Hiến pháp là nguồn của luật hành chính",
+            "Quyết định xử phạt vi phạm hành chính là nguồn của luật hành chíA",
+            "Hiến pháp không phải là nguồn của luật hành chính"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Anh P. Điểu khiển xe máy tham gia giao thông không đội mũ bảo hiểm và bị cảnh sát giao thông xử phạt hành chính. Không đồng ý với quyết định xử phạt, anh muốn đi khiếu nại những chưa hiểu rõ liệu nếu anh đi khiếu nại lần đầu mà không được giải quyết theo mong muốn thì liệu anh có tiếp tục khiếu nại nữa hay không? Hãy chọn đáp án ĐÚNG cho tình huống này trong các đáp án dưới đây:",
+        "answer": 0,
+        "choices": [
+            "Trường hợp cá nhân, cơ quan, tổ chức lựa chọn việc khiếu nại tại cơ quan hành chính thì khi hết thời hạn giải quyết theo quy định của pháp luật mà khiếu nại không được giải quyết hoặc đã được giải quyết nhưng họ không đồng ý với việc giải quyết khiếu nại lần đầu (hoặc lần hai) thì họ vẫn có quyền khởi kiện vụ án hành chính tại Tòa án",
+            "Trường hợp cá nhân, cơ quan, tổ chức lựa chọn việc khiếu nại tại cơ quan hành chính thì khi hết thời hạn giải quyết theo quy định của pháp luật mà khiếu nại không được giải quyết hoặc đã được giải quyết nhưng họ không đồng ý với việc giải quyết khiếu nại lần đầu (hoặc lần hai) thì họ không có quyền khởi kiện vụ án hành chính tại Tòa án"
+        ],
+        "links": {}
+    },
+    {
+        "question": "T nói cải tạo không giam giữ được áp dụng từ 6 tháng đến 3 năm. M nói cải tạo không giam giữ dược áp dụng từ 3 tháng đến 6 tháng. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "T đúng",
+            "M đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG:",
+        "answer": 3,
+        "choices": [
+            "Khi nhận được quyết định hành chính mà mình cho rằng sai trái, xâm phạm quyền lợi của mình, chỉ cá nhân có quyền khởi kiện hành chính",
+            "Khi nhận được quyết định hành chính mà mình cho rằng sai trái, xâm phạm quyền lợi của mình, cá nhân, tổ chức không có quyền khởi kiện hành chính",
+            "Khi nhận được quyết định hành chính mà mình cho rằng sai trái, xâm phạm quyền lợi của mình, cá nhân, tổ chức chỉ có quyền khiếu nại hành chính mà không có quyền kiện khởi kiện hành chính",
+            "Khi nhận được quyết định hành chính mà mình cho rằng sai trái, xâm phạm quyền lợi của mình, cá nhân, tổ chức có quyền khiếu nại và khởi kiện hành chính"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Ông A chết để lại di sản là một ngôi nhà 3 tầng trên diện tích 200 m2. B là con trai trưởng của A đang quản lý ngôi nhà đó, không muốn chia ngôi nhà cho những người con khác của A là C và D. Sau nhiều lần họp gia đình không thoả thuận thành công, C và D khởi kiện B ra Toà án yêu cầu chia di sản thừa kế của ông A. Toà án đã thụ ký vụ án và tiến hành hoà giải, B, C, D lại hoà giải được với nhau. Hãy chọn đáp án ĐÚNG cho tình huống này trong các đáp án dưới đây:",
+        "answer": 1,
+        "choices": [
+            "Tòa án sẽ không đưa vụ án ra xét xử mà sẽ công nhận sự thỏa thuận của B, C, D vì các đương sự trong tố tụng dân sự có quyền tự định đoạt đối với quyền, lợi ích của mình",
+            "Tòa án vẫn phải đưa vụ án ra xét xử vì các giai đoạn tố tụng dân sự bao gồm cả giai đoạn xét xử tại phiên tòa sơ thẩm",
+            "Tòa án sẽ không phải đưa vụ án ra xét xử vì đây là việc dân sự chứ không phải vụ án dân sự",
+            "Tòa án vẫn phải đưa vụ án ra xét xử vì một khi C, D đã khởi kiện B yêu cầu chia thừa kế thì họ không thể thỏa thuận với nhau để giải quyết tranh chấp được nữa mà phải để cho Tòa án phân xử"
+        ],
+        "links": {}
+    },
+    {
+        "question": "M nói phạt tiền vừa là hình phạt chính vừa là hình phạt bổ sung. X nói phạt tiền chỉ là hình phạt chính. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "M đúng",
+            "X dúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Bộ trưởng Bộ A ban hành quy định, theo đó mỗi cá nhân chỉ sở hữu một xe gắn máy. Hãy chọn đáp án ĐÚNG cho tình huống này trong các đáp án dưới đây:",
+        "answer": 1,
+        "choices": [
+            "Quy định của Bộ trưởng Bộ A là phù hợp với hiến pháp",
+            "Quy định của Bộ trưởng Bộ A là không phù hợp với hiến pháp"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là ĐÚNG NHẤT:",
+        "answer": 1,
+        "choices": [
+            "Nguồn của Luật Hiến pháp là tất cả các văn bản quy phạm pháp luật",
+            "Nguồn của Luật Hiến pháp là Hiến pháp, Các đạo luật về tổ chức bộ máy nhà nước, Một số văn bản quy phạm pháp luật khác và có thể là án lệ của toà hiến pháp, tập quán hoàng gia,v.v",
+            "Nguồn của Luật Hiến pháp là Hiến pháp",
+            "Nguồn của Luật Hiến pháp là đạo đức, tập quán trong xã hội"
+        ],
+        "links": {}
+    },
+    {
+        "question": "N nói tù chung thân không áp dụng đối với người dưới 18 tuổi phạm tội. M nói tù chung thân không áp dụng đối với người dưới 16 tuổi. Ai đúng?",
+        "answer": 0,
+        "choices": [
+            "N đúng",
+            "M đúng"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Nhận định nào sau đây là ĐÚNG:",
+        "answer": 3,
+        "choices": [
+            "Phương pháp điều chỉnh của luật tố tụng dân sự là phương pháp mệnh lệnh kết hợp với phương pháp tôn trọng quyền tự định đoạt của các đương sự",
+            "Phương pháp điều chỉnh của luật tố tụng dân sự là phương pháp mệnh lệnh kết hợp với phương pháp phối hợp-chế ước",
+            "Phương pháp điều chỉnh của luật tố tụng dân sự là phương pháp mệnh lệnh kết hợp với phương pháp cấm đoán",
+            "Phương pháp điều chỉnh của luật tố tụng dân sự là phương pháp mệnh lệnh kết hợp với phương pháp trao quyền"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chọn phương án Đúng trong các khẳng định sau:",
+        "answer": 0,
+        "choices": [
+            "Nhà nước pháp quyền được ghi nhận trong các Văn kiện của Đảng Cộng sản Việt Nam và trong Hiến pháp, pháp luật của nước Cộng hoà xã hội chủ nghĩa Việt Nam",
+            "Nhà nước pháp quyền chỉ được ghi nhận trong các Văn kiện của Đảng Cộng sản Việt Nam"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chọn phương án Đúng trong các khẳng định sau:",
+        "answer": 0,
+        "choices": [
+            "Nhà nước pháp quyền không phải là một kiểu nhà nước",
+            "Nhà nước pháp quyền là một kiểu nhà nước"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các đáp án dưới đây, đáp án nào ĐÚNG:",
+        "answer": 2,
+        "choices": [
+            "Pháp luật được đảm bảo thực hiện bằng các biện pháp cưỡng chế của các tổ chức chính trị - xã hội khác",
+            "Pháp luật được đảm bảo thực hiện bằng các biện pháp cưỡng chế của các nhóm xã hội tự nguyện thành lập",
+            "Pháp luật được đảm bảo thực hiện bằng các biện pháp cưỡng chế của nhà nước",
+            "Pháp luật được đảm bảo thực hiện bằng các biện pháp cưỡng chế của các cộng đồng dân cư"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các đáp án dưới đây, đáp án nào ĐÚNG:",
+        "answer": 2,
+        "choices": [
+            "Quy định pháp luật về thuế của nhà nước không có tính bắt buộc thực hiện",
+            "Các tổ chức chính trị - xã hội có quyền quy định và thu các loại thuế dưới hình thức bắt buộc",
+            "Chỉ có nhà nước mới có quyền quy định và thu các loại thuế dưới hình thức bắt buộc",
+            "Các tổ chức nghề nghiệp có quyền quy định và thu các loại thuế dưới hình thúc bắt buộc"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chọn phương án Đúng trong các khẳng định sau:",
+        "answer": 0,
+        "choices": [
+            "Nhà nước là tổ chức đặc biệt của quyền lực chính trị, có bộ máy chuyên cưỡng chế",
+            "Nhà nước là tổ chức đặc biệt của quyền lực chính trị, không có bộ máy chuyên cưỡng chế"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là Sai? Nhà nước pháp quyền có đặc trưng là:",
+        "answer": 0,
+        "choices": [
+            "Pháp luật được ban hành bởi các tổ chức xã hội",
+            "Tôn trọng, bảo vệ quyền và tự do của con người",
+            "Sự phân quyền trong tổ chức quyền lực nhà nước và sự giới hạn, kiểm soát quyền lực nhà nước bởi pháp luật",
+            "Thừa nhận tính tối cao của pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là Sai? Những đặc trưng cơ bản của nhà nước pháp quyền là:",
+        "answer": 0,
+        "choices": [
+            "Tất cả mọi quan hệ xã hội được điều chỉnh bằng pháp luật",
+            "Sự hiện diện của hệ thống pháp luật và pháp luật giữ vai trò tối thượng trọng xã hội",
+            "Sự phân quyền trong tổ chức quyền lực nhà nước và sự giới hạn, kiểm soát quyền lực nhà nước bởi pháp luật",
+            "Sự tôn trọng và bảo vệ quyền tự do của con người"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các nhận định dưới đây, nhận định nào là Sai? Phương hướng xây dựng và hoàn thiện nhà nước pháp quyền XHCN Việt Nam là:",
+        "answer": 1,
+        "choices": [
+            "Tổ chức quyền lực nhà nước thống nhất, có sự phân công rành mạch, phối hợp chặt chẽ, kiểm soát hiệu quả",
+            "Đổi mới hoạt động của các doanh nghiệp, tổ chức xã hội hoạt động trên lãnh thổ Việt Nam C. Tôn trọng, bảo đảm, bảo vệ quyền con người, quyền công dân",
+            "Hoàn thiện hệ thống pháp luật, thực hiện pháp luật nghiêm minh, nhất quán, thượng tôn Hiến pháp và pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chọn phương án Đúng trong các khẳng định sau:",
+        "answer": 0,
+        "choices": [
+            "Chính phủ là cơ quan nhà nước",
+            "Đoàn Thanh niên Cộng sản Hồ Chí Minh là cơ quan nhà nước"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các đáp án dưới đây, đáp án nào ĐÚNG?",
+        "answer": 3,
+        "choices": [
+            "Nhà nước không có đặc trưng riêng so với các tổ chức xã hội",
+            "Nhà nước chỉ có một đặc trưng riêng đó là có quyền ban hành pháp luật",
+            "Nhà nước chỉ có hai đặt trưng chủ yếu là: dân cư và lãnh thổ",
+            "Nhà nước có các đặc trung chủ yếu là: quyền lực chính trị công cộng đặc biệt, quản lý dân cư theo lãnh thổ, chủ quyền quốc gia, pháp luật, quy định và thu thuế thao hình thức bắt buộc"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quyền lực nhà nước thuộc về ai theo Hiến pháp 2013?",
+        "answer": 2,
+        "choices": [
+            "Quốc hội",
+            "Đảng Cộng sản Việt Nam",
+            "Nhân dân",
+            "Chính phủ"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Khái niệm Bộ máy nhà nước:",
+        "answer": 2,
+        "choices": [
+            "Tổ chức chính trị",
+            "Hệ thống doanh nghiệp nhà nước",
+            "Hệ thống các cơ quan nhà nước từ trung ương đến địa phương",
+            "Tổ chức xã hội dân sự"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chính phủ thực hiện quyền gì?",
+        "answer": 2,
+        "choices": [
+            "Quyền lập pháp",
+            "Quyền tư pháp",
+            "Quyền hành pháp",
+            "Quyền kiểm sát"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Quốc hội thực hiện chức năng nào dưới đây?",
+        "answer": 0,
+        "choices": [
+            "Quyền lập hiến và lập pháp",
+            "Quyền kiểm sát",
+            "Quyền hành pháp",
+            "Quyền tư pháp"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Nguyên tắc tổ chức và hoạt động của Bộ máy nhà nước không bao gồm?",
+        "answer": 0,
+        "choices": [
+            "Phân công quyền lực tối đa",
+            "Đảm bảo sự lãnh đạo của Đảng",
+            "Quyền lực nhà nước thuộc về nhân dân",
+            "Quyền lực nhà nước là thống nhất"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Cơ quan nào có nhiệm vụ tổ chức bầu cử đại biểu Quốc hội?",
+        "answer": 3,
+        "choices": [
+            "Viện kiểm sát nhân dân tối cao",
+            "Chính phủ",
+            "Toà án nhân dân tối cao",
+            "Hội đồng bầu cử quốc gia"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chức năng cơ bản của nhà nước không bao gồm?",
+        "answer": 2,
+        "choices": [
+            "Chức năng kinh tế",
+            "Chức năng xã hội",
+            "Chức năng du lịch",
+            "Chức năng giáo dục"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chức năng của Viện Kiểm sát nhân dân là gì?",
+        "answer": 2,
+        "choices": [
+            "Kiểm sát việc tuân thủ pháp luật",
+            "Lập pháp",
+            "Thực hành quyền công tố và kiểm sát hoạt động tư pháp",
+            "Hành pháp"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Cơ quan nào là chủ thể thực hiện quyền tư pháp?",
+        "answer": 3,
+        "choices": [
+            "Viện kiểm sát",
+            "Quốc hội",
+            "Chính phủ",
+            "Toà án"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Nguyên tắc quyền lực nhà nước thuộc về nhân dân thể hiện qua hình thức nào?",
+        "answer": 0,
+        "choices": [
+            "Dân chủ trực tiếp và dân chủ đại diện",
+            "Hệ thống tư pháp độc lập",
+            "Sự lãnh đạo của Đảng Cộng sản Việt Nam",
+            "Quyền kiểm soát của chính phủ"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chủ tịch nước thực hiện vai trò gì?",
+        "answer": 2,
+        "choices": [
+            "Người đứng đầu toà án",
+            "Người đứng đầu quốc hội",
+            "Người đứng đầu nhà nước",
+            "Người đứng đầu chính phủ"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chức năng của Quốc hội không bao gồm?",
+        "answer": 2,
+        "choices": [
+            "Quyết định các vấn đề quan trọng của đất nước",
+            "Quyền giám sát tối cao",
+            "Quyền hành pháp",
+            "Quyền lập pháp"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Điều 4 Hiến pháp 2013 quy định về vai trò của:",
+        "answer": 3,
+        "choices": [
+            "Chính phủ",
+            "Quốc hội",
+            "Toà án nhân dân",
+            "Đảng Cộng sản Việt Nam"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Các đáp án dưới đây, đáp án nào SAI:",
+        "answer": 2,
+        "choices": [
+            "Tính quy phạm phổ biến có nghĩa là pháp luật được áp dụng nhiều lần và hiệu lực không mất đi sau khi đã áp dụng",
+            "Pháp luật có tính bắt buộc chung với phạm vi rộng rãi hơn các quy tắc tập quán, điều lệ hiệp hội",
+            "Tính quy phạm phổ biến có nghĩa là pháp luật được thể hiện dưới các hình thức pháp lý, văn phong, ngôn ngữ hết sức chặt chẽ",
+            "Tính quy phạm phổ biến có nghĩa là pháp luật có phạm vi áp dụng rộng rãi đối với mọi cá nhân, tổ chức thuộc phạm vi điều chỉnh của pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong những đáp án dưới đây, đáp án nào ĐÚNG:",
+        "answer": 0,
+        "choices": [
+            "Bộ luật do Quốc hội ban hành",
+            "Bộ luật do Uỷ ban thường vụ Quốc hội ban hành",
+            "Bộ luật do Chủ tịch nước ban hành",
+            "Bộ luật do Chính phủ ban hành"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Các đáp án dưới đây, đáp án nào SAI:",
+        "answer": 2,
+        "choices": [
+            "Pháp luật hình thành từ các tập quán trong cộng đồng và được nhà nước thừa nhận có giá trị áp dụng trong việc điều chỉnh các quan hệ xã hội",
+            "Pháp luật là tổng thể các quy tắc được thừa nhận, ban hành và bảo đảm thực hiện bởi nhà nước",
+            "Pháp luật là tổng thể các quy tắc được thừa nhận bởi toàn thể cộng đồng và chỉ được thực hiện dựa trên sự tự nguyện và sức mạnh của toàn thể cộng đồng trong xã hội",
+            "Pháp luật hình thành từ các quyết định pháp lý do toà án ban hành và được nhà nước thừa nhận áp dụng cho các trường hợp tương tự về sau"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Điều ước quốc tế:",
+        "answer": 3,
+        "choices": [
+            "Là nguồn luật cao nhất được áp dụng trong một quốc gia",
+            "Là kết quả của hoạt động xét xử của các tổ chức tài phán quốc tế",
+            "Là các tập quán thương mại được hình thành nên trong hoạt động lưu thông kinh tế giữa các quốc gia",
+            "Là các văn bản pháp lý chứa đựng các quy phạm do các chủ thể luật quốc tế thoả thuận ban hành, làm phát sinh, thay đổi hay chấm dứt quyền và nghĩa vụ của các bên trong quan hệ quốc tế"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong các câu sau, câu nào SAI:",
+        "answer": 1,
+        "choices": [
+            "Hiến pháp là luật gốc, luật cơ bản của quốc gia",
+            "Hiến pháp là văn bản quy phạm pháp luật do Uỷ ban thường vụ Quốc hội ban hành",
+            "Hiến pháp có hiệu lực pháp lý cao nhất trong hệ thống pháp quốc gia",
+            "Hiến pháp là cơ sở nền tảng cho toàn bộ hệ thống pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong số các văn bản sau sau đây, văn bản nào KHÔNG phải là văn bản quy phạm pháp luật:",
+        "answer": 3,
+        "choices": [
+            "Luật do Quốc hội ban hành",
+            "Nghị quyết do Hội đồng nhân dân ban hành",
+            "Nghị định do Chính phủ ban hành",
+            "Bản án, quyết định của toà án"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Các đáp án dưới đây, đáp án nào SAI:",
+        "answer": 2,
+        "choices": [
+            "Pháp luật được thể hiện dưới các hình thức xác định chặt chẽ",
+            "Pháp luật là hệ thống quy tắc xử sự nhằm điều chỉnh các quan hệ trong xã hội",
+            "Pháp luật chỉ là hệ thống các quy tắc xử sự chung do nhà nước ban hành",
+            "Pháp luật được bảo đảm thực hiện bằng nhà nước"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong những đáp án dưới đây, đáp án nào ĐÚNG:",
+        "answer": 2,
+        "choices": [
+            "Ai cũng có thể ban hành văn bản quy phạm pháp luật và đó là biểu hiện của nền dân chủ",
+            "Điều lệ Đảng là loại văn quy phạm pháp luật",
+            "Pháp luật có chức năng giáo dục",
+            "Án lệ là loại văn bản quy phạm pháp luật"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Án lệ:",
+        "answer": 3,
+        "choices": [
+            "Là các văn bản của Quốc hội ban hành trong lĩnh vực xét xử",
+            "Là một loại văn bản quy phạm pháp luật do toà án án ban hành",
+            "Là sản phẩm của hoạt động hành chính, được cơ quan hành chính thừa nhận như khuôn mẫu để áp dụng cho hững trường hợp tương tự về sau",
+            "Là sản phẩm của hoạt động xét sử, do toà án tạo lập trong quá trình giải quyết các vụ việc cụ thể, được cơ nhà nước thừa nhận như khuôn mẫu để giải quyết những vụ việc tương tự về sau"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Trong số các đáp án dưới đây, đáp án nào KHÔNG ĐÚNG:",
+        "answer": 2,
+        "choices": [
+            "Văn bản quy phạm pháp luật là loại nguồn pháp luật của Việt Nam",
+            "Án lệ là nguồn pháp luật của Việt Nam",
+            "Học thuyết pháp lý là nguồn pháp luật của Việt Nam",
+            "Tập quán pháp là loại nguồn pháp luật của Việt Nam"
+        ],
+        "links": {}
+    },
+    {
+        "question": "Chấp hành pháp luật được hiểu là:",
+        "answer": 2,
+        "choices": [
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật kiềm chế không tiến hành các hoạt động mà pháp luật cấm",
+            "Là hình thức thực hiện pháp luật của các cơ quan nhà nước, nhà chức trách có thẩm hoặc tổ chức xã hội được nhà nước trao quyền",
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật tiến hành các hoạt động mà pháp luật buộc phải làm bằng hành động tích cực",
+            "Là hình thức thực hiện pháp luật, trong đó các chủ thể pháp luật tiến hành những hoạt động mà pháp luật cho phép"
+        ],
+        "links": {}
+    }
+]
